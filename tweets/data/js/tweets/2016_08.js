@@ -1,6 +1,1423 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Sat Aug 27 19:49:26 +0000 2016",
+		"id": 769622871996035100,
+		"id_str": "769622871996035072",
+		"text": "RT @LorettoCare: Great community day at Craigneuk transforming the garden. With @GrowWildScot https://t.co/Tj2BxrWJoK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LorettoCare",
+					"name": "Loretto Care",
+					"id": 555833442,
+					"id_str": "555833442",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "GrowWildScot",
+					"name": "Grow Wild Scotland",
+					"id": 2449580234,
+					"id_str": "2449580234",
+					"indices": [
+						80,
+						93
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 769523172085563400,
+					"id_str": "769523172085563395",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/Cq3lP3aXgAMnMmb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cq3lP3aXgAMnMmb.jpg",
+					"url": "https://t.co/Tj2BxrWJoK",
+					"display_url": "pic.twitter.com/Tj2BxrWJoK",
+					"expanded_url": "https://twitter.com/LorettoCare/status/769523280030081024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1224,
+							"h": 1632,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 769523280030081000,
+					"source_status_id_str": "769523280030081024",
+					"source_user_id": 555833442,
+					"source_user_id_str": "555833442"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 769523172085563400,
+					"id_str": "769523172085563395",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/Cq3lP3aXgAMnMmb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cq3lP3aXgAMnMmb.jpg",
+					"url": "https://t.co/Tj2BxrWJoK",
+					"display_url": "pic.twitter.com/Tj2BxrWJoK",
+					"expanded_url": "https://twitter.com/LorettoCare/status/769523280030081024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1224,
+							"h": 1632,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 769523280030081000,
+					"source_status_id_str": "769523280030081024",
+					"source_user_id": 555833442,
+					"source_user_id_str": "555833442"
+				},
+				{
+					"id": 769523193207980000,
+					"id_str": "769523193207980032",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/Cq3lRGGWAAAhkJp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cq3lRGGWAAAhkJp.jpg",
+					"url": "https://t.co/Tj2BxrWJoK",
+					"display_url": "pic.twitter.com/Tj2BxrWJoK",
+					"expanded_url": "https://twitter.com/LorettoCare/status/769523280030081024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1224,
+							"h": 1632,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 769523280030081000,
+					"source_status_id_str": "769523280030081024",
+					"source_user_id": 555833442,
+					"source_user_id_str": "555833442"
+				},
+				{
+					"id": 769523225307058200,
+					"id_str": "769523225307058176",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/Cq3lS9rXEAAiZdy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cq3lS9rXEAAiZdy.jpg",
+					"url": "https://t.co/Tj2BxrWJoK",
+					"display_url": "pic.twitter.com/Tj2BxrWJoK",
+					"expanded_url": "https://twitter.com/LorettoCare/status/769523280030081024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 769523280030081000,
+					"source_status_id_str": "769523280030081024",
+					"source_user_id": 555833442,
+					"source_user_id_str": "555833442"
+				},
+				{
+					"id": 769523255623417900,
+					"id_str": "769523255623417857",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/Cq3lUunWAAEGCAj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cq3lUunWAAEGCAj.jpg",
+					"url": "https://t.co/Tj2BxrWJoK",
+					"display_url": "pic.twitter.com/Tj2BxrWJoK",
+					"expanded_url": "https://twitter.com/LorettoCare/status/769523280030081024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 769523280030081000,
+					"source_status_id_str": "769523280030081024",
+					"source_user_id": 555833442,
+					"source_user_id_str": "555833442"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3510,
+			"friends_count": 2249,
+			"listed_count": 274,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 2679,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14464,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 27 13:13:41 +0000 2016",
+			"id": 769523280030081000,
+			"id_str": "769523280030081024",
+			"text": "Great community day at Craigneuk transforming the garden. With @GrowWildScot https://t.co/Tj2BxrWJoK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GrowWildScot",
+						"name": "Grow Wild Scotland",
+						"id": 2449580234,
+						"id_str": "2449580234",
+						"indices": [
+							63,
+							76
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 769523172085563400,
+						"id_str": "769523172085563395",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/Cq3lP3aXgAMnMmb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cq3lP3aXgAMnMmb.jpg",
+						"url": "https://t.co/Tj2BxrWJoK",
+						"display_url": "pic.twitter.com/Tj2BxrWJoK",
+						"expanded_url": "https://twitter.com/LorettoCare/status/769523280030081024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1224,
+								"h": 1632,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 769523172085563400,
+						"id_str": "769523172085563395",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/Cq3lP3aXgAMnMmb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cq3lP3aXgAMnMmb.jpg",
+						"url": "https://t.co/Tj2BxrWJoK",
+						"display_url": "pic.twitter.com/Tj2BxrWJoK",
+						"expanded_url": "https://twitter.com/LorettoCare/status/769523280030081024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1224,
+								"h": 1632,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 769523193207980000,
+						"id_str": "769523193207980032",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/Cq3lRGGWAAAhkJp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cq3lRGGWAAAhkJp.jpg",
+						"url": "https://t.co/Tj2BxrWJoK",
+						"display_url": "pic.twitter.com/Tj2BxrWJoK",
+						"expanded_url": "https://twitter.com/LorettoCare/status/769523280030081024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1224,
+								"h": 1632,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 769523225307058200,
+						"id_str": "769523225307058176",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/Cq3lS9rXEAAiZdy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cq3lS9rXEAAiZdy.jpg",
+						"url": "https://t.co/Tj2BxrWJoK",
+						"display_url": "pic.twitter.com/Tj2BxrWJoK",
+						"expanded_url": "https://twitter.com/LorettoCare/status/769523280030081024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 769523255623417900,
+						"id_str": "769523255623417857",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/Cq3lUunWAAEGCAj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cq3lUunWAAEGCAj.jpg",
+						"url": "https://t.co/Tj2BxrWJoK",
+						"display_url": "pic.twitter.com/Tj2BxrWJoK",
+						"expanded_url": "https://twitter.com/LorettoCare/status/769523280030081024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 555833442,
+				"id_str": "555833442",
+				"name": "Loretto Care",
+				"screen_name": "LorettoCare",
+				"location": "Scotland",
+				"description": "We provide high quality housing support, care at home and care home services across Scotland.",
+				"url": "https://t.co/SePnSkjZt8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SePnSkjZt8",
+								"expanded_url": "https://www.lorettoha.co.uk",
+								"display_url": "lorettoha.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 369,
+				"friends_count": 190,
+				"listed_count": 12,
+				"created_at": "Tue Apr 17 07:05:00 +0000 2012",
+				"favourites_count": 183,
+				"utc_offset": 3600,
+				"time_zone": "Edinburgh",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 831,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/601509935/amf6j70t03autgceb86i.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/601509935/amf6j70t03autgceb86i.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/757514087316197377/739nELDH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/757514087316197377/739nELDH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/555833442/1457696709",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 27 18:35:37 +0000 2016",
+		"id": 769604296971255800,
+		"id_str": "769604296971255808",
+		"text": "More grist https://t.co/dIcnzGDvnC https://t.co/3kVzYk6guc",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dIcnzGDvnC",
+					"expanded_url": "https://hapgood.us/2016/08/26/the-dwindling-promise-of-social-media/",
+					"display_url": "hapgood.us/2016/08/26/the…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 769604293074755600,
+					"id_str": "769604293074755586",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/Cq4vBupWIAI3DB_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cq4vBupWIAI3DB_.jpg",
+					"url": "https://t.co/3kVzYk6guc",
+					"display_url": "pic.twitter.com/3kVzYk6guc",
+					"expanded_url": "https://twitter.com/johnjohnston/status/769604296971255808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 690,
+							"h": 765,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 613,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 690,
+							"h": 765,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 769604293074755600,
+					"id_str": "769604293074755586",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/Cq4vBupWIAI3DB_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cq4vBupWIAI3DB_.jpg",
+					"url": "https://t.co/3kVzYk6guc",
+					"display_url": "pic.twitter.com/3kVzYk6guc",
+					"expanded_url": "https://twitter.com/johnjohnston/status/769604296971255808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 690,
+							"h": 765,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 613,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 690,
+							"h": 765,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/oneshot\" rel=\"nofollow\">OneShot - Take screenshots</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3510,
+			"friends_count": 2249,
+			"listed_count": 274,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 2679,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14464,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 27 16:54:18 +0000 2016",
+		"id": 769578800615153700,
+		"id_str": "769578800615153664",
+		"text": "RT @ScotEdChat: Rebooting #scotedchat Twitter chat. Please RT and respond. https://t.co/MBYkcw46N7 @GilchristGeorge @derekrobertson @robfma…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "scotedchat",
+					"indices": [
+						26,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ScotEdChat",
+					"name": "#ScotEdChat",
+					"id": 459280348,
+					"id_str": "459280348",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "GilchristGeorge",
+					"name": "George Gilchrist",
+					"id": 436964891,
+					"id_str": "436964891",
+					"indices": [
+						99,
+						115
+					]
+				},
+				{
+					"screen_name": "derekrobertson",
+					"name": "Derek P Robertson",
+					"id": 8894072,
+					"id_str": "8894072",
+					"indices": [
+						116,
+						131
+					]
+				},
+				{
+					"screen_name": "robfmac",
+					"name": "RobertMacmillan",
+					"id": 20681827,
+					"id_str": "20681827",
+					"indices": [
+						132,
+						140
+					]
+				},
+				{
+					"screen_name": "johnjohnston",
+					"name": "john johnston",
+					"id": 7484192,
+					"id_str": "7484192",
+					"indices": [
+						139,
+						140
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MBYkcw46N7",
+					"expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLSd0rwwvXjLBWHFGY-YgMttcPtgFoZjzqJMYq9uU4kzXEZGZEw/viewform?c=0&w=1",
+					"display_url": "docs.google.com/forms/d/e/1FAI…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3510,
+			"friends_count": 2249,
+			"listed_count": 274,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 2679,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14464,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 27 12:19:23 +0000 2016",
+			"id": 769509613628747800,
+			"id_str": "769509613628747776",
+			"text": "Rebooting #scotedchat Twitter chat. Please RT and respond. https://t.co/MBYkcw46N7 @GilchristGeorge @derekrobertson @robfmac @johnjohnston",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "scotedchat",
+						"indices": [
+							10,
+							21
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GilchristGeorge",
+						"name": "George Gilchrist",
+						"id": 436964891,
+						"id_str": "436964891",
+						"indices": [
+							83,
+							99
+						]
+					},
+					{
+						"screen_name": "derekrobertson",
+						"name": "Derek P Robertson",
+						"id": 8894072,
+						"id_str": "8894072",
+						"indices": [
+							100,
+							115
+						]
+					},
+					{
+						"screen_name": "robfmac",
+						"name": "RobertMacmillan",
+						"id": 20681827,
+						"id_str": "20681827",
+						"indices": [
+							116,
+							124
+						]
+					},
+					{
+						"screen_name": "johnjohnston",
+						"name": "john johnston",
+						"id": 7484192,
+						"id_str": "7484192",
+						"indices": [
+							125,
+							138
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/MBYkcw46N7",
+						"expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLSd0rwwvXjLBWHFGY-YgMttcPtgFoZjzqJMYq9uU4kzXEZGZEw/viewform?c=0&w=1",
+						"display_url": "docs.google.com/forms/d/e/1FAI…",
+						"indices": [
+							59,
+							82
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 459280348,
+				"id_str": "459280348",
+				"name": "#ScotEdChat",
+				"screen_name": "ScotEdChat",
+				"location": "Scotland",
+				"description": "We're discussing education in Scotland & ways to improve. Join in #ScotEdChat Tweets by @MrsPert1 @athole @rjnicolson",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2615,
+				"friends_count": 722,
+				"listed_count": 39,
+				"created_at": "Mon Jan 09 13:50:01 +0000 2012",
+				"favourites_count": 694,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2931,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/701566196789989377/wT1h1tFb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/701566196789989377/wT1h1tFb_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 27 09:42:45 +0000 2016",
+		"id": 769470196981567500,
+		"id_str": "769470196981567488",
+		"text": "Removal of old e-Portfolio Themes https://t.co/oCplBnIfAz #GlowBlogs #GlowScot",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GlowBlogs",
+					"indices": [
+						58,
+						68
+					]
+				},
+				{
+					"text": "GlowScot",
+					"indices": [
+						69,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oCplBnIfAz",
+					"expanded_url": "https://blogs.glowscotland.org.uk/glowblogs/glowbloghelp/2016/08/27/removal-of-old-e-portfolio-themes/",
+					"display_url": "blogs.glowscotland.org.uk/glowblogs/glow…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3510,
+			"friends_count": 2249,
+			"listed_count": 274,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 2679,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14464,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 27 08:42:34 +0000 2016",
+		"id": 769455050162831400,
+		"id_str": "769455050162831361",
+		"text": "don't know what is on #ds106radio this morning but it makes #DS106 Gif TV sound good: https://t.co/Iyxq2pNijo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ds106radio",
+					"indices": [
+						22,
+						33
+					]
+				},
+				{
+					"text": "DS106",
+					"indices": [
+						60,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Iyxq2pNijo",
+					"expanded_url": "http://johnjohnston.info/ds106giftv/",
+					"display_url": "johnjohnston.info/ds106giftv/",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3510,
+			"friends_count": 2249,
+			"listed_count": 274,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 2679,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14464,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 27 06:16:19 +0000 2016",
+		"id": 769418245929574400,
+		"id_str": "769418245929574406",
+		"text": "@twoodwar logged on submission worked fine here, iPad mobile safari, https://t.co/gUWNnNige1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "twoodwar",
+					"name": "Tom Woodward",
+					"id": 10076902,
+					"id_str": "10076902",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gUWNnNige1",
+					"expanded_url": "http://augmenting.me/blackout/poems/a-womans-war-by-warwick-deeping/carved-text-books-contribut/",
+					"display_url": "augmenting.me/blackout/poems…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 768922374486028300,
+		"in_reply_to_status_id_str": "768922374486028292",
+		"in_reply_to_user_id": 10076902,
+		"in_reply_to_user_id_str": "10076902",
+		"in_reply_to_screen_name": "twoodwar",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3510,
+			"friends_count": 2249,
+			"listed_count": 274,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 2679,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14464,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 26 23:52:12 +0000 2016",
 		"id": 769321580866535400,
 		"id_str": "769321580866535424",
