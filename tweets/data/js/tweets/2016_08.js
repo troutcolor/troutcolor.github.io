@@ -1,6 +1,518 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Wed Aug 31 08:48:05 +0000 2016",
+		"id": 770905990447398900,
+		"id_str": "770905990447398912",
+		"text": "RT @derekrobertson: A novel way to engender positivity to #glow on the PGDE teacher ed programme @dundeeuni!! @EducationScot #scotedchat ht…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "glow",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "scotedchat",
+					"indices": [
+						125,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "derekrobertson",
+					"name": "Derek P Robertson",
+					"id": 8894072,
+					"id_str": "8894072",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "dundeeuni",
+					"name": "University of Dundee",
+					"id": 34934712,
+					"id_str": "34934712",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"screen_name": "EducationScot",
+					"name": "Education Scotland",
+					"id": 314003959,
+					"id_str": "314003959",
+					"indices": [
+						110,
+						124
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GSm3ypqJB5",
+					"expanded_url": "https://twitter.com/misswielbo/status/770897615743516672",
+					"display_url": "twitter.com/misswielbo/sta…",
+					"indices": [
+						139,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3517,
+			"friends_count": 2252,
+			"listed_count": 275,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 2698,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14491,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 31 08:22:36 +0000 2016",
+			"id": 770899578040229900,
+			"id_str": "770899578040229888",
+			"text": "A novel way to engender positivity to #glow on the PGDE teacher ed programme @dundeeuni!! @EducationScot #scotedchat https://t.co/GSm3ypqJB5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "glow",
+						"indices": [
+							38,
+							43
+						]
+					},
+					{
+						"text": "scotedchat",
+						"indices": [
+							105,
+							116
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dundeeuni",
+						"name": "University of Dundee",
+						"id": 34934712,
+						"id_str": "34934712",
+						"indices": [
+							77,
+							87
+						]
+					},
+					{
+						"screen_name": "EducationScot",
+						"name": "Education Scotland",
+						"id": 314003959,
+						"id_str": "314003959",
+						"indices": [
+							90,
+							104
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/GSm3ypqJB5",
+						"expanded_url": "https://twitter.com/misswielbo/status/770897615743516672",
+						"display_url": "twitter.com/misswielbo/sta…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8894072,
+				"id_str": "8894072",
+				"name": "Derek P Robertson",
+				"screen_name": "derekrobertson",
+				"location": "Dundee, Scotland",
+				"description": "Teacher & University lecturer interested in learning & GBL. The views & opinions contained herein are entirely my own. RTs not necessarily an endorsement.",
+				"url": "http://t.co/RL8heIW5pP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/RL8heIW5pP",
+								"expanded_url": "http://hotmilkydrink.typepad.com/",
+								"display_url": "hotmilkydrink.typepad.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4858,
+				"friends_count": 2832,
+				"listed_count": 219,
+				"created_at": "Sat Sep 15 09:50:01 +0000 2007",
+				"favourites_count": 3359,
+				"utc_offset": 3600,
+				"time_zone": "Europe/London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23117,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3C2C22",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/688398613/0c3c2d31e13e3c9ad5cb1b19f724ce1f.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/688398613/0c3c2d31e13e3c9ad5cb1b19f724ce1f.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/632204940098830337/X6LLya1x_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/632204940098830337/X6LLya1x_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8894072/1470238991",
+				"profile_link_color": "7A5C45",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "281E17",
+				"profile_text_color": "54493E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 770897615743516700,
+			"quoted_status_id_str": "770897615743516672",
+			"quoted_status": {
+				"created_at": "Wed Aug 31 08:14:48 +0000 2016",
+				"id": 770897615743516700,
+				"id_str": "770897615743516672",
+				"text": "A wee singalong to start to the morning with @derekrobertson &amp; @richardjholme #uodedu #bringmeglow https://t.co/D2bt6tctvQ",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "uodedu",
+							"indices": [
+								82,
+								89
+							]
+						},
+						{
+							"text": "bringmeglow",
+							"indices": [
+								90,
+								102
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "derekrobertson",
+							"name": "Derek P Robertson",
+							"id": 8894072,
+							"id_str": "8894072",
+							"indices": [
+								45,
+								60
+							]
+						},
+						{
+							"screen_name": "richardjholme",
+							"name": "Richard Holme",
+							"id": 209598541,
+							"id_str": "209598541",
+							"indices": [
+								67,
+								81
+							]
+						}
+					],
+					"urls": [],
+					"media": [
+						{
+							"id": 770897181490446300,
+							"id_str": "770897181490446336",
+							"indices": [
+								103,
+								126
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/770897181490446336/pu/img/BmwsdadX8UDJhsmk.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/770897181490446336/pu/img/BmwsdadX8UDJhsmk.jpg",
+							"url": "https://t.co/D2bt6tctvQ",
+							"display_url": "pic.twitter.com/D2bt6tctvQ",
+							"expanded_url": "https://twitter.com/misswielbo/status/770897615743516672/video/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 600,
+									"h": 338,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 191,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1024,
+									"h": 576,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 770897181490446300,
+							"id_str": "770897181490446336",
+							"indices": [
+								103,
+								126
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/770897181490446336/pu/img/BmwsdadX8UDJhsmk.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/770897181490446336/pu/img/BmwsdadX8UDJhsmk.jpg",
+							"url": "https://t.co/D2bt6tctvQ",
+							"display_url": "pic.twitter.com/D2bt6tctvQ",
+							"expanded_url": "https://twitter.com/misswielbo/status/770897615743516672/video/1",
+							"type": "video",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 600,
+									"h": 338,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 191,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1024,
+									"h": 576,
+									"resize": "fit"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									16,
+									9
+								],
+								"duration_millis": 34345,
+								"variants": [
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/ext_tw_video/770897181490446336/pu/pl/U4xJPgtzgcEbeJVy.m3u8"
+									},
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/770897181490446336/pu/vid/640x360/RDkuO_nN7D1SN19P.mp4"
+									},
+									{
+										"bitrate": 2176000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/770897181490446336/pu/vid/1280x720/AJsdXDGNLT2WKyjf.mp4"
+									},
+									{
+										"bitrate": 320000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/770897181490446336/pu/vid/320x180/lTiN8ze7HRfe75QN.mp4"
+									},
+									{
+										"content_type": "application/dash+xml",
+										"url": "https://video.twimg.com/ext_tw_video/770897181490446336/pu/pl/U4xJPgtzgcEbeJVy.mpd"
+									}
+								]
+							},
+							"additional_media_info": {
+								"monetizable": false
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 764906586523459600,
+					"id_str": "764906586523459584",
+					"name": "Hannah",
+					"screen_name": "misswielbo",
+					"location": "Scotland, United Kingdom",
+					"description": "PGDE Primary Education student at @dundeeuni - cups of tea will be my saviour this year. All thoughts my own.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 60,
+					"friends_count": 85,
+					"listed_count": 1,
+					"created_at": "Sun Aug 14 19:28:36 +0000 2016",
+					"favourites_count": 37,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 27,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/764913034255069185/zB6e5mem_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/764913034255069185/zB6e5mem_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/764906586523459584/1471207664",
+					"profile_link_color": "2B7BB9",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 8,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 6,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 770897615743516700,
+		"quoted_status_id_str": "770897615743516672",
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 30 18:57:11 +0000 2016",
 		"id": 770696886114287600,
 		"id_str": "770696886114287616",
