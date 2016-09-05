@@ -1,6 +1,686 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Sun Sep 04 20:00:32 +0000 2016",
+		"id": 772524767605850100,
+		"id_str": "772524767605850112",
+		"text": "RT @KarlBarrs: Want to hear my P7 class play a SHOWADDYWADDY classic on their ukuleles? Happy Friday everyone! https://t.co/Rr5B7oV8B2 #aud…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "audio",
+					"indices": [
+						135,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KarlBarrs",
+					"name": "Karl Barrs",
+					"id": 256207367,
+					"id_str": "256207367",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "chirbit",
+					"name": "chirbit",
+					"id": 16877125,
+					"id_str": "16877125",
+					"indices": [
+						139,
+						140
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Rr5B7oV8B2",
+					"expanded_url": "http://chirb.it/6rspLq",
+					"display_url": "chirb.it/6rspLq",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3519,
+			"friends_count": 2255,
+			"listed_count": 276,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 2709,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14503,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 01 21:52:48 +0000 2016",
+			"id": 771465857964834800,
+			"id_str": "771465857964834816",
+			"text": "Want to hear my P7 class play a SHOWADDYWADDY classic on their ukuleles? Happy Friday everyone! https://t.co/Rr5B7oV8B2 #audio via @chirbit",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "audio",
+						"indices": [
+							120,
+							126
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "chirbit",
+						"name": "chirbit",
+						"id": 16877125,
+						"id_str": "16877125",
+						"indices": [
+							131,
+							139
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Rr5B7oV8B2",
+						"expanded_url": "http://chirb.it/6rspLq",
+						"display_url": "chirb.it/6rspLq",
+						"indices": [
+							96,
+							119
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 256207367,
+				"id_str": "256207367",
+				"name": "Karl Barrs",
+				"screen_name": "KarlBarrs",
+				"location": "Fife, Scotland",
+				"description": "Primary Teacher.Loves inspiring+engaging pupils. Hates 'worksheets'. Passionate about ed-tech,Scratch,Lego,EV3,Ukulele,STEaM,Greenpower goblin,Glow & old VW's.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 680,
+				"friends_count": 747,
+				"listed_count": 24,
+				"created_at": "Tue Feb 22 21:54:02 +0000 2011",
+				"favourites_count": 486,
+				"utc_offset": 3600,
+				"time_zone": "Edinburgh",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4934,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/549326360/kermit.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/549326360/kermit.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770288735158239232/D6zh8fbA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770288735158239232/D6zh8fbA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/256207367/1417636426",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Sep 04 09:00:20 +0000 2016",
+		"id": 772358623171346400,
+		"id_str": "772358623171346432",
+		"text": "@susanward30 YUP a matter of time to see what is now available, time to select &amp; time to gain confidence (presupposing hardware &amp; network)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "susanward30",
+					"name": "Susan Ward",
+					"id": 869540389,
+					"id_str": "869540389",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 772357972789952500,
+		"in_reply_to_status_id_str": "772357972789952513",
+		"in_reply_to_user_id": 869540389,
+		"in_reply_to_user_id_str": "869540389",
+		"in_reply_to_screen_name": "susanward30",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3519,
+			"friends_count": 2255,
+			"listed_count": 276,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 2709,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14503,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "791e00bcadc4615f",
+			"url": "https://api.twitter.com/1.1/geo/id/791e00bcadc4615f.json",
+			"place_type": "city",
+			"name": "Glasgow",
+			"full_name": "Glasgow, Scotland",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-4.3932845,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.9204214
+						],
+						[
+							-4.3932845,
+							55.9204214
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Sep 04 08:42:37 +0000 2016",
+		"id": 772354165024653300,
+		"id_str": "772354165024653312",
+		"text": "@I_Am_Learner @athole @derekrobertson @EISUnion some #glowscot stats and thoughts here: https://t.co/VSuagFAn8V",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "glowscot",
+					"indices": [
+						53,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "I_Am_Learner",
+					"name": "John Connell",
+					"id": 1851680120,
+					"id_str": "1851680120",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "athole",
+					"name": "Mr M",
+					"id": 34001499,
+					"id_str": "34001499",
+					"indices": [
+						14,
+						21
+					]
+				},
+				{
+					"screen_name": "derekrobertson",
+					"name": "Derek P Robertson",
+					"id": 8894072,
+					"id_str": "8894072",
+					"indices": [
+						22,
+						37
+					]
+				},
+				{
+					"screen_name": "EISUnion",
+					"name": "EIS",
+					"id": 106096597,
+					"id_str": "106096597",
+					"indices": [
+						38,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VSuagFAn8V",
+					"expanded_url": "http://johnjohnston.info/blog/questioning-glow/",
+					"display_url": "johnjohnston.info/blog/questioni…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 772352388845936600,
+		"in_reply_to_status_id_str": "772352388845936640",
+		"in_reply_to_user_id": 1851680120,
+		"in_reply_to_user_id_str": "1851680120",
+		"in_reply_to_screen_name": "I_Am_Learner",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3519,
+			"friends_count": 2255,
+			"listed_count": 276,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 2709,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14503,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "791e00bcadc4615f",
+			"url": "https://api.twitter.com/1.1/geo/id/791e00bcadc4615f.json",
+			"place_type": "city",
+			"name": "Glasgow",
+			"full_name": "Glasgow, Scotland",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-4.3932845,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.9204214
+						],
+						[
+							-4.3932845,
+							55.9204214
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Sep 04 08:11:13 +0000 2016",
+		"id": 772346262985306100,
+		"id_str": "772346262985306112",
+		"text": "@athole @MrMcEnaney @GilchristGeorge @derekrobertson I don't think we should ever stop being critical:-)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "athole",
+					"name": "Mr M",
+					"id": 34001499,
+					"id_str": "34001499",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "MrMcEnaney",
+					"name": "James McEnaney",
+					"id": 1369732866,
+					"id_str": "1369732866",
+					"indices": [
+						8,
+						19
+					]
+				},
+				{
+					"screen_name": "GilchristGeorge",
+					"name": "George Gilchrist",
+					"id": 436964891,
+					"id_str": "436964891",
+					"indices": [
+						20,
+						36
+					]
+				},
+				{
+					"screen_name": "derekrobertson",
+					"name": "Derek P Robertson",
+					"id": 8894072,
+					"id_str": "8894072",
+					"indices": [
+						37,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 772345676684550100,
+		"in_reply_to_status_id_str": "772345676684550144",
+		"in_reply_to_user_id": 34001499,
+		"in_reply_to_user_id_str": "34001499",
+		"in_reply_to_screen_name": "athole",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3519,
+			"friends_count": 2255,
+			"listed_count": 276,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 2709,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14503,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 03 12:11:07 +0000 2016",
 		"id": 772044248313163800,
 		"id_str": "772044248313163776",
