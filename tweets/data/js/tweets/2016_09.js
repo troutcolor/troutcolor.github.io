@@ -1,6 +1,521 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Thu Sep 22 20:01:22 +0000 2016",
+		"id": 779047958876713000,
+		"id_str": "779047958876712960",
+		"text": "@athole @jonniecharles @redgierob @GoogleForEdu @literacyadviser thanks. Note it mentions tablets so should fly in school",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "athole",
+					"name": "Mr M",
+					"id": 34001499,
+					"id_str": "34001499",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "jonniecharles",
+					"name": "Jonathan Charles",
+					"id": 293673733,
+					"id_str": "293673733",
+					"indices": [
+						8,
+						22
+					]
+				},
+				{
+					"screen_name": "redgierob",
+					"name": "Rob Smith",
+					"id": 299609883,
+					"id_str": "299609883",
+					"indices": [
+						23,
+						33
+					]
+				},
+				{
+					"screen_name": "GoogleForEdu",
+					"name": "Google For Education",
+					"id": 254218142,
+					"id_str": "254218142",
+					"indices": [
+						34,
+						47
+					]
+				},
+				{
+					"screen_name": "literacyadviser",
+					"name": "Bill Boyd",
+					"id": 17738779,
+					"id_str": "17738779",
+					"indices": [
+						48,
+						64
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 779045172155908100,
+		"in_reply_to_status_id_str": "779045172155908096",
+		"in_reply_to_user_id": 34001499,
+		"in_reply_to_user_id_str": "34001499",
+		"in_reply_to_screen_name": "athole",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3540,
+			"friends_count": 2263,
+			"listed_count": 277,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 2790,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14610,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 22 19:26:18 +0000 2016",
+		"id": 779039137148112900,
+		"id_str": "779039137148112896",
+		"text": "RT @BryanAlexander: A Devil’s Dictionary of Educational Technology https://t.co/Wklv0AZm6E https://t.co/PTRF5kDpHT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BryanAlexander",
+					"name": "Bryan Alexander",
+					"id": 755991,
+					"id_str": "755991",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Wklv0AZm6E",
+					"expanded_url": "http://bryanalexander.org/2016/09/22/a-devils-dictionary-of-educational-technology",
+					"display_url": "bryanalexander.org/2016/09/22/a-d…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 778942396557987800,
+					"id_str": "778942396557987845",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/Cs9b-49UkAUH4if.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cs9b-49UkAUH4if.jpg",
+					"url": "https://t.co/PTRF5kDpHT",
+					"display_url": "pic.twitter.com/PTRF5kDpHT",
+					"expanded_url": "https://twitter.com/BryanAlexander/status/778942399770824704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 637,
+							"h": 1088,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 637,
+							"h": 1088,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 398,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 778942399770824700,
+					"source_status_id_str": "778942399770824704",
+					"source_user_id": 755991,
+					"source_user_id_str": "755991"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 778942396557987800,
+					"id_str": "778942396557987845",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/Cs9b-49UkAUH4if.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cs9b-49UkAUH4if.jpg",
+					"url": "https://t.co/PTRF5kDpHT",
+					"display_url": "pic.twitter.com/PTRF5kDpHT",
+					"expanded_url": "https://twitter.com/BryanAlexander/status/778942399770824704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 637,
+							"h": 1088,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 637,
+							"h": 1088,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 398,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 778942399770824700,
+					"source_status_id_str": "778942399770824704",
+					"source_user_id": 755991,
+					"source_user_id_str": "755991"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3540,
+			"friends_count": 2263,
+			"listed_count": 277,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 2790,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14610,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 22 13:01:54 +0000 2016",
+			"id": 778942399770824700,
+			"id_str": "778942399770824704",
+			"text": "A Devil’s Dictionary of Educational Technology https://t.co/Wklv0AZm6E https://t.co/PTRF5kDpHT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Wklv0AZm6E",
+						"expanded_url": "http://bryanalexander.org/2016/09/22/a-devils-dictionary-of-educational-technology",
+						"display_url": "bryanalexander.org/2016/09/22/a-d…",
+						"indices": [
+							47,
+							70
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 778942396557987800,
+						"id_str": "778942396557987845",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/Cs9b-49UkAUH4if.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cs9b-49UkAUH4if.jpg",
+						"url": "https://t.co/PTRF5kDpHT",
+						"display_url": "pic.twitter.com/PTRF5kDpHT",
+						"expanded_url": "https://twitter.com/BryanAlexander/status/778942399770824704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 637,
+								"h": 1088,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 637,
+								"h": 1088,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 398,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 778942396557987800,
+						"id_str": "778942396557987845",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/Cs9b-49UkAUH4if.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cs9b-49UkAUH4if.jpg",
+						"url": "https://t.co/PTRF5kDpHT",
+						"display_url": "pic.twitter.com/PTRF5kDpHT",
+						"expanded_url": "https://twitter.com/BryanAlexander/status/778942399770824704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 637,
+								"h": 1088,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 637,
+								"h": 1088,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 398,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 755991,
+				"id_str": "755991",
+				"name": "Bryan Alexander",
+				"screen_name": "BryanAlexander",
+				"location": "ÜT: 44.010713,-73.164997",
+				"description": "Futurist, speaker, writer. teacher, consultant, homesteader.   Author of GEARING UP FOR LEARNING BEYOND K-12 and THE NEW DIGITAL STORYTELLING.",
+				"url": "http://t.co/zmlJ1MB45x",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/zmlJ1MB45x",
+								"expanded_url": "http://bryanalexander.org",
+								"display_url": "bryanalexander.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9411,
+				"friends_count": 2083,
+				"listed_count": 791,
+				"created_at": "Wed Feb 07 13:52:20 +0000 2007",
+				"favourites_count": 3293,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 34634,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/276314372/Bryan_Twitterback.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/276314372/Bryan_Twitterback.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/777669539995713536/tKx_oBns_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/777669539995713536/tKx_oBns_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/755991/1460755588",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 13,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 20 19:59:27 +0000 2016",
 		"id": 778322703950475300,
 		"id_str": "778322703950475265",
