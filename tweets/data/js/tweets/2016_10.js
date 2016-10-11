@@ -1,6 +1,542 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Mon Oct 10 20:56:14 +0000 2016",
+		"id": 785584751310737400,
+		"id_str": "785584751310737408",
+		"text": "RT @mbransons: Alba gu bràth!!! #emojiedmoviemoments #Braveheart https://t.co/13X3h0cpWu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "emojiedmoviemoments",
+					"indices": [
+						32,
+						52
+					]
+				},
+				{
+					"text": "Braveheart",
+					"indices": [
+						53,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mbransons",
+					"name": "Michael B Smith",
+					"id": 259908125,
+					"id_str": "259908125",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 785563277585711100,
+					"id_str": "785563277585711104",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Cubho40WgAA6Apf.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cubho40WgAA6Apf.jpg",
+					"url": "https://t.co/13X3h0cpWu",
+					"display_url": "pic.twitter.com/13X3h0cpWu",
+					"expanded_url": "https://twitter.com/mbransons/status/785563454254026752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 262,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 262,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 178,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 785563454254026800,
+					"source_status_id_str": "785563454254026752",
+					"source_user_id": 259908125,
+					"source_user_id_str": "259908125"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 785563277585711100,
+					"id_str": "785563277585711104",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Cubho40WgAA6Apf.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cubho40WgAA6Apf.jpg",
+					"url": "https://t.co/13X3h0cpWu",
+					"display_url": "pic.twitter.com/13X3h0cpWu",
+					"expanded_url": "https://twitter.com/mbransons/status/785563454254026752/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 262,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 262,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 178,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 785563454254026800,
+					"source_status_id_str": "785563454254026752",
+					"source_user_id": 259908125,
+					"source_user_id_str": "259908125",
+					"video_info": {
+						"aspect_ratio": [
+							250,
+							131
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://pbs.twimg.com/tweet_video/Cubho40WgAA6Apf.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3546,
+			"friends_count": 2272,
+			"listed_count": 279,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 2870,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14717,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 10 19:31:37 +0000 2016",
+			"id": 785563454254026800,
+			"id_str": "785563454254026752",
+			"text": "Alba gu bràth!!! #emojiedmoviemoments #Braveheart https://t.co/13X3h0cpWu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "emojiedmoviemoments",
+						"indices": [
+							17,
+							37
+						]
+					},
+					{
+						"text": "Braveheart",
+						"indices": [
+							38,
+							49
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 785563277585711100,
+						"id_str": "785563277585711104",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Cubho40WgAA6Apf.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cubho40WgAA6Apf.jpg",
+						"url": "https://t.co/13X3h0cpWu",
+						"display_url": "pic.twitter.com/13X3h0cpWu",
+						"expanded_url": "https://twitter.com/mbransons/status/785563454254026752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 262,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 262,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 178,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 785563277585711100,
+						"id_str": "785563277585711104",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Cubho40WgAA6Apf.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cubho40WgAA6Apf.jpg",
+						"url": "https://t.co/13X3h0cpWu",
+						"display_url": "pic.twitter.com/13X3h0cpWu",
+						"expanded_url": "https://twitter.com/mbransons/status/785563454254026752/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 262,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 262,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 178,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								250,
+								131
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://pbs.twimg.com/tweet_video/Cubho40WgAA6Apf.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 259908125,
+				"id_str": "259908125",
+				"name": "Michael B Smith",
+				"screen_name": "mbransons",
+				"location": "Brooklyn, NY",
+				"description": "MBS is an Associate Professor of Communications Technology at York College/CUNY and he makes a lot of Animated GIFs.",
+				"url": "https://t.co/0OUu9L5FTi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0OUu9L5FTi",
+								"expanded_url": "http://michaelbransonsmith.net",
+								"display_url": "michaelbransonsmith.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 614,
+				"friends_count": 567,
+				"listed_count": 31,
+				"created_at": "Wed Mar 02 21:01:38 +0000 2011",
+				"favourites_count": 541,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4368,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/659535847251836928/j3XWyLup.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/659535847251836928/j3XWyLup.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/684150212152049664/SknFLaL5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/684150212152049664/SknFLaL5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/259908125/1462326498",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "es"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "es"
+	},
+	{
+		"created_at": "Mon Oct 10 19:02:40 +0000 2016",
+		"id": 785556169234477000,
+		"id_str": "785556169234477057",
+		"text": "looking forward 2 Radio #Edutalk WED 8PM @SFarley_Charlie 23 Things for Digital Knowledge #23things @EdUni23Things",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Edutalk",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "23things",
+					"indices": [
+						90,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SFarley_Charlie",
+					"name": "Charlie",
+					"id": 83184867,
+					"id_str": "83184867",
+					"indices": [
+						41,
+						57
+					]
+				},
+				{
+					"screen_name": "EdUni23Things",
+					"name": "EdUni23Things",
+					"id": 767654005761798100,
+					"id_str": "767654005761798144",
+					"indices": [
+						100,
+						114
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3546,
+			"friends_count": 2272,
+			"listed_count": 279,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 2870,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14717,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Oct 09 21:27:07 +0000 2016",
 		"id": 785230133410013200,
 		"id_str": "785230133410013184",
