@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Tue Oct 11 21:27:49 +0000 2016",
+		"id": 785955085956354000,
+		"id_str": "785955085956354048",
+		"text": "RT @MTImmonsMusic: Thank you @BBCRoddyHart for playing the new single on his @BBCRadioScot show last night. Check out the show here https:/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MTImmonsMusic",
+					"name": "M Timmons Music",
+					"id": 1244438078,
+					"id_str": "1244438078",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "BBCRoddyHart",
+					"name": "The Roddy Hart Show",
+					"id": 546061494,
+					"id_str": "546061494",
+					"indices": [
+						29,
+						42
+					]
+				},
+				{
+					"screen_name": "BBCRadioScot",
+					"name": "BBC Radio Scotland",
+					"id": 301491152,
+					"id_str": "301491152",
+					"indices": [
+						77,
+						90
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3546,
+			"friends_count": 2273,
+			"listed_count": 280,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 2870,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14718,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 11 19:06:21 +0000 2016",
+			"id": 785919484603277300,
+			"id_str": "785919484603277313",
+			"text": "Thank you @BBCRoddyHart for playing the new single on his @BBCRadioScot show last night. Check out the show here https://t.co/qUnxiOhLxF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BBCRoddyHart",
+						"name": "The Roddy Hart Show",
+						"id": 546061494,
+						"id_str": "546061494",
+						"indices": [
+							10,
+							23
+						]
+					},
+					{
+						"screen_name": "BBCRadioScot",
+						"name": "BBC Radio Scotland",
+						"id": 301491152,
+						"id_str": "301491152",
+						"indices": [
+							58,
+							71
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/qUnxiOhLxF",
+						"expanded_url": "http://www.bbc.co.uk/programmes/b07y73xm",
+						"display_url": "bbc.co.uk/programmes/b07…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1244438078,
+				"id_str": "1244438078",
+				"name": "M Timmons Music",
+				"screen_name": "MTImmonsMusic",
+				"location": "",
+				"description": "Musician - Glasgow",
+				"url": "https://t.co/HCmQyh1fkN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HCmQyh1fkN",
+								"expanded_url": "https://youtu.be/pA3yLQXn2BI",
+								"display_url": "youtu.be/pA3yLQXn2BI",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 258,
+				"friends_count": 638,
+				"listed_count": 7,
+				"created_at": "Tue Mar 05 19:16:35 +0000 2013",
+				"favourites_count": 849,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 802,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/722533191551217669/QiUYyapZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/722533191551217669/QiUYyapZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1244438078/1451480394",
+				"profile_link_color": "141414",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Oct 10 20:56:14 +0000 2016",
 		"id": 785584751310737400,
 		"id_str": "785584751310737408",
