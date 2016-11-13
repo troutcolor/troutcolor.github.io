@@ -1,6 +1,777 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sat Nov 12 20:55:18 +0000 2016",
+		"id": 797543314602000400,
+		"id_str": "797543314602000384",
+		"text": "RT @LorettoCare: Great work today in Craigneuk Garden thanks to our brilliant volunteers &amp; @MattBenians @GrowWildScot @GrowWildUK &amp; @nlcpeo…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LorettoCare",
+					"name": "Loretto Care",
+					"id": 555833442,
+					"id_str": "555833442",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "MattBenians",
+					"name": "Matthew Benians",
+					"id": 2517733274,
+					"id_str": "2517733274",
+					"indices": [
+						95,
+						107
+					]
+				},
+				{
+					"screen_name": "GrowWildScot",
+					"name": "Grow Wild Scotland",
+					"id": 2449580234,
+					"id_str": "2449580234",
+					"indices": [
+						108,
+						121
+					]
+				},
+				{
+					"screen_name": "GrowWildUK",
+					"name": "Grow Wild",
+					"id": 627289714,
+					"id_str": "627289714",
+					"indices": [
+						122,
+						133
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3569,
+			"friends_count": 2295,
+			"listed_count": 279,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 2956,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14866,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 12 14:25:28 +0000 2016",
+			"id": 797445210527715300,
+			"id_str": "797445210527715328",
+			"text": "Great work today in Craigneuk Garden thanks to our brilliant volunteers &amp; @MattBenians @GrowWildScot @GrowWildUK &amp;… https://t.co/nBm0Wukmeg",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MattBenians",
+						"name": "Matthew Benians",
+						"id": 2517733274,
+						"id_str": "2517733274",
+						"indices": [
+							78,
+							90
+						]
+					},
+					{
+						"screen_name": "GrowWildScot",
+						"name": "Grow Wild Scotland",
+						"id": 2449580234,
+						"id_str": "2449580234",
+						"indices": [
+							91,
+							104
+						]
+					},
+					{
+						"screen_name": "GrowWildUK",
+						"name": "Grow Wild",
+						"id": 627289714,
+						"id_str": "627289714",
+						"indices": [
+							105,
+							116
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/nBm0Wukmeg",
+						"expanded_url": "https://twitter.com/i/web/status/797445210527715328",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							124,
+							147
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 555833442,
+				"id_str": "555833442",
+				"name": "Loretto Care",
+				"screen_name": "LorettoCare",
+				"location": "Scotland",
+				"description": "We provide high quality housing support, care at home and care home services across Scotland.",
+				"url": "https://t.co/SePnSkjZt8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SePnSkjZt8",
+								"expanded_url": "https://www.lorettoha.co.uk",
+								"display_url": "lorettoha.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 458,
+				"friends_count": 314,
+				"listed_count": 23,
+				"created_at": "Tue Apr 17 07:05:00 +0000 2012",
+				"favourites_count": 309,
+				"utc_offset": 0,
+				"time_zone": "Edinburgh",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1205,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/601509935/amf6j70t03autgceb86i.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/601509935/amf6j70t03autgceb86i.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/757514087316197377/739nELDH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/757514087316197377/739nELDH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/555833442/1457696709",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 11,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Nov 12 16:26:15 +0000 2016",
+		"id": 797475605172338700,
+		"id_str": "797475605172338688",
+		"text": "RT @MindBlowing: This is how octopus eggs hatch https://t.co/dqN2oG09Nm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MindBlowing",
+					"name": "Mindblowing",
+					"id": 488908367,
+					"id_str": "488908367",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 796464964932436000,
+					"id_str": "796464964932435968",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/796464964932435968/pu/img/FhsigOKne4iQxVny.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/796464964932435968/pu/img/FhsigOKne4iQxVny.jpg",
+					"url": "https://t.co/dqN2oG09Nm",
+					"display_url": "pic.twitter.com/dqN2oG09Nm",
+					"expanded_url": "https://twitter.com/FascinatingVids/status/796465021920378884/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 796465021920378900,
+					"source_status_id_str": "796465021920378884",
+					"source_user_id": 2597498814,
+					"source_user_id_str": "2597498814"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 796464964932436000,
+					"id_str": "796464964932435968",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/796464964932435968/pu/img/FhsigOKne4iQxVny.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/796464964932435968/pu/img/FhsigOKne4iQxVny.jpg",
+					"url": "https://t.co/dqN2oG09Nm",
+					"display_url": "pic.twitter.com/dqN2oG09Nm",
+					"expanded_url": "https://twitter.com/FascinatingVids/status/796465021920378884/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 796465021920378900,
+					"source_status_id_str": "796465021920378884",
+					"source_user_id": 2597498814,
+					"source_user_id_str": "2597498814",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 13100,
+						"variants": [
+							{
+								"content_type": "application/dash+xml",
+								"url": "https://video.twimg.com/ext_tw_video/796464964932435968/pu/pl/h6CX8a4Y9tR6zJDn.mpd"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/796464964932435968/pu/vid/320x180/FJ2XoWEarvNlPhLD.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/796464964932435968/pu/vid/640x360/rqVumABqOnMeiTw9.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/796464964932435968/pu/pl/h6CX8a4Y9tR6zJDn.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2597498814,
+							"id_str": "2597498814",
+							"name": "Fascinating Videos",
+							"screen_name": "FascinatingVids",
+							"location": "",
+							"description": "Posting the best slow motion, time-lapse, science, animal and funny GIFs/Vines on Twitter. We do not claim the rights to the videos. (Original acc. 08-08-2014)",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1392370,
+							"friends_count": 14,
+							"listed_count": 2539,
+							"created_at": "Tue Jul 01 06:36:59 +0000 2014",
+							"favourites_count": 159,
+							"utc_offset": 7200,
+							"time_zone": "Athens",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 2542,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": true,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/517693192096210944/T4ZVItXh_normal.jpeg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/517693192096210944/T4ZVItXh_normal.jpeg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2597498814/1407443679",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3569,
+			"friends_count": 2295,
+			"listed_count": 279,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 2956,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14866,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 12 15:42:34 +0000 2016",
+			"id": 797464614359339000,
+			"id_str": "797464614359339009",
+			"text": "This is how octopus eggs hatch https://t.co/dqN2oG09Nm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 796464964932436000,
+						"id_str": "796464964932435968",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/796464964932435968/pu/img/FhsigOKne4iQxVny.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/796464964932435968/pu/img/FhsigOKne4iQxVny.jpg",
+						"url": "https://t.co/dqN2oG09Nm",
+						"display_url": "pic.twitter.com/dqN2oG09Nm",
+						"expanded_url": "https://twitter.com/FascinatingVids/status/796465021920378884/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 796465021920378900,
+						"source_status_id_str": "796465021920378884",
+						"source_user_id": 2597498814,
+						"source_user_id_str": "2597498814"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 796464964932436000,
+						"id_str": "796464964932435968",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/796464964932435968/pu/img/FhsigOKne4iQxVny.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/796464964932435968/pu/img/FhsigOKne4iQxVny.jpg",
+						"url": "https://t.co/dqN2oG09Nm",
+						"display_url": "pic.twitter.com/dqN2oG09Nm",
+						"expanded_url": "https://twitter.com/FascinatingVids/status/796465021920378884/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 796465021920378900,
+						"source_status_id_str": "796465021920378884",
+						"source_user_id": 2597498814,
+						"source_user_id_str": "2597498814",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 13100,
+							"variants": [
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/ext_tw_video/796464964932435968/pu/pl/h6CX8a4Y9tR6zJDn.mpd"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/796464964932435968/pu/vid/320x180/FJ2XoWEarvNlPhLD.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/796464964932435968/pu/vid/640x360/rqVumABqOnMeiTw9.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/796464964932435968/pu/pl/h6CX8a4Y9tR6zJDn.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 2597498814,
+								"id_str": "2597498814",
+								"name": "Fascinating Videos",
+								"screen_name": "FascinatingVids",
+								"location": "",
+								"description": "Posting the best slow motion, time-lapse, science, animal and funny GIFs/Vines on Twitter. We do not claim the rights to the videos. (Original acc. 08-08-2014)",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 1392370,
+								"friends_count": 14,
+								"listed_count": 2539,
+								"created_at": "Tue Jul 01 06:36:59 +0000 2014",
+								"favourites_count": 159,
+								"utc_offset": 7200,
+								"time_zone": "Athens",
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 2542,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": true,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/517693192096210944/T4ZVItXh_normal.jpeg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/517693192096210944/T4ZVItXh_normal.jpeg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/2597498814/1407443679",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 488908367,
+				"id_str": "488908367",
+				"name": "Mindblowing",
+				"screen_name": "MindBlowing",
+				"location": "Sweden",
+				"description": "*Original account*   MindBlowingPromotion@mail.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 851242,
+				"friends_count": 284,
+				"listed_count": 2545,
+				"created_at": "Sat Feb 11 00:02:31 +0000 2012",
+				"favourites_count": 938,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8364,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000085988861/1b5197a967332635080417df9bf277e3.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000085988861/1b5197a967332635080417df9bf277e3.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/631327981999292416/5FmHe2JF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/631327981999292416/5FmHe2JF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/488908367/1436136767",
+				"profile_link_color": "28DE71",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCD",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1056,
+			"favorite_count": 2301,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1056,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Nov 11 22:50:53 +0000 2016",
 		"id": 797210015316709400,
 		"id_str": "797210015316709376",
