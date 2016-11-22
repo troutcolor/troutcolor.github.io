@@ -1,6 +1,620 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Mon Nov 21 20:17:57 +0000 2016",
+		"id": 800795403901878300,
+		"id_str": "800795403901878272",
+		"text": "@macfloss thanks you might like to add your blog into the https://t.co/UtOpserS9A  mix",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "macfloss",
+					"name": "macfloss",
+					"id": 72938555,
+					"id_str": "72938555",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UtOpserS9A",
+					"expanded_url": "http://Scotedublogs.org",
+					"display_url": "Scotedublogs.org",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+		"in_reply_to_status_id": 800656212111016000,
+		"in_reply_to_status_id_str": "800656212111015936",
+		"in_reply_to_user_id": 72938555,
+		"in_reply_to_user_id_str": "72938555",
+		"in_reply_to_screen_name": "macfloss",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3579,
+			"friends_count": 2301,
+			"listed_count": 280,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 2969,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14902,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 21 19:12:40 +0000 2016",
+		"id": 800778975446450200,
+		"id_str": "800778975446450176",
+		"text": "RT @kennypieper: Hat tip to @MrSMathsWizard for coming out to school to deliver CPD to staff today. The man knows his stuff!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kennypieper",
+					"name": "Kenny Pieper",
+					"id": 174989179,
+					"id_str": "174989179",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "MrSMathsWizard",
+					"name": "John Sexton",
+					"id": 136030392,
+					"id_str": "136030392",
+					"indices": [
+						28,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3579,
+			"friends_count": 2301,
+			"listed_count": 280,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 2969,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14902,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 21 16:34:16 +0000 2016",
+			"id": 800739113120964600,
+			"id_str": "800739113120964608",
+			"text": "Hat tip to @MrSMathsWizard for coming out to school to deliver CPD to staff today. The man knows his stuff!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MrSMathsWizard",
+						"name": "John Sexton",
+						"id": 136030392,
+						"id_str": "136030392",
+						"indices": [
+							11,
+							26
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 174989179,
+				"id_str": "174989179",
+				"name": "Kenny Pieper",
+				"screen_name": "kennypieper",
+				"location": "Glasgow",
+				"description": "Out in January - How to Teach Reading for Pleasure https://t.co/WT60Ni1xg0 @CrownHousePub",
+				"url": "https://t.co/Ui8uf1tWBt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ui8uf1tWBt",
+								"expanded_url": "https://justtryingtobebetter.wordpress.com",
+								"display_url": "justtryingtobebetter.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/WT60Ni1xg0",
+								"expanded_url": "https://www.amazon.co.uk/Kenny-Pieper/e/B01JS1WK4K/ref=dp_byline_cont_book_1",
+								"display_url": "amazon.co.uk/Kenny-Pieper/e…",
+								"indices": [
+									51,
+									74
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5297,
+				"friends_count": 1004,
+				"listed_count": 191,
+				"created_at": "Thu Aug 05 09:54:12 +0000 2010",
+				"favourites_count": 27,
+				"utc_offset": 0,
+				"time_zone": "Edinburgh",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28074,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFCC4D",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/611187020627636224/e59ulFDy.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/611187020627636224/e59ulFDy.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793169956540129280/xqqC0QkU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793169956540129280/xqqC0QkU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/174989179/1477507002",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 21 19:10:48 +0000 2016",
+		"id": 800778507462864900,
+		"id_str": "800778507462864896",
+		"text": "RT @kennypieper: Check out the reviews. Even I'm going to buy it now https://t.co/GOzpH4zKGe @CrownHousePub @PhilBeadle #read4pleasure",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "read4pleasure",
+					"indices": [
+						120,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kennypieper",
+					"name": "Kenny Pieper",
+					"id": 174989179,
+					"id_str": "174989179",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "CrownHousePub",
+					"name": "CrownHouse",
+					"id": 60861710,
+					"id_str": "60861710",
+					"indices": [
+						93,
+						107
+					]
+				},
+				{
+					"screen_name": "PhilBeadle",
+					"name": "Phil Beadle",
+					"id": 50624721,
+					"id_str": "50624721",
+					"indices": [
+						108,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GOzpH4zKGe",
+					"expanded_url": "https://www.crownhouse.co.uk/publications/reading-for-pleasure",
+					"display_url": "crownhouse.co.uk/publications/r…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3579,
+			"friends_count": 2301,
+			"listed_count": 280,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 2969,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14902,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 21 19:05:27 +0000 2016",
+			"id": 800777159434506200,
+			"id_str": "800777159434506242",
+			"text": "Check out the reviews. Even I'm going to buy it now https://t.co/GOzpH4zKGe @CrownHousePub @PhilBeadle #read4pleasure",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "read4pleasure",
+						"indices": [
+							103,
+							117
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CrownHousePub",
+						"name": "CrownHouse",
+						"id": 60861710,
+						"id_str": "60861710",
+						"indices": [
+							76,
+							90
+						]
+					},
+					{
+						"screen_name": "PhilBeadle",
+						"name": "Phil Beadle",
+						"id": 50624721,
+						"id_str": "50624721",
+						"indices": [
+							91,
+							102
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/GOzpH4zKGe",
+						"expanded_url": "https://www.crownhouse.co.uk/publications/reading-for-pleasure",
+						"display_url": "crownhouse.co.uk/publications/r…",
+						"indices": [
+							52,
+							75
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 174989179,
+				"id_str": "174989179",
+				"name": "Kenny Pieper",
+				"screen_name": "kennypieper",
+				"location": "Glasgow",
+				"description": "Out in January - How to Teach Reading for Pleasure https://t.co/WT60Ni1xg0 @CrownHousePub",
+				"url": "https://t.co/Ui8uf1tWBt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ui8uf1tWBt",
+								"expanded_url": "https://justtryingtobebetter.wordpress.com",
+								"display_url": "justtryingtobebetter.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/WT60Ni1xg0",
+								"expanded_url": "https://www.amazon.co.uk/Kenny-Pieper/e/B01JS1WK4K/ref=dp_byline_cont_book_1",
+								"display_url": "amazon.co.uk/Kenny-Pieper/e…",
+								"indices": [
+									51,
+									74
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5297,
+				"friends_count": 1004,
+				"listed_count": 191,
+				"created_at": "Thu Aug 05 09:54:12 +0000 2010",
+				"favourites_count": 27,
+				"utc_offset": 0,
+				"time_zone": "Edinburgh",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28074,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFCC4D",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/611187020627636224/e59ulFDy.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/611187020627636224/e59ulFDy.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793169956540129280/xqqC0QkU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793169956540129280/xqqC0QkU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/174989179/1477507002",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Nov 20 20:48:12 +0000 2016",
 		"id": 800440630661042200,
 		"id_str": "800440630661042176",
