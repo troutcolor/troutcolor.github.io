@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Wed Jan 11 19:14:16 +0000 2017",
+		"id": 819261161640173600,
+		"id_str": "819261161640173568",
+		"text": "RT @seemescotland: This will be great. Their songs are AMAZING https://t.co/9xgsGjC4w5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seemescotland",
+					"name": "See Me",
+					"id": 115333635,
+					"id_str": "115333635",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9xgsGjC4w5",
+					"expanded_url": "https://twitter.com/LCEnsemble/status/818839422171054083",
+					"display_url": "twitter.com/LCEnsemble/sta…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3624,
+			"friends_count": 2342,
+			"listed_count": 284,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 3108,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15058,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 10 16:47:11 +0000 2017",
+			"id": 818861757129224200,
+			"id_str": "818861757129224192",
+			"text": "This will be great. Their songs are AMAZING https://t.co/9xgsGjC4w5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9xgsGjC4w5",
+						"expanded_url": "https://twitter.com/LCEnsemble/status/818839422171054083",
+						"display_url": "twitter.com/LCEnsemble/sta…",
+						"indices": [
+							44,
+							67
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 115333635,
+				"id_str": "115333635",
+				"name": "See Me",
+				"screen_name": "seemescotland",
+				"location": "Edinburgh and Glasgow",
+				"description": "Scotland's national movement to end mental health stigma and discrimination.",
+				"url": "http://t.co/R9yHxQOodU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/R9yHxQOodU",
+								"expanded_url": "http://www.seemescotland.org",
+								"display_url": "seemescotland.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10963,
+				"friends_count": 1597,
+				"listed_count": 258,
+				"created_at": "Thu Feb 18 10:05:49 +0000 2010",
+				"favourites_count": 1668,
+				"utc_offset": 0,
+				"time_zone": "Edinburgh",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8889,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/679511223/4b3873fc20a8ac52cabd0a71e44f8f91.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/679511223/4b3873fc20a8ac52cabd0a71e44f8f91.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/526755393242804226/Xdf3SKya_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/526755393242804226/Xdf3SKya_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/115333635/1483523786",
+				"profile_link_color": "E84123",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 818839422171054100,
+			"quoted_status_id_str": "818839422171054083",
+			"quoted_status": {
+				"created_at": "Tue Jan 10 15:18:26 +0000 2017",
+				"id": 818839422171054100,
+				"id_str": "818839422171054083",
+				"text": "Be part of ending mental health stigma. Come to our free show 25th Jan @stlukesglasgow @seemescotland  tickets: https://t.co/WNuGRS2Bhx",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "stlukesglasgow",
+							"name": "Saint Luke's",
+							"id": 3124236434,
+							"id_str": "3124236434",
+							"indices": [
+								71,
+								86
+							]
+						},
+						{
+							"screen_name": "seemescotland",
+							"name": "See Me",
+							"id": 115333635,
+							"id_str": "115333635",
+							"indices": [
+								87,
+								101
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/WNuGRS2Bhx",
+							"expanded_url": "https://billetto.co.uk/en/events/ensemble-live-at-st-lukes-glasgow",
+							"display_url": "billetto.co.uk/en/events/ense…",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 727509081242636300,
+					"id_str": "727509081242636292",
+					"name": "Ensemble",
+					"screen_name": "LCEnsemble",
+					"location": "Central Scotland ",
+					"description": "Creating music to end mental health stigma. Funded by See Me, supported by Loretto Care.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 130,
+					"friends_count": 324,
+					"listed_count": 8,
+					"created_at": "Tue May 03 14:44:16 +0000 2016",
+					"favourites_count": 193,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 156,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/728250808400281600/TxvLeXGe_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/728250808400281600/TxvLeXGe_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/727509081242636292/1462462328",
+					"profile_link_color": "00B0B9",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 7,
+				"favorite_count": 6,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 6,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 818839422171054100,
+		"quoted_status_id_str": "818839422171054083",
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jan 10 20:40:58 +0000 2017",
 		"id": 818920591277363200,
 		"id_str": "818920591277363203",
