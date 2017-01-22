@@ -1,6 +1,444 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Sat Jan 21 19:47:34 +0000 2017",
+		"id": 822893419391488000,
+		"id_str": "822893419391488004",
+		"text": "RT @Livingstone_S: That's what she has imagination for... https://t.co/6qBpe9wYHk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Livingstone_S",
+					"name": "Sonia Livingstone",
+					"id": 780934633,
+					"id_str": "780934633",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6qBpe9wYHk",
+					"expanded_url": "https://twitter.com/mashable/status/822863874928050178",
+					"display_url": "twitter.com/mashable/statu…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3629,
+			"friends_count": 2351,
+			"listed_count": 284,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 3128,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15082,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 21 19:24:51 +0000 2017",
+			"id": 822887701812805600,
+			"id_str": "822887701812805637",
+			"text": "That's what she has imagination for... https://t.co/6qBpe9wYHk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6qBpe9wYHk",
+						"expanded_url": "https://twitter.com/mashable/status/822863874928050178",
+						"display_url": "twitter.com/mashable/statu…",
+						"indices": [
+							39,
+							62
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 780934633,
+				"id_str": "780934633",
+				"name": "Sonia Livingstone",
+				"screen_name": "Livingstone_S",
+				"location": "London UK",
+				"description": "Evidence and policy for children's rights on/offline https://t.co/giwIQFtQHv, https://t.co/3dCGW5tgzz, @EUKidsOnline @LSEmediapolicy @dmlresearchhub",
+				"url": "http://t.co/2bfmoQg4rV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/2bfmoQg4rV",
+								"expanded_url": "http://www.sonialivingstone.net/",
+								"display_url": "sonialivingstone.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/giwIQFtQHv",
+								"expanded_url": "http://www.parenting.digital",
+								"display_url": "parenting.digital",
+								"indices": [
+									53,
+									76
+								]
+							},
+							{
+								"url": "https://t.co/3dCGW5tgzz",
+								"expanded_url": "http://www.globalkidsonline.net",
+								"display_url": "globalkidsonline.net",
+								"indices": [
+									78,
+									101
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7800,
+				"friends_count": 1414,
+				"listed_count": 426,
+				"created_at": "Sat Aug 25 19:27:02 +0000 2012",
+				"favourites_count": 6127,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 10521,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "89C9FA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/602922302829821953/kCLg5Irg.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/602922302829821953/kCLg5Irg.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/459328340038385665/ctMsgsQa_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/459328340038385665/ctMsgsQa_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/780934633/1408179377",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 822863874928050200,
+			"quoted_status_id_str": "822863874928050178",
+			"quoted_status": {
+				"created_at": "Sat Jan 21 17:50:10 +0000 2017",
+				"id": 822863874928050200,
+				"id_str": "822863874928050178",
+				"text": "Virtual reality headset used to give daughter immersive tour of her dollhouse https://t.co/nqqiDI5ECT",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/nqqiDI5ECT",
+							"expanded_url": "http://on.mash.to/2kcFcE9",
+							"display_url": "on.mash.to/2kcFcE9",
+							"indices": [
+								78,
+								101
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 972651,
+					"id_str": "972651",
+					"name": "Mashable",
+					"screen_name": "mashable",
+					"location": "",
+					"description": "News, resources, inspiration and fun for the connected generation. Tweets by @mashable staff.",
+					"url": "http://t.co/1Gm8aVACKn",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/1Gm8aVACKn",
+									"expanded_url": "http://mashable.com",
+									"display_url": "mashable.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 8203671,
+					"friends_count": 2835,
+					"listed_count": 129748,
+					"created_at": "Mon Mar 12 01:28:01 +0000 2007",
+					"favourites_count": 614,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 221519,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "00AEEF",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/705312036/bf7ca2a3f077d7e57b12a5ea4f1db268.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/705312036/bf7ca2a3f077d7e57b12a5ea4f1db268.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/816703429095538688/kAo5jTCy_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/816703429095538688/kAo5jTCy_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/972651/1401484849",
+					"profile_link_color": "00AEEF",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "88DBF4",
+					"profile_text_color": "3B3B3B",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 24,
+				"favorite_count": 56,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 822863874928050200,
+		"quoted_status_id_str": "822863874928050178",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 21 17:56:27 +0000 2017",
+		"id": 822865457707438100,
+		"id_str": "822865457707438080",
+		"text": "350,000 Twitter bot sleeper cell betrayed by love of Star Wars and Windows Phone • The Register &lt;- pretty weird  https://t.co/yqCOSTE1eu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yqCOSTE1eu",
+					"expanded_url": "https://www.theregister.co.uk/2017/01/20/researchers_uncover_350k_dormant_twitter_bots/",
+					"display_url": "theregister.co.uk/2017/01/20/res…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3629,
+			"friends_count": 2351,
+			"listed_count": 284,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 3128,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15082,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jan 20 22:36:56 +0000 2017",
 		"id": 822573654403874800,
 		"id_str": "822573654403874818",
