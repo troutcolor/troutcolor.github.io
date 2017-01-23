@@ -1,6 +1,483 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Sun Jan 22 18:23:32 +0000 2017",
+		"id": 823234658557169700,
+		"id_str": "823234658557169664",
+		"text": "Sing alang tae the langest sang! https://t.co/lC5jCWwZu8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lC5jCWwZu8",
+					"expanded_url": "http://ift.tt/2jFNGEF",
+					"display_url": "ift.tt/2jFNGEF",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3629,
+			"friends_count": 2351,
+			"listed_count": 285,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 3130,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15084,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tl"
+	},
+	{
+		"created_at": "Sun Jan 22 11:02:11 +0000 2017",
+		"id": 823123589247410200,
+		"id_str": "823123589247410177",
+		"text": "RT @ScotEduBlogs: Jordan’s story – autism, school, friends and other life lessons https://t.co/kemyfxKFag https://t.co/AUtTLpZMm1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ScotEduBlogs",
+					"name": "ScotEduBlogs",
+					"id": 8267992,
+					"id_str": "8267992",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kemyfxKFag",
+					"expanded_url": "http://dlvr.it/N90cXF",
+					"display_url": "dlvr.it/N90cXF",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 822482093502410800,
+					"id_str": "822482093502410752",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/C2oLGzlUsAAvpX7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C2oLGzlUsAAvpX7.jpg",
+					"url": "https://t.co/AUtTLpZMm1",
+					"display_url": "pic.twitter.com/AUtTLpZMm1",
+					"expanded_url": "https://twitter.com/ScotEduBlogs/status/822482096073490432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 515,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 727,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 727,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 822482096073490400,
+					"source_status_id_str": "822482096073490432",
+					"source_user_id": 8267992,
+					"source_user_id_str": "8267992"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 822482093502410800,
+					"id_str": "822482093502410752",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/C2oLGzlUsAAvpX7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C2oLGzlUsAAvpX7.jpg",
+					"url": "https://t.co/AUtTLpZMm1",
+					"display_url": "pic.twitter.com/AUtTLpZMm1",
+					"expanded_url": "https://twitter.com/ScotEduBlogs/status/822482096073490432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 515,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 727,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 727,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 822482096073490400,
+					"source_status_id_str": "822482096073490432",
+					"source_user_id": 8267992,
+					"source_user_id_str": "8267992"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3629,
+			"friends_count": 2351,
+			"listed_count": 285,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 3130,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15084,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 20 16:33:07 +0000 2017",
+			"id": 822482096073490400,
+			"id_str": "822482096073490432",
+			"text": "Jordan’s story – autism, school, friends and other life lessons https://t.co/kemyfxKFag https://t.co/AUtTLpZMm1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kemyfxKFag",
+						"expanded_url": "http://dlvr.it/N90cXF",
+						"display_url": "dlvr.it/N90cXF",
+						"indices": [
+							64,
+							87
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 822482093502410800,
+						"id_str": "822482093502410752",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/C2oLGzlUsAAvpX7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2oLGzlUsAAvpX7.jpg",
+						"url": "https://t.co/AUtTLpZMm1",
+						"display_url": "pic.twitter.com/AUtTLpZMm1",
+						"expanded_url": "https://twitter.com/ScotEduBlogs/status/822482096073490432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 515,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 727,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 727,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 822482093502410800,
+						"id_str": "822482093502410752",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/C2oLGzlUsAAvpX7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2oLGzlUsAAvpX7.jpg",
+						"url": "https://t.co/AUtTLpZMm1",
+						"display_url": "pic.twitter.com/AUtTLpZMm1",
+						"expanded_url": "https://twitter.com/ScotEduBlogs/status/822482096073490432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 515,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 727,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 727,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8267992,
+				"id_str": "8267992",
+				"name": "ScotEduBlogs",
+				"screen_name": "ScotEduBlogs",
+				"location": "scotland",
+				"description": "A bot. I tweet links to posts aggrgated on ScotEduBlogs. If you are a Scottish edublogger (blog abt scottish edu) join in, submit your blog.",
+				"url": "http://t.co/Mvfjs7Us1u",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Mvfjs7Us1u",
+								"expanded_url": "http://www.scotedublogs.org.uk",
+								"display_url": "scotedublogs.org.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 679,
+				"friends_count": 4,
+				"listed_count": 43,
+				"created_at": "Sat Aug 18 16:14:00 +0000 2007",
+				"favourites_count": 0,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 37939,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/19436492/ScotEduBlogs_med2_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/19436492/ScotEduBlogs_med2_normal.png",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jan 21 19:47:34 +0000 2017",
 		"id": 822893419391488000,
 		"id_str": "822893419391488004",
