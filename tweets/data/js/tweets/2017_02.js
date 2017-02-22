@@ -1,6 +1,1181 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Tue Feb 21 22:36:32 +0000 2017",
+		"id": 834169966685454300,
+		"id_str": "834169966685454337",
+		"text": "An apology to @ericcurts Eric Curts https://t.co/FyenroCOYN https://t.co/UtCulSSH87",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ericcurts",
+					"name": "Eric Curts",
+					"id": 17999593,
+					"id_str": "17999593",
+					"indices": [
+						14,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FyenroCOYN",
+					"expanded_url": "http://johnjohnston.info/blog/b/1H5",
+					"display_url": "johnjohnston.info/blog/b/1H5",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 834169964416245800,
+					"id_str": "834169964416245760",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/C5ORKbtUoAAZ4UD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5ORKbtUoAAZ4UD.jpg",
+					"url": "https://t.co/UtCulSSH87",
+					"display_url": "pic.twitter.com/UtCulSSH87",
+					"expanded_url": "https://twitter.com/johnjohnston/status/834169966685454337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 834169964416245800,
+					"id_str": "834169964416245760",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/C5ORKbtUoAAZ4UD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5ORKbtUoAAZ4UD.jpg",
+					"url": "https://t.co/UtCulSSH87",
+					"display_url": "pic.twitter.com/UtCulSSH87",
+					"expanded_url": "https://twitter.com/johnjohnston/status/834169966685454337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3661,
+			"friends_count": 2363,
+			"listed_count": 287,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 3172,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15194,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Feb 21 16:28:05 +0000 2017",
+		"id": 834077243810910200,
+		"id_str": "834077243810910211",
+		"text": "RT @Madly_Mad: Pray for Sweden. #LastNightInSweden #SwedenIncident https://t.co/cZmOW2pXm7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LastNightInSweden",
+					"indices": [
+						32,
+						50
+					]
+				},
+				{
+					"text": "SwedenIncident",
+					"indices": [
+						51,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Madly_Mad",
+					"name": "MadlyMad",
+					"id": 55857401,
+					"id_str": "55857401",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 833376364464046100,
+					"id_str": "833376364464046080",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C5C_Y1gWAAAmQ2s.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C5C_Y1gWAAAmQ2s.jpg",
+					"url": "https://t.co/cZmOW2pXm7",
+					"display_url": "pic.twitter.com/cZmOW2pXm7",
+					"expanded_url": "https://twitter.com/Madly_Mad/status/833376708149596160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 300,
+							"h": 216,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 216,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 216,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 833376708149596200,
+					"source_status_id_str": "833376708149596160",
+					"source_user_id": 55857401,
+					"source_user_id_str": "55857401"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 833376364464046100,
+					"id_str": "833376364464046080",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C5C_Y1gWAAAmQ2s.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C5C_Y1gWAAAmQ2s.jpg",
+					"url": "https://t.co/cZmOW2pXm7",
+					"display_url": "pic.twitter.com/cZmOW2pXm7",
+					"expanded_url": "https://twitter.com/Madly_Mad/status/833376708149596160/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 300,
+							"h": 216,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 216,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 216,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 833376708149596200,
+					"source_status_id_str": "833376708149596160",
+					"source_user_id": 55857401,
+					"source_user_id_str": "55857401",
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							18
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/C5C_Y1gWAAAmQ2s.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3661,
+			"friends_count": 2363,
+			"listed_count": 287,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 3172,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15194,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 19 18:04:25 +0000 2017",
+			"id": 833376708149596200,
+			"id_str": "833376708149596160",
+			"text": "Pray for Sweden. #LastNightInSweden #SwedenIncident https://t.co/cZmOW2pXm7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LastNightInSweden",
+						"indices": [
+							17,
+							35
+						]
+					},
+					{
+						"text": "SwedenIncident",
+						"indices": [
+							36,
+							51
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 833376364464046100,
+						"id_str": "833376364464046080",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C5C_Y1gWAAAmQ2s.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C5C_Y1gWAAAmQ2s.jpg",
+						"url": "https://t.co/cZmOW2pXm7",
+						"display_url": "pic.twitter.com/cZmOW2pXm7",
+						"expanded_url": "https://twitter.com/Madly_Mad/status/833376708149596160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 300,
+								"h": 216,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 300,
+								"h": 216,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 300,
+								"h": 216,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 833376364464046100,
+						"id_str": "833376364464046080",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C5C_Y1gWAAAmQ2s.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C5C_Y1gWAAAmQ2s.jpg",
+						"url": "https://t.co/cZmOW2pXm7",
+						"display_url": "pic.twitter.com/cZmOW2pXm7",
+						"expanded_url": "https://twitter.com/Madly_Mad/status/833376708149596160/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 300,
+								"h": 216,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 300,
+								"h": 216,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 300,
+								"h": 216,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								25,
+								18
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/C5C_Y1gWAAAmQ2s.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 55857401,
+				"id_str": "55857401",
+				"name": "MadlyMad",
+				"screen_name": "Madly_Mad",
+				"location": "",
+				"description": "Perdu DTC.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 648,
+				"friends_count": 10,
+				"listed_count": 65,
+				"created_at": "Sat Jul 11 15:46:23 +0000 2009",
+				"favourites_count": 2,
+				"utc_offset": 3600,
+				"time_zone": "Paris",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34265,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "6F87BD",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/120960100/TwitterBG-Mad-Pixar-Two-Birds.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/120960100/TwitterBG-Mad-Pixar-Two-Birds.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000117908897/38d2cbbabdeccaa83bcd86db052b6fd5_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000117908897/38d2cbbabdeccaa83bcd86db052b6fd5_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/55857401/1406617113",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27403,
+			"favorite_count": 43075,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 27403,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Feb 21 12:21:49 +0000 2017",
+		"id": 834015266484977700,
+		"id_str": "834015266484977664",
+		"text": "RT @Banton_Pr: Animating Tam O'Shanter https://t.co/78CI6ktS3k",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Banton_Pr",
+					"name": "Banton Primary",
+					"id": 702565959354163200,
+					"id_str": "702565959354163200",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 833979092986900500,
+					"id_str": "833979092986900480",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/C5LjkQOWMAAf9mw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5LjkQOWMAAf9mw.jpg",
+					"url": "https://t.co/78CI6ktS3k",
+					"display_url": "pic.twitter.com/78CI6ktS3k",
+					"expanded_url": "https://twitter.com/Banton_Pr/status/833979130089730048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 896,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1530,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 833979130089730000,
+					"source_status_id_str": "833979130089730048",
+					"source_user_id": 702565959354163200,
+					"source_user_id_str": "702565959354163200"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 833979092986900500,
+					"id_str": "833979092986900480",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/C5LjkQOWMAAf9mw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5LjkQOWMAAf9mw.jpg",
+					"url": "https://t.co/78CI6ktS3k",
+					"display_url": "pic.twitter.com/78CI6ktS3k",
+					"expanded_url": "https://twitter.com/Banton_Pr/status/833979130089730048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 896,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1530,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 833979130089730000,
+					"source_status_id_str": "833979130089730048",
+					"source_user_id": 702565959354163200,
+					"source_user_id_str": "702565959354163200"
+				},
+				{
+					"id": 833979093129494500,
+					"id_str": "833979093129494528",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/C5LjkQwWAAA-tza.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5LjkQwWAAA-tza.jpg",
+					"url": "https://t.co/78CI6ktS3k",
+					"display_url": "pic.twitter.com/78CI6ktS3k",
+					"expanded_url": "https://twitter.com/Banton_Pr/status/833979130089730048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 896,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1530,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 833979130089730000,
+					"source_status_id_str": "833979130089730048",
+					"source_user_id": 702565959354163200,
+					"source_user_id_str": "702565959354163200"
+				},
+				{
+					"id": 833979093133717500,
+					"id_str": "833979093133717504",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/C5LjkQxWcAArblm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5LjkQxWcAArblm.jpg",
+					"url": "https://t.co/78CI6ktS3k",
+					"display_url": "pic.twitter.com/78CI6ktS3k",
+					"expanded_url": "https://twitter.com/Banton_Pr/status/833979130089730048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1530,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 896,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 833979130089730000,
+					"source_status_id_str": "833979130089730048",
+					"source_user_id": 702565959354163200,
+					"source_user_id_str": "702565959354163200"
+				},
+				{
+					"id": 833979091246264300,
+					"id_str": "833979091246264320",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/C5LjkJvWMAARJ7l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5LjkJvWMAARJ7l.jpg",
+					"url": "https://t.co/78CI6ktS3k",
+					"display_url": "pic.twitter.com/78CI6ktS3k",
+					"expanded_url": "https://twitter.com/Banton_Pr/status/833979130089730048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 896,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1530,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 833979130089730000,
+					"source_status_id_str": "833979130089730048",
+					"source_user_id": 702565959354163200,
+					"source_user_id_str": "702565959354163200"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3661,
+			"friends_count": 2363,
+			"listed_count": 287,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 3172,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15194,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 21 09:58:13 +0000 2017",
+			"id": 833979130089730000,
+			"id_str": "833979130089730048",
+			"text": "Animating Tam O'Shanter https://t.co/78CI6ktS3k",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 833979092986900500,
+						"id_str": "833979092986900480",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/C5LjkQOWMAAf9mw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5LjkQOWMAAf9mw.jpg",
+						"url": "https://t.co/78CI6ktS3k",
+						"display_url": "pic.twitter.com/78CI6ktS3k",
+						"expanded_url": "https://twitter.com/Banton_Pr/status/833979130089730048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 896,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1530,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 508,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 833979092986900500,
+						"id_str": "833979092986900480",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/C5LjkQOWMAAf9mw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5LjkQOWMAAf9mw.jpg",
+						"url": "https://t.co/78CI6ktS3k",
+						"display_url": "pic.twitter.com/78CI6ktS3k",
+						"expanded_url": "https://twitter.com/Banton_Pr/status/833979130089730048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 896,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1530,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 508,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 833979093129494500,
+						"id_str": "833979093129494528",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/C5LjkQwWAAA-tza.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5LjkQwWAAA-tza.jpg",
+						"url": "https://t.co/78CI6ktS3k",
+						"display_url": "pic.twitter.com/78CI6ktS3k",
+						"expanded_url": "https://twitter.com/Banton_Pr/status/833979130089730048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 896,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1530,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 508,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 833979093133717500,
+						"id_str": "833979093133717504",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/C5LjkQxWcAArblm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5LjkQxWcAArblm.jpg",
+						"url": "https://t.co/78CI6ktS3k",
+						"display_url": "pic.twitter.com/78CI6ktS3k",
+						"expanded_url": "https://twitter.com/Banton_Pr/status/833979130089730048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 508,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1530,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 896,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 833979091246264300,
+						"id_str": "833979091246264320",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/C5LjkJvWMAARJ7l.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5LjkJvWMAARJ7l.jpg",
+						"url": "https://t.co/78CI6ktS3k",
+						"display_url": "pic.twitter.com/78CI6ktS3k",
+						"expanded_url": "https://twitter.com/Banton_Pr/status/833979130089730048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 896,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1530,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 508,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 702565959354163200,
+				"id_str": "702565959354163200",
+				"name": "Banton Primary",
+				"screen_name": "Banton_Pr",
+				"location": "Banton, Scotland",
+				"description": "A Small Primary School in North Lanarkshire",
+				"url": "https://t.co/WNBQyt3iF5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WNBQyt3iF5",
+								"expanded_url": "https://blogs.glowscotland.org.uk/nl/banton/",
+								"display_url": "blogs.glowscotland.org.uk/nl/banton/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13,
+				"friends_count": 8,
+				"listed_count": 0,
+				"created_at": "Wed Feb 24 18:49:12 +0000 2016",
+				"favourites_count": 7,
+				"utc_offset": 0,
+				"time_zone": "Edinburgh",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/702578403564773376/V51uWMrV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/702578403564773376/V51uWMrV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/702565959354163200/1456342883",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 20 21:05:39 +0000 2017",
 		"id": 833784706957185000,
 		"id_str": "833784706957185024",
