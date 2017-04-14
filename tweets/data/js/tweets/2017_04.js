@@ -1,6 +1,378 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Thu Apr 13 20:11:52 +0000 2017",
+		"id": 852615340588716000,
+		"id_str": "852615340588716032",
+		"text": "The answer is surely \"usually\" https://t.co/mhgT3e2nv3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mhgT3e2nv3",
+					"expanded_url": "https://twitter.com/realdcameron/status/852498816116940803",
+					"display_url": "twitter.com/realdcameron/s…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3676,
+			"friends_count": 2387,
+			"listed_count": 286,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 3285,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15350,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 852498816116940800,
+		"quoted_status_id_str": "852498816116940803",
+		"quoted_status": {
+			"created_at": "Thu Apr 13 12:28:51 +0000 2017",
+			"id": 852498816116940800,
+			"id_str": "852498816116940803",
+			"text": "Plenty positive references to @GLoganEd's presentation &amp; existing resources-begs the question \"do we make improveme… https://t.co/HUQu6a4kwR",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GLoganEd",
+						"name": "Graeme Logan",
+						"id": 3610016669,
+						"id_str": "3610016669",
+						"indices": [
+							30,
+							39
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/HUQu6a4kwR",
+						"expanded_url": "https://twitter.com/i/web/status/852498816116940803",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 134751620,
+				"id_str": "134751620",
+				"name": "David Cameron",
+				"screen_name": "realdcameron",
+				"location": "Scotland",
+				"description": "Presenter, trainer, consultant - all areas in education and children's services",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8167,
+				"friends_count": 1100,
+				"listed_count": 125,
+				"created_at": "Mon Apr 19 10:14:20 +0000 2010",
+				"favourites_count": 206,
+				"utc_offset": 3600,
+				"time_zone": "Edinburgh",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11438,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/157914901/Kitty___The_Camerons_2006__027.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/157914901/Kitty___The_Camerons_2006__027.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2960304147/51d8b139a859dc5e8456da8808c6e81f_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2960304147/51d8b139a859dc5e8456da8808c6e81f_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/134751620/1398409045",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 850038178371297300,
+			"quoted_status_id_str": "850038178371297284",
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Apr 13 07:09:59 +0000 2017",
+		"id": 852418570797449200,
+		"id_str": "852418570797449216",
+		"text": "#romance #art snapped without breaking step chasing a train in #Edinburgh the other day. A quick… https://t.co/fXaS7h0JeO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "romance",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "art",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "Edinburgh",
+					"indices": [
+						63,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fXaS7h0JeO",
+					"expanded_url": "https://www.instagram.com/p/BS0Q8tPB3ON/",
+					"display_url": "instagram.com/p/BS0Q8tPB3ON/",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3676,
+			"friends_count": 2387,
+			"listed_count": 286,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 3285,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15350,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				55.9494,
+				-3.1603
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-3.1603,
+				55.9494
+			]
+		},
+		"place": {
+			"id": "0af014accd6f6e99",
+			"url": "https://api.twitter.com/1.1/geo/id/0af014accd6f6e99.json",
+			"place_type": "admin",
+			"name": "Scotland",
+			"full_name": "Scotland, United Kingdom",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-7.66085699743185,
+							54.6336309570711
+						],
+						[
+							-0.740025000483186,
+							54.6336309570711
+						],
+						[
+							-0.740025000483186,
+							60.8452769694519
+						],
+						[
+							-7.66085699743185,
+							60.8452769694519
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Apr 11 20:05:23 +0000 2017",
 		"id": 851888934032420900,
 		"id_str": "851888934032420864",
