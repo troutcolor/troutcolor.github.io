@@ -1,6 +1,418 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sun Apr 16 20:17:08 +0000 2017",
+		"id": 853703830520909800,
+		"id_str": "853703830520909824",
+		"text": "Quote: \"you can tell nobody owns podcasting is that 1.5 decades have passed since 2003 and there are still no domin… https://t.co/UcCzm3ZCSR",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UcCzm3ZCSR",
+					"expanded_url": "https://twitter.com/i/web/status/853703830520909824",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3676,
+			"friends_count": 2389,
+			"listed_count": 286,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 3287,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15357,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 853697983510192100,
+		"quoted_status_id_str": "853697983510192128",
+		"quoted_status": {
+			"created_at": "Sun Apr 16 19:53:54 +0000 2017",
+			"id": 853697983510192100,
+			"id_str": "853697983510192128",
+			"text": "Doc Searls: The Podcasting Story. https://t.co/ELuMAXprIg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ELuMAXprIg",
+						"expanded_url": "http://blogs.harvard.edu/doc/2017/04/16/open-word-the-podcasting-story/",
+						"display_url": "blogs.harvard.edu/doc/2017/04/16…",
+						"indices": [
+							34,
+							57
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://radio3.io/\" rel=\"nofollow\">radio3.io</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3839,
+				"id_str": "3839",
+				"name": "Dave Winer",
+				"screen_name": "davewiner",
+				"location": "New York, NY",
+				"description": "I've been blogging as long as there's been blogging.",
+				"url": "https://t.co/ztgzDGiyOj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ztgzDGiyOj",
+								"expanded_url": "http://scripting.com/",
+								"display_url": "scripting.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 68435,
+				"friends_count": 4023,
+				"listed_count": 5715,
+				"created_at": "Sat Aug 05 23:04:08 +0000 2006",
+				"favourites_count": 5516,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 126376,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/717125100/3586a8799a22000163338de985b8f148.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/717125100/3586a8799a22000163338de985b8f148.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/847921823429914627/gTnLvjkw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/847921823429914627/gTnLvjkw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3839/1485462576",
+				"profile_link_color": "7F7F90",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E1E1DF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 16 20:05:53 +0000 2017",
+		"id": 853700997163737100,
+		"id_str": "853700997163737088",
+		"text": "@ds106dc #ds106  #tdc1925 Make a Gif ≠ Search Giphy https://t.co/vSmQ2p2Q00",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ds106",
+					"indices": [
+						9,
+						15
+					]
+				},
+				{
+					"text": "tdc1925",
+					"indices": [
+						17,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 853700954797092900,
+					"id_str": "853700954797092864",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C9j0fssXsAADJ4S.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C9j0fssXsAADJ4S.jpg",
+					"url": "https://t.co/vSmQ2p2Q00",
+					"display_url": "pic.twitter.com/vSmQ2p2Q00",
+					"expanded_url": "https://twitter.com/johnjohnston/status/853700997163737088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 119,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 210,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 210,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 853700954797092900,
+					"id_str": "853700954797092864",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C9j0fssXsAADJ4S.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C9j0fssXsAADJ4S.jpg",
+					"url": "https://t.co/vSmQ2p2Q00",
+					"display_url": "pic.twitter.com/vSmQ2p2Q00",
+					"expanded_url": "https://twitter.com/johnjohnston/status/853700997163737088/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 119,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 210,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 210,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							20,
+							7
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/C9j0fssXsAADJ4S.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 853537981684043800,
+		"in_reply_to_status_id_str": "853537981684043777",
+		"in_reply_to_user_id": 995562187,
+		"in_reply_to_user_id_str": "995562187",
+		"in_reply_to_screen_name": "ds106dc",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3676,
+			"friends_count": 2389,
+			"listed_count": 286,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 3287,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15357,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Apr 15 10:40:59 +0000 2017",
 		"id": 853196448183308300,
 		"id_str": "853196448183308288",
