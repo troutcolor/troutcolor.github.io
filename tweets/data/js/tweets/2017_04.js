@@ -1,6 +1,627 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sun Apr 23 19:51:18 +0000 2017",
+		"id": 856234043012251600,
+		"id_str": "856234043012251650",
+		"text": "We are good for something @mdvfunes ;-) https://t.co/nmqPiuxbmX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mdvfunes",
+					"name": "ⓜariana ⓕunes",
+					"id": 1556094044,
+					"id_str": "1556094044",
+					"indices": [
+						26,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nmqPiuxbmX",
+					"expanded_url": "https://twitter.com/ianinsheffield/status/856210186826117121",
+					"display_url": "twitter.com/ianinsheffield…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3686,
+			"friends_count": 2395,
+			"listed_count": 285,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 3305,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15383,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "791e00bcadc4615f",
+			"url": "https://api.twitter.com/1.1/geo/id/791e00bcadc4615f.json",
+			"place_type": "city",
+			"name": "Glasgow",
+			"full_name": "Glasgow, Scotland",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-4.3932845,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.9204214
+						],
+						[
+							-4.3932845,
+							55.9204214
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 856210186826117100,
+		"quoted_status_id_str": "856210186826117121",
+		"quoted_status": {
+			"created_at": "Sun Apr 23 18:16:30 +0000 2017",
+			"id": 856210186826117100,
+			"id_str": "856210186826117121",
+			"text": "Had to caramelise some onions this afternoon, so used Episode 2 of Loose Learners as a timer https://t.co/XvlYC7ZF2K Spot on! #LLearn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LLearn",
+						"indices": [
+							126,
+							133
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XvlYC7ZF2K",
+						"expanded_url": "http://www.edutalk.info/show/radio-edutalk-05-04-2017-loose-learners-ep-2/",
+						"display_url": "edutalk.info/show/radio-edu…",
+						"indices": [
+							93,
+							116
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21324520,
+				"id_str": "21324520",
+				"name": "Ian Guest",
+				"screen_name": "IaninSheffield",
+				"location": "Sheffield, Yorkshire",
+				"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+				"url": "https://t.co/SUuFhgyQxD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SUuFhgyQxD",
+								"expanded_url": "https://cpdin140.wordpress.com",
+								"display_url": "cpdin140.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3074,
+				"friends_count": 3540,
+				"listed_count": 213,
+				"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+				"favourites_count": 330,
+				"utc_offset": 3600,
+				"time_zone": "Edinburgh",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9822,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DEDAF4",
+				"profile_text_color": "A05D0E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 23 19:42:13 +0000 2017",
+		"id": 856231756927782900,
+		"id_str": "856231756927782913",
+		"text": "RT @claganach: First @YouTube video uploaded #OnThisDay 2005. Schools can make use of YouTube channel https://t.co/AHuv2utLsh #DigiLearnScot",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OnThisDay",
+					"indices": [
+						45,
+						55
+					]
+				},
+				{
+					"text": "DigiLearnScot",
+					"indices": [
+						126,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "claganach",
+					"name": "Malcolm Wilson",
+					"id": 54920357,
+					"id_str": "54920357",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						21,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AHuv2utLsh",
+					"expanded_url": "https://blogs.glowscotland.org.uk/fa/ICTFalkirkPrimaries/video-sharing-the-learning-through-a-school-youtube-channel-or-other-tools/",
+					"display_url": "blogs.glowscotland.org.uk/fa/ICTFalkirkP…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3686,
+			"friends_count": 2395,
+			"listed_count": 285,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 3305,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15383,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 23 13:33:34 +0000 2017",
+			"id": 856138983167995900,
+			"id_str": "856138983167995905",
+			"text": "First @YouTube video uploaded #OnThisDay 2005. Schools can make use of YouTube channel https://t.co/AHuv2utLsh #DigiLearnScot",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OnThisDay",
+						"indices": [
+							30,
+							40
+						]
+					},
+					{
+						"text": "DigiLearnScot",
+						"indices": [
+							111,
+							125
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "YouTube",
+						"name": "YouTube",
+						"id": 10228272,
+						"id_str": "10228272",
+						"indices": [
+							6,
+							14
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/AHuv2utLsh",
+						"expanded_url": "https://blogs.glowscotland.org.uk/fa/ICTFalkirkPrimaries/video-sharing-the-learning-through-a-school-youtube-channel-or-other-tools/",
+						"display_url": "blogs.glowscotland.org.uk/fa/ICTFalkirkP…",
+						"indices": [
+							87,
+							110
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 54920357,
+				"id_str": "54920357",
+				"name": "Malcolm Wilson",
+				"screen_name": "claganach",
+				"location": "Falkirk, Scotland",
+				"description": "Teacher | Falkirk ICT Curriculum Development Officer #DigiLearnScot #GlowScot #MIEExpert Master Trainer #MSFTEDU #DLChat #AppleTeacher #digcit #iPadEd",
+				"url": "https://t.co/TZocEyosXR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TZocEyosXR",
+								"expanded_url": "https://blogs.glowscotland.org.uk/fa/ICTFalkirkPrimaries/",
+								"display_url": "blogs.glowscotland.org.uk/fa/ICTFalkirkP…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3332,
+				"friends_count": 2849,
+				"listed_count": 322,
+				"created_at": "Wed Jul 08 15:01:38 +0000 2009",
+				"favourites_count": 2478,
+				"utc_offset": 3600,
+				"time_zone": "Edinburgh",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14220,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/43402637/pianokeyboard.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/43402637/pianokeyboard.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/765922040238845952/3wjRbcKL_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/765922040238845952/3wjRbcKL_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54920357/1455117717",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 23 16:17:13 +0000 2017",
+		"id": 856180164799209500,
+		"id_str": "856180164799209477",
+		"text": "Podcatching with Castro https://t.co/T0r1RZn1mH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T0r1RZn1mH",
+					"expanded_url": "http://johnjohnston.info/blog/b/1JF",
+					"display_url": "johnjohnston.info/blog/b/1JF",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/Q88qPPNlsz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q88qPPNlsz",
+							"expanded_url": "http://johnjohnston.info/",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3686,
+			"friends_count": 2395,
+			"listed_count": 285,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 3305,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15383,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Apr 22 19:17:33 +0000 2017",
 		"id": 855863159332249600,
 		"id_str": "855863159332249602",
