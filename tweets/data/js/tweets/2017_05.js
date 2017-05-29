@@ -1,6 +1,421 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sun May 28 21:06:03 +0000 2017",
+		"id": 868936429224722400,
+		"id_str": "868936429224722432",
+		"text": "RT @freshnet: 2am TONIGHT MY NEW @BBCIntroducing MIXTAPE \nhttps://t.co/jXKMi2oXtZ includes @MTImmonsMusic\n@blankfiction\n@IrFuBr\n@talmasound…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "freshnet",
+					"name": "Tom Robinson",
+					"id": 20184220,
+					"id_str": "20184220",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "bbcintroducing",
+					"name": "BBC Introducing",
+					"id": 20505679,
+					"id_str": "20505679",
+					"indices": [
+						33,
+						48
+					]
+				},
+				{
+					"screen_name": "MTImmonsMusic",
+					"name": "Michael Timmons",
+					"id": 1244438078,
+					"id_str": "1244438078",
+					"indices": [
+						91,
+						105
+					]
+				},
+				{
+					"screen_name": "BlankFiction",
+					"name": "Blank Fiction",
+					"id": 1730313997,
+					"id_str": "1730313997",
+					"indices": [
+						106,
+						119
+					]
+				},
+				{
+					"screen_name": "IrFuBr",
+					"name": "IrascibleFuckBrigade",
+					"id": 858872136961798100,
+					"id_str": "858872136961798144",
+					"indices": [
+						120,
+						127
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jXKMi2oXtZ",
+					"expanded_url": "http://www.bbc.co.uk/blogs/introducing/entries/ad6d4cd6-3309-45ca-894b-11ac8455698a",
+					"display_url": "bbc.co.uk/blogs/introduc…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3707,
+			"friends_count": 2409,
+			"listed_count": 283,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 3353,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15535,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun May 28 20:36:33 +0000 2017",
+			"id": 868929004564295700,
+			"id_str": "868929004564295680",
+			"text": "2am TONIGHT MY NEW @BBCIntroducing MIXTAPE \nhttps://t.co/jXKMi2oXtZ includes @MTImmonsMusic\n@blankfiction\n@IrFuBr\n@talmasounds\n@andy_zuk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bbcintroducing",
+						"name": "BBC Introducing",
+						"id": 20505679,
+						"id_str": "20505679",
+						"indices": [
+							19,
+							34
+						]
+					},
+					{
+						"screen_name": "MTImmonsMusic",
+						"name": "Michael Timmons",
+						"id": 1244438078,
+						"id_str": "1244438078",
+						"indices": [
+							77,
+							91
+						]
+					},
+					{
+						"screen_name": "BlankFiction",
+						"name": "Blank Fiction",
+						"id": 1730313997,
+						"id_str": "1730313997",
+						"indices": [
+							92,
+							105
+						]
+					},
+					{
+						"screen_name": "IrFuBr",
+						"name": "IrascibleFuckBrigade",
+						"id": 858872136961798100,
+						"id_str": "858872136961798144",
+						"indices": [
+							106,
+							113
+						]
+					},
+					{
+						"screen_name": "talmasounds",
+						"name": "TALMA",
+						"id": 711857621226164200,
+						"id_str": "711857621226164224",
+						"indices": [
+							114,
+							126
+						]
+					},
+					{
+						"screen_name": "andy_zuk",
+						"name": "Andy Zuk",
+						"id": 303428529,
+						"id_str": "303428529",
+						"indices": [
+							127,
+							136
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/jXKMi2oXtZ",
+						"expanded_url": "http://www.bbc.co.uk/blogs/introducing/entries/ad6d4cd6-3309-45ca-894b-11ac8455698a",
+						"display_url": "bbc.co.uk/blogs/introduc…",
+						"indices": [
+							44,
+							67
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20184220,
+				"id_str": "20184220",
+				"name": "Tom Robinson",
+				"screen_name": "freshnet",
+				"location": "London",
+				"description": "Songwriter and broadcaster. Offering an open door to independent artists every Mon-Thur plus free insider advice at Fresh On The Net. My own (non BBC) views.",
+				"url": "https://t.co/I6bufffwow",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/I6bufffwow",
+								"expanded_url": "http://freshonthenet.co.uk/send",
+								"display_url": "freshonthenet.co.uk/send",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36640,
+				"friends_count": 4798,
+				"listed_count": 672,
+				"created_at": "Thu Feb 05 20:31:00 +0000 2009",
+				"favourites_count": 36,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 27387,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770269734218661888/oAeRWUMc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770269734218661888/oAeRWUMc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20184220/1451925932",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun May 28 10:37:33 +0000 2017",
+		"id": 868778264201965600,
+		"id_str": "868778264201965572",
+		"text": "New blog post: iPads: Words and Pictures, a simple way of adding text to images we have been using. https://t.co/CdKjcQaeVR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CdKjcQaeVR",
+					"expanded_url": "http://johnjohnston.info/blog/ipads-words-and-pictures/",
+					"display_url": "johnjohnston.info/blog/ipads-wor…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, EduTech, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3707,
+			"friends_count": 2409,
+			"listed_count": 283,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 3353,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15535,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat May 27 22:10:41 +0000 2017",
 		"id": 868590308975673300,
 		"id_str": "868590308975673347",
