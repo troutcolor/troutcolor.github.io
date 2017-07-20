@@ -1,6 +1,712 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Wed Jul 19 17:29:20 +0000 2017",
+		"id": 887726060577718300,
+		"id_str": "887726060577718272",
+		"text": "IndieAuth — WordPress Plugin latest update now lets me log on my blog, which is not at top level of domain:-) https://t.co/wp0lQSuwFO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wp0lQSuwFO",
+					"expanded_url": "https://wordpress.org/plugins/IndieAuth/",
+					"display_url": "wordpress.org/plugins/IndieA…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://micro.blog/\" rel=\"nofollow\">Micro.blog</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3752,
+			"friends_count": 2444,
+			"listed_count": 284,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 3615,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15753,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 19 09:34:17 +0000 2017",
+		"id": 887606508455854100,
+		"id_str": "887606508455854080",
+		"text": "Yesterday’s walk, new system of ‘mapmaking’ in progress. https://t.co/MICRB1DytQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MICRB1DytQ",
+					"expanded_url": "http://johnjohnston.info/walks/maps.html?f=72157684213113300&m=2017-07-18-Ben-Chonzie.gpx",
+					"display_url": "johnjohnston.info/walks/maps.htm…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://micro.blog/\" rel=\"nofollow\">Micro.blog</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3752,
+			"friends_count": 2444,
+			"listed_count": 284,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 3615,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15753,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 19 07:54:36 +0000 2017",
+		"id": 887581424878059500,
+		"id_str": "887581424878059520",
+		"text": "RT @aforgrave: \"Seven Robot, Deluxe Redux,\" re-do for @ds106dc #tdc2016 @johnjohnston #ds106 https://t.co/vMFIfrHh9P https://t.co/uwVSRknJ3X",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tdc2016",
+					"indices": [
+						63,
+						71
+					]
+				},
+				{
+					"text": "ds106",
+					"indices": [
+						86,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aforgrave",
+					"name": "☻ Andrew Forgrave",
+					"id": 15282466,
+					"id_str": "15282466",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						54,
+						62
+					]
+				},
+				{
+					"screen_name": "johnjohnston",
+					"name": "john johnston",
+					"id": 7484192,
+					"id_str": "7484192",
+					"indices": [
+						72,
+						85
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vMFIfrHh9P",
+					"expanded_url": "http://aforgrave.ca/detritus/2017/07/19/seven-robot-deluxe-redux/",
+					"display_url": "aforgrave.ca/detritus/2017/…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 887527825292484600,
+					"id_str": "887527825292484610",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DFEh2tLVYAIclLu.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DFEh2tLVYAIclLu.jpg",
+					"url": "https://t.co/uwVSRknJ3X",
+					"display_url": "pic.twitter.com/uwVSRknJ3X",
+					"expanded_url": "https://twitter.com/aforgrave/status/887527828920709120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 262,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 148,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 262,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 887527828920709100,
+					"source_status_id_str": "887527828920709120",
+					"source_user_id": 15282466,
+					"source_user_id_str": "15282466"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 887527825292484600,
+					"id_str": "887527825292484610",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DFEh2tLVYAIclLu.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DFEh2tLVYAIclLu.jpg",
+					"url": "https://t.co/uwVSRknJ3X",
+					"display_url": "pic.twitter.com/uwVSRknJ3X",
+					"expanded_url": "https://twitter.com/aforgrave/status/887527828920709120/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 262,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 148,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 262,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 887527828920709100,
+					"source_status_id_str": "887527828920709120",
+					"source_user_id": 15282466,
+					"source_user_id_str": "15282466",
+					"video_info": {
+						"aspect_ratio": [
+							300,
+							131
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DFEh2tLVYAIclLu.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3752,
+			"friends_count": 2444,
+			"listed_count": 284,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 3615,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15753,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 19 04:21:38 +0000 2017",
+			"id": 887527828920709100,
+			"id_str": "887527828920709120",
+			"text": "\"Seven Robot, Deluxe Redux,\" re-do for @ds106dc #tdc2016 @johnjohnston #ds106 https://t.co/vMFIfrHh9P https://t.co/uwVSRknJ3X",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "tdc2016",
+						"indices": [
+							48,
+							56
+						]
+					},
+					{
+						"text": "ds106",
+						"indices": [
+							71,
+							77
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ds106dc",
+						"name": "ds106 Daily Create",
+						"id": 995562187,
+						"id_str": "995562187",
+						"indices": [
+							39,
+							47
+						]
+					},
+					{
+						"screen_name": "johnjohnston",
+						"name": "john johnston",
+						"id": 7484192,
+						"id_str": "7484192",
+						"indices": [
+							57,
+							70
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/vMFIfrHh9P",
+						"expanded_url": "http://aforgrave.ca/detritus/2017/07/19/seven-robot-deluxe-redux/",
+						"display_url": "aforgrave.ca/detritus/2017/…",
+						"indices": [
+							78,
+							101
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 887527825292484600,
+						"id_str": "887527825292484610",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DFEh2tLVYAIclLu.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DFEh2tLVYAIclLu.jpg",
+						"url": "https://t.co/uwVSRknJ3X",
+						"display_url": "pic.twitter.com/uwVSRknJ3X",
+						"expanded_url": "https://twitter.com/aforgrave/status/887527828920709120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 600,
+								"h": 262,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 148,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 262,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 887527825292484600,
+						"id_str": "887527825292484610",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DFEh2tLVYAIclLu.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DFEh2tLVYAIclLu.jpg",
+						"url": "https://t.co/uwVSRknJ3X",
+						"display_url": "pic.twitter.com/uwVSRknJ3X",
+						"expanded_url": "https://twitter.com/aforgrave/status/887527828920709120/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 600,
+								"h": 262,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 148,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 262,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								300,
+								131
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DFEh2tLVYAIclLu.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15282466,
+				"id_str": "15282466",
+				"name": "☻ Andrew Forgrave",
+				"screen_name": "aforgrave",
+				"location": "Belleville, Ontario, Canada",
+				"description": "Educator, EdTech Advocate",
+				"url": "https://t.co/ltEKkdnVf7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ltEKkdnVf7",
+								"expanded_url": "http://www.edVisioned.ca",
+								"display_url": "edVisioned.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2905,
+				"friends_count": 662,
+				"listed_count": 259,
+				"created_at": "Mon Jun 30 21:34:32 +0000 2008",
+				"favourites_count": 876,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22942,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/128571310/twilk_background_4c522b94c4958.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/128571310/twilk_background_4c522b94c4958.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/683478654060380161/pBvyQIhh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/683478654060380161/pBvyQIhh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15282466/1454557160",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jul 18 15:55:55 +0000 2017",
 		"id": 887340161419411500,
 		"id_str": "887340161419411456",
