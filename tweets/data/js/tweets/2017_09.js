@@ -1,6 +1,783 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Thu Sep 07 20:54:33 +0000 2017",
+		"id": 905897098226401300,
+		"id_str": "905897098226401280",
+		"text": "@livedtime #tds800 this is lovely. No links to click but trying to figure out how it is done is a rabbit hole in itself;-)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tds800",
+					"indices": [
+						11,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "livedtime",
+					"name": "The Daily Stillness",
+					"id": 1596507146,
+					"id_str": "1596507146",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 905664956359622700,
+		"in_reply_to_status_id_str": "905664956359622656",
+		"in_reply_to_user_id": 1596507146,
+		"in_reply_to_user_id_str": "1596507146",
+		"in_reply_to_screen_name": "livedtime",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3790,
+			"friends_count": 2469,
+			"listed_count": 282,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 3655,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15893,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 07 18:32:08 +0000 2017",
+		"id": 905861256883478500,
+		"id_str": "905861256883478528",
+		"text": "Possibly time to get a new kneeling chair. https://t.co/nFxYF670oC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 905861254224285700,
+					"id_str": "905861254224285696",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/DJJEAuHUEAAde9a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJJEAuHUEAAde9a.jpg",
+					"url": "https://t.co/nFxYF670oC",
+					"display_url": "pic.twitter.com/nFxYF670oC",
+					"expanded_url": "https://twitter.com/johnjohnston/status/905861256883478528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1798,
+							"h": 1798,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 905861254224285700,
+					"id_str": "905861254224285696",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/DJJEAuHUEAAde9a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJJEAuHUEAAde9a.jpg",
+					"url": "https://t.co/nFxYF670oC",
+					"display_url": "pic.twitter.com/nFxYF670oC",
+					"expanded_url": "https://twitter.com/johnjohnston/status/905861256883478528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1798,
+							"h": 1798,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://micro.blog/\" rel=\"nofollow\">Micro.blog</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3790,
+			"friends_count": 2469,
+			"listed_count": 282,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 3655,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15893,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 07 11:31:23 +0000 2017",
+		"id": 905755371100401700,
+		"id_str": "905755371100401664",
+		"text": "RT @Schools_Digital: Fantastic to see great digital school @burravoeps in #Shetlands at #DigitalSchoolsAwards event via video link! https:/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Shetlands",
+					"indices": [
+						74,
+						84
+					]
+				},
+				{
+					"text": "DigitalSchoolsAwards",
+					"indices": [
+						88,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Schools_Digital",
+					"name": "Digital Schools",
+					"id": 4151839535,
+					"id_str": "4151839535",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "burravoeps",
+					"name": "burravoeschool",
+					"id": 480248645,
+					"id_str": "480248645",
+					"indices": [
+						59,
+						70
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3790,
+			"friends_count": 2469,
+			"listed_count": 282,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 3655,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15893,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 06 09:51:58 +0000 2017",
+			"id": 905367963842334700,
+			"id_str": "905367963842334720",
+			"text": "Fantastic to see great digital school @burravoeps in #Shetlands at #DigitalSchoolsAwards event via video link! https://t.co/Gi9SUh2CUT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Shetlands",
+						"indices": [
+							53,
+							63
+						]
+					},
+					{
+						"text": "DigitalSchoolsAwards",
+						"indices": [
+							67,
+							88
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "burravoeps",
+						"name": "burravoeschool",
+						"id": 480248645,
+						"id_str": "480248645",
+						"indices": [
+							38,
+							49
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Gi9SUh2CUT",
+						"expanded_url": "https://twitter.com/burravoeps/status/905360876580069376",
+						"display_url": "twitter.com/burravoeps/sta…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4151839535,
+				"id_str": "4151839535",
+				"name": "Digital Schools",
+				"screen_name": "Schools_Digital",
+				"location": "UK and Ireland",
+				"description": "The Digital Schools Awards programme recognises and rewards best practice use of technology in primary and secondary schools.",
+				"url": "https://t.co/MC8PnMQgZ9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MC8PnMQgZ9",
+								"expanded_url": "http://www.digitalschoolsawards.co.uk",
+								"display_url": "digitalschoolsawards.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2746,
+				"friends_count": 4200,
+				"listed_count": 19,
+				"created_at": "Mon Nov 09 21:18:22 +0000 2015",
+				"favourites_count": 1812,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1198,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/663840193657573376/Qob8AClC.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/663840193657573376/Qob8AClC.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/778155382778818560/6dpz8IWN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/778155382778818560/6dpz8IWN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4151839535/1474325498",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "7a86e4aa93fb08dd",
+				"url": "https://api.twitter.com/1.1/geo/id/7a86e4aa93fb08dd.json",
+				"place_type": "city",
+				"name": "Clydebank",
+				"full_name": "Clydebank, Scotland",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-4.475248,
+								55.8890245
+							],
+							[
+								-4.3750513,
+								55.8890245
+							],
+							[
+								-4.3750513,
+								55.932721
+							],
+							[
+								-4.475248,
+								55.932721
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 905360876580069400,
+			"quoted_status_id_str": "905360876580069376",
+			"quoted_status": {
+				"created_at": "Wed Sep 06 09:23:48 +0000 2017",
+				"id": 905360876580069400,
+				"id_str": "905360876580069376",
+				"text": "We're enjoying the band at the @Schools_Digital award 👏👏👏 https://t.co/ZyQsNH3LOs",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "Schools_Digital",
+							"name": "Digital Schools",
+							"id": 4151839535,
+							"id_str": "4151839535",
+							"indices": [
+								31,
+								47
+							]
+						}
+					],
+					"urls": [],
+					"media": [
+						{
+							"id": 905360866807353300,
+							"id_str": "905360866807353344",
+							"indices": [
+								58,
+								81
+							],
+							"media_url": "http://pbs.twimg.com/media/DJB86VuXkAA1DQV.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DJB86VuXkAA1DQV.jpg",
+							"url": "https://t.co/ZyQsNH3LOs",
+							"display_url": "pic.twitter.com/ZyQsNH3LOs",
+							"expanded_url": "https://twitter.com/burravoeps/status/905360876580069376/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 2048,
+									"h": 1530,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 896,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 508,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 905360866807353300,
+							"id_str": "905360866807353344",
+							"indices": [
+								58,
+								81
+							],
+							"media_url": "http://pbs.twimg.com/media/DJB86VuXkAA1DQV.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DJB86VuXkAA1DQV.jpg",
+							"url": "https://t.co/ZyQsNH3LOs",
+							"display_url": "pic.twitter.com/ZyQsNH3LOs",
+							"expanded_url": "https://twitter.com/burravoeps/status/905360876580069376/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 2048,
+									"h": 1530,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 896,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 508,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 480248645,
+					"id_str": "480248645",
+					"name": "burravoeschool",
+					"screen_name": "burravoeps",
+					"location": "Shetland Islands",
+					"description": "We are a tiny school on an island.",
+					"url": "https://t.co/KK6EQXbZc0",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/KK6EQXbZc0",
+									"expanded_url": "https://blogs.glowscotland.org.uk/sh/BurravoePrimarySchool/",
+									"display_url": "blogs.glowscotland.org.uk/sh/BurravoePri…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 180,
+					"friends_count": 48,
+					"listed_count": 7,
+					"created_at": "Wed Feb 01 08:46:37 +0000 2012",
+					"favourites_count": 58,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 688,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/444444235664994304/BA6zxGg8_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/444444235664994304/BA6zxGg8_normal.jpeg",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 6,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 8,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 905360876580069400,
+		"quoted_status_id_str": "905360876580069376",
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 06 21:05:50 +0000 2017",
 		"id": 905537550756040700,
 		"id_str": "905537550756040704",
