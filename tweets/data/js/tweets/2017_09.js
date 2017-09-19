@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Mon Sep 18 21:46:53 +0000 2017",
+		"id": 909896535843930100,
+		"id_str": "909896535843930113",
+		"text": "RT @RosJLee: Super afternoon with P7 @GarnockPrimary creating #glowblogs What a great class! @GlowScot  #literacy #digitalskills #learningi…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "glowblogs",
+					"indices": [
+						62,
+						72
+					]
+				},
+				{
+					"text": "literacy",
+					"indices": [
+						104,
+						113
+					]
+				},
+				{
+					"text": "digitalskills",
+					"indices": [
+						114,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RosJLee",
+					"name": "Rosslyn Lee",
+					"id": 4165588108,
+					"id_str": "4165588108",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "GarnockPrimary",
+					"name": "Garnock Primary & EY",
+					"id": 1710058686,
+					"id_str": "1710058686",
+					"indices": [
+						37,
+						52
+					]
+				},
+				{
+					"screen_name": "GlowScot",
+					"name": "Glow Scot",
+					"id": 2912429973,
+					"id_str": "2912429973",
+					"indices": [
+						93,
+						102
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3794,
+			"friends_count": 2472,
+			"listed_count": 282,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 3679,
+			"utc_offset": 3600,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15928,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 18 20:49:22 +0000 2017",
+			"id": 909882058104700900,
+			"id_str": "909882058104700928",
+			"text": "Super afternoon with P7 @GarnockPrimary creating #glowblogs What a great class! @GlowScot  #literacy #digitalskills #learningisfun",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "glowblogs",
+						"indices": [
+							49,
+							59
+						]
+					},
+					{
+						"text": "literacy",
+						"indices": [
+							91,
+							100
+						]
+					},
+					{
+						"text": "digitalskills",
+						"indices": [
+							101,
+							115
+						]
+					},
+					{
+						"text": "learningisfun",
+						"indices": [
+							116,
+							130
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GarnockPrimary",
+						"name": "Garnock Primary & EY",
+						"id": 1710058686,
+						"id_str": "1710058686",
+						"indices": [
+							24,
+							39
+						]
+					},
+					{
+						"screen_name": "GlowScot",
+						"name": "Glow Scot",
+						"id": 2912429973,
+						"id_str": "2912429973",
+						"indices": [
+							80,
+							89
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4165588108,
+				"id_str": "4165588108",
+				"name": "Rosslyn Lee",
+				"screen_name": "RosJLee",
+				"location": "",
+				"description": "Supporting & teaching the use of digital technologies in North Ayrshire schools. Apple Teacher, Apple RTC Manager and MIEExpert.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 348,
+				"friends_count": 170,
+				"listed_count": 46,
+				"created_at": "Wed Nov 11 18:08:56 +0000 2015",
+				"favourites_count": 718,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1122,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/664518330573856772/8g_wPXD5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/664518330573856772/8g_wPXD5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4165588108/1447275379",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 17 20:36:42 +0000 2017",
 		"id": 909516482849230800,
 		"id_str": "909516482849230848",
