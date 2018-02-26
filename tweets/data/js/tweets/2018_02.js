@@ -1,6 +1,493 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sun Feb 25 19:51:35 +0000 2018",
+		"id": 967849577478066200,
+		"id_str": "967849577478066177",
+		"text": "RT @MTImmonsMusic: I will release my first album on @gargleblastuk  23rd February. You can pre-order it now. https://t.co/5vx6btmEyR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MTImmonsMusic",
+					"name": "Michael Timmons",
+					"id": 1244438078,
+					"id_str": "1244438078",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "gargleblastuk",
+					"name": "Gargleblast Records",
+					"id": 188410967,
+					"id_str": "188410967",
+					"indices": [
+						52,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5vx6btmEyR",
+					"expanded_url": "https://michaeltimmonsmusic.bandcamp.com/album/bone-coloured",
+					"display_url": "michaeltimmonsmusic.bandcamp.com/album/bone-col…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3868,
+			"friends_count": 2508,
+			"listed_count": 282,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 3989,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16384,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 11 19:52:14 +0000 2018",
+			"id": 962776311101055000,
+			"id_str": "962776311101054976",
+			"text": "I will release my first album on @gargleblastuk  23rd February. You can pre-order it now. https://t.co/5vx6btmEyR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "gargleblastuk",
+						"name": "Gargleblast Records",
+						"id": 188410967,
+						"id_str": "188410967",
+						"indices": [
+							33,
+							47
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/5vx6btmEyR",
+						"expanded_url": "https://michaeltimmonsmusic.bandcamp.com/album/bone-coloured",
+						"display_url": "michaeltimmonsmusic.bandcamp.com/album/bone-col…",
+						"indices": [
+							90,
+							113
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1244438078,
+				"id_str": "1244438078",
+				"name": "Michael Timmons",
+				"screen_name": "MTImmonsMusic",
+				"location": "",
+				"description": "Solo Musician - Glasgow",
+				"url": "https://t.co/zTmItDfH0P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zTmItDfH0P",
+								"expanded_url": "https://open.spotify.com/album/0Fm4ck7eQ7xUtaTWuPeM3B?si=wn1N_Zp6SCmfkMGcq9Ei1Q",
+								"display_url": "open.spotify.com/album/0Fm4ck7e…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 438,
+				"friends_count": 707,
+				"listed_count": 12,
+				"created_at": "Tue Mar 05 19:16:35 +0000 2013",
+				"favourites_count": 1867,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1535,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848934481096474624/qKZCEFdR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848934481096474624/qKZCEFdR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1244438078/1451480394",
+				"profile_link_color": "141414",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 33,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Feb 25 16:51:51 +0000 2018",
+		"id": 967804346619629600,
+		"id_str": "967804346619629568",
+		"text": "fascinating stuff, I like automation but I am more and more coming to the idea that posting to the internet should… https://t.co/qZk7ILZ8Di",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qZk7ILZ8Di",
+					"expanded_url": "https://twitter.com/i/web/status/967804346619629568",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3868,
+			"friends_count": 2508,
+			"listed_count": 282,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 3989,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16384,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 967724983802892300,
+		"quoted_status_id_str": "967724983802892288",
+		"quoted_status": {
+			"created_at": "Sun Feb 25 11:36:30 +0000 2018",
+			"id": 967724983802892300,
+			"id_str": "967724983802892288",
+			"text": "Well, inspired by @johnjohnston and @realdlnorman - I wrote a thing for the #stillweb on Intentional Cognitive Fric… https://t.co/n1K58Y8q1c",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "stillweb",
+						"indices": [
+							76,
+							85
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "johnjohnston",
+						"name": "john johnston",
+						"id": 7484192,
+						"id_str": "7484192",
+						"indices": [
+							18,
+							31
+						]
+					},
+					{
+						"screen_name": "realdlnorman",
+						"name": "D'Arcy Norman",
+						"id": 817493053527113700,
+						"id_str": "817493053527113729",
+						"indices": [
+							36,
+							49
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/n1K58Y8q1c",
+						"expanded_url": "https://twitter.com/i/web/status/967724983802892288",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1556094044,
+				"id_str": "1556094044",
+				"name": "ᴹᵃʳⁱᵃⁿᵃ ᶠᵘⁿᵉˢ",
+				"screen_name": "mdvfunes",
+				"location": "United Kingdom",
+				"description": "Just Twitter Data",
+				"url": "https://t.co/xz6lK6BQRS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xz6lK6BQRS",
+								"expanded_url": "http://marianafunes.co.uk",
+								"display_url": "marianafunes.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 630,
+				"friends_count": 183,
+				"listed_count": 43,
+				"created_at": "Sat Jun 29 16:53:03 +0000 2013",
+				"favourites_count": 3992,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16315,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/950078675017486342/giNpm8NA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/950078675017486342/giNpm8NA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1556094044/1515242639",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 24 20:32:06 +0000 2018",
 		"id": 967497384132579300,
 		"id_str": "967497384132579328",
