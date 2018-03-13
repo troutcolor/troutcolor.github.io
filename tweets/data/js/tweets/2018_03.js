@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Mon Mar 12 15:43:21 +0000 2018",
+		"id": 973222922927173600,
+		"id_str": "973222922927173632",
+		"text": "RT @EcoSchoolsScot: Does your school use #Glow? We've started an #EcoSchools Yammer group for pupils and teachers to share ideas - come joi…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Glow",
+					"indices": [
+						41,
+						46
+					]
+				},
+				{
+					"text": "EcoSchools",
+					"indices": [
+						65,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EcoSchoolsScot",
+					"name": "Eco-Schools Scotland",
+					"id": 364236024,
+					"id_str": "364236024",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3867,
+			"friends_count": 2510,
+			"listed_count": 281,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4013,
+			"utc_offset": 0,
+			"time_zone": "Edinburgh",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16417,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 12 12:32:36 +0000 2018",
+			"id": 973174922452389900,
+			"id_str": "973174922452389888",
+			"text": "Does your school use #Glow? We've started an #EcoSchools Yammer group for pupils and teachers to share ideas - come… https://t.co/oPg8eVwcR7",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Glow",
+						"indices": [
+							21,
+							26
+						]
+					},
+					{
+						"text": "EcoSchools",
+						"indices": [
+							45,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/oPg8eVwcR7",
+						"expanded_url": "https://twitter.com/i/web/status/973174922452389888",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 364236024,
+				"id_str": "364236024",
+				"name": "Eco-Schools Scotland",
+				"screen_name": "EcoSchoolsScot",
+				"location": "Stirling, Scotland",
+				"description": "Over 98% of Scottish schools take part in the global Eco-Schools initiative, administered in Scotland by Keep Scotland Beautiful @KSBScotland. #EcoSchools",
+				"url": "https://t.co/wNLvpMk2Vq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wNLvpMk2Vq",
+								"expanded_url": "http://www.ecoschoolsscotland.org",
+								"display_url": "ecoschoolsscotland.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9810,
+				"friends_count": 3468,
+				"listed_count": 161,
+				"created_at": "Mon Aug 29 12:50:17 +0000 2011",
+				"favourites_count": 5858,
+				"utc_offset": 0,
+				"time_zone": "Edinburgh",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11720,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFCB05",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/593733350663139328/19BrIlTq.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/593733350663139328/19BrIlTq.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/653882024512630784/p9uHgZ4t_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/653882024512630784/p9uHgZ4t_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/364236024/1489758213",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 16,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Mar 11 15:53:03 +0000 2018",
 		"id": 972862979011211300,
 		"id_str": "972862979011211271",
