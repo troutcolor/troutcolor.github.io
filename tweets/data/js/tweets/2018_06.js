@@ -1,6 +1,742 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Tue Jun 12 15:24:21 +0000 2018",
+		"id": 1006557826788053000,
+		"id_str": "1006557826788052992",
+		"text": "Naturewatch Camera in the class 1st Try: https://t.co/pxraWPfZTR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pxraWPfZTR",
+					"expanded_url": "http://johnjohnston.info/blog/naturewatch-camera-in-the-class-1st-try/",
+					"display_url": "johnjohnston.info/blog/naturewat…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://micro.blog/\" rel=\"nofollow\">Micro.blog</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3904,
+			"friends_count": 2536,
+			"listed_count": 280,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16659,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jun 12 10:01:20 +0000 2018",
+		"id": 1006476535400935400,
+		"id_str": "1006476535400935424",
+		"text": "RT @Banton_Pr: #mynaturewatch our first photos in the playground #RaspberryPi https://t.co/FHqg95Ar2I",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mynaturewatch",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"text": "RaspberryPi",
+					"indices": [
+						65,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Banton_Pr",
+					"name": "Banton Primary",
+					"id": 702565959354163200,
+					"id_str": "702565959354163200",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1006475003448217600,
+					"id_str": "1006475003448217601",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Dfe3rt_XUAEm8nr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dfe3rt_XUAEm8nr.jpg",
+					"url": "https://t.co/FHqg95Ar2I",
+					"display_url": "pic.twitter.com/FHqg95Ar2I",
+					"expanded_url": "https://twitter.com/Banton_Pr/status/1006475148759912448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1796,
+							"h": 1010,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1006475148759912400,
+					"source_status_id_str": "1006475148759912448",
+					"source_user_id": 702565959354163200,
+					"source_user_id_str": "702565959354163200"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1006475003448217600,
+					"id_str": "1006475003448217601",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Dfe3rt_XUAEm8nr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dfe3rt_XUAEm8nr.jpg",
+					"url": "https://t.co/FHqg95Ar2I",
+					"display_url": "pic.twitter.com/FHqg95Ar2I",
+					"expanded_url": "https://twitter.com/Banton_Pr/status/1006475148759912448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1796,
+							"h": 1010,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1006475148759912400,
+					"source_status_id_str": "1006475148759912448",
+					"source_user_id": 702565959354163200,
+					"source_user_id_str": "702565959354163200"
+				},
+				{
+					"id": 1006475003297239000,
+					"id_str": "1006475003297239040",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Dfe3rtbXkAARLDY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dfe3rtbXkAARLDY.jpg",
+					"url": "https://t.co/FHqg95Ar2I",
+					"display_url": "pic.twitter.com/FHqg95Ar2I",
+					"expanded_url": "https://twitter.com/Banton_Pr/status/1006475148759912448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1790,
+							"h": 1006,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1006475148759912400,
+					"source_status_id_str": "1006475148759912448",
+					"source_user_id": 702565959354163200,
+					"source_user_id_str": "702565959354163200"
+				},
+				{
+					"id": 1006475003284590600,
+					"id_str": "1006475003284590593",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Dfe3rtYWkAErsFN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dfe3rtYWkAErsFN.jpg",
+					"url": "https://t.co/FHqg95Ar2I",
+					"display_url": "pic.twitter.com/FHqg95Ar2I",
+					"expanded_url": "https://twitter.com/Banton_Pr/status/1006475148759912448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1796,
+							"h": 1010,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1006475148759912400,
+					"source_status_id_str": "1006475148759912448",
+					"source_user_id": 702565959354163200,
+					"source_user_id_str": "702565959354163200"
+				},
+				{
+					"id": 1006475003423051800,
+					"id_str": "1006475003423051776",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Dfe3rt5XUAAMZS3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dfe3rt5XUAAMZS3.jpg",
+					"url": "https://t.co/FHqg95Ar2I",
+					"display_url": "pic.twitter.com/FHqg95Ar2I",
+					"expanded_url": "https://twitter.com/Banton_Pr/status/1006475148759912448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1782,
+							"h": 1003,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1006475148759912400,
+					"source_status_id_str": "1006475148759912448",
+					"source_user_id": 702565959354163200,
+					"source_user_id_str": "702565959354163200"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3904,
+			"friends_count": 2536,
+			"listed_count": 280,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16659,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 12 09:55:49 +0000 2018",
+			"id": 1006475148759912400,
+			"id_str": "1006475148759912448",
+			"text": "#mynaturewatch our first photos in the playground #RaspberryPi https://t.co/FHqg95Ar2I",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "mynaturewatch",
+						"indices": [
+							0,
+							14
+						]
+					},
+					{
+						"text": "RaspberryPi",
+						"indices": [
+							50,
+							62
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1006475003448217600,
+						"id_str": "1006475003448217601",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/Dfe3rt_XUAEm8nr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dfe3rt_XUAEm8nr.jpg",
+						"url": "https://t.co/FHqg95Ar2I",
+						"display_url": "pic.twitter.com/FHqg95Ar2I",
+						"expanded_url": "https://twitter.com/Banton_Pr/status/1006475148759912448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1796,
+								"h": 1010,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1006475003448217600,
+						"id_str": "1006475003448217601",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/Dfe3rt_XUAEm8nr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dfe3rt_XUAEm8nr.jpg",
+						"url": "https://t.co/FHqg95Ar2I",
+						"display_url": "pic.twitter.com/FHqg95Ar2I",
+						"expanded_url": "https://twitter.com/Banton_Pr/status/1006475148759912448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1796,
+								"h": 1010,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1006475003297239000,
+						"id_str": "1006475003297239040",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/Dfe3rtbXkAARLDY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dfe3rtbXkAARLDY.jpg",
+						"url": "https://t.co/FHqg95Ar2I",
+						"display_url": "pic.twitter.com/FHqg95Ar2I",
+						"expanded_url": "https://twitter.com/Banton_Pr/status/1006475148759912448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1790,
+								"h": 1006,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1006475003284590600,
+						"id_str": "1006475003284590593",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/Dfe3rtYWkAErsFN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dfe3rtYWkAErsFN.jpg",
+						"url": "https://t.co/FHqg95Ar2I",
+						"display_url": "pic.twitter.com/FHqg95Ar2I",
+						"expanded_url": "https://twitter.com/Banton_Pr/status/1006475148759912448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1796,
+								"h": 1010,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1006475003423051800,
+						"id_str": "1006475003423051776",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/Dfe3rt5XUAAMZS3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dfe3rt5XUAAMZS3.jpg",
+						"url": "https://t.co/FHqg95Ar2I",
+						"display_url": "pic.twitter.com/FHqg95Ar2I",
+						"expanded_url": "https://twitter.com/Banton_Pr/status/1006475148759912448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1782,
+								"h": 1003,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 702565959354163200,
+				"id_str": "702565959354163200",
+				"name": "Banton Primary",
+				"screen_name": "Banton_Pr",
+				"location": "Banton, Scotland",
+				"description": "A Small Primary School in North Lanarkshire",
+				"url": "https://t.co/WNBQyt3iF5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WNBQyt3iF5",
+								"expanded_url": "https://blogs.glowscotland.org.uk/nl/banton/",
+								"display_url": "blogs.glowscotland.org.uk/nl/banton/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 146,
+				"friends_count": 34,
+				"listed_count": 5,
+				"created_at": "Wed Feb 24 18:49:12 +0000 2016",
+				"favourites_count": 274,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 408,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/702578403564773376/V51uWMrV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/702578403564773376/V51uWMrV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/702565959354163200/1456342883",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jun 11 21:37:09 +0000 2018",
 		"id": 1006289255994482700,
 		"id_str": "1006289255994482689",
