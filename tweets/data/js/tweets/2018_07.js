@@ -1,6 +1,724 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Fri Jul 27 19:52:46 +0000 2018",
+		"id": 1022932829871718400,
+		"id_str": "1022932829871718400",
+		"text": "RT @MTImmonsMusic: Any guitars out there available for these learners? @YCSA_Youth @clare_mcbrien @LCEnsemble https://t.co/VLKqhpF6Ds",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MTImmonsMusic",
+					"name": "Michael Timmons",
+					"id": 1244438078,
+					"id_str": "1244438078",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "YCSA_Youth",
+					"name": "YCSA",
+					"id": 2979894989,
+					"id_str": "2979894989",
+					"indices": [
+						71,
+						82
+					]
+				},
+				{
+					"screen_name": "clare_mcbrien",
+					"name": "Clare Anne",
+					"id": 406225162,
+					"id_str": "406225162",
+					"indices": [
+						83,
+						97
+					]
+				},
+				{
+					"screen_name": "LCEnsemble",
+					"name": "Ensemble",
+					"id": 727509081242636300,
+					"id_str": "727509081242636292",
+					"indices": [
+						98,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VLKqhpF6Ds",
+					"expanded_url": "https://twitter.com/clare_mcbrien/status/1022890356277485570",
+					"display_url": "twitter.com/clare_mcbrien/…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3902,
+			"friends_count": 2538,
+			"listed_count": 280,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16755,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jul 27 17:10:33 +0000 2018",
+			"id": 1022892006312435700,
+			"id_str": "1022892006312435712",
+			"text": "Any guitars out there available for these learners? @YCSA_Youth @clare_mcbrien @LCEnsemble https://t.co/VLKqhpF6Ds",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "YCSA_Youth",
+						"name": "YCSA",
+						"id": 2979894989,
+						"id_str": "2979894989",
+						"indices": [
+							52,
+							63
+						]
+					},
+					{
+						"screen_name": "clare_mcbrien",
+						"name": "Clare Anne",
+						"id": 406225162,
+						"id_str": "406225162",
+						"indices": [
+							64,
+							78
+						]
+					},
+					{
+						"screen_name": "LCEnsemble",
+						"name": "Ensemble",
+						"id": 727509081242636300,
+						"id_str": "727509081242636292",
+						"indices": [
+							79,
+							90
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/VLKqhpF6Ds",
+						"expanded_url": "https://twitter.com/clare_mcbrien/status/1022890356277485570",
+						"display_url": "twitter.com/clare_mcbrien/…",
+						"indices": [
+							91,
+							114
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1244438078,
+				"id_str": "1244438078",
+				"name": "Michael Timmons",
+				"screen_name": "MTImmonsMusic",
+				"location": "",
+				"description": "Musician - Glasgow. Debut album Bone Coloured out on vinyl now.  https://t.co/YYYgPCxyH5",
+				"url": "https://t.co/zTmItDfH0P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zTmItDfH0P",
+								"expanded_url": "https://open.spotify.com/album/0Fm4ck7eQ7xUtaTWuPeM3B?si=wn1N_Zp6SCmfkMGcq9Ei1Q",
+								"display_url": "open.spotify.com/album/0Fm4ck7e…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/YYYgPCxyH5",
+								"expanded_url": "http://michaeltimmonsmusic.bandcamp.com/album/bone-coloured",
+								"display_url": "michaeltimmonsmusic.bandcamp.com/album/bone-col…",
+								"indices": [
+									65,
+									88
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 499,
+				"friends_count": 666,
+				"listed_count": 12,
+				"created_at": "Tue Mar 05 19:16:35 +0000 2013",
+				"favourites_count": 2378,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1858,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848934481096474624/qKZCEFdR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848934481096474624/qKZCEFdR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1244438078/1520462709",
+				"profile_link_color": "141414",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1022890356277485600,
+			"quoted_status_id_str": "1022890356277485570",
+			"quoted_status": {
+				"created_at": "Fri Jul 27 17:03:59 +0000 2018",
+				"id": 1022890356277485600,
+				"id_str": "1022890356277485570",
+				"text": "Learning guitar at @YCSA_Youth!!  Funded by @CreativeScots.  We still need second hand guitars so we can practise a… https://t.co/7bPemzmhxj",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "YCSA_Youth",
+							"name": "YCSA",
+							"id": 2979894989,
+							"id_str": "2979894989",
+							"indices": [
+								19,
+								30
+							]
+						},
+						{
+							"screen_name": "CreativeScots",
+							"name": "Creative Scotland",
+							"id": 67557335,
+							"id_str": "67557335",
+							"indices": [
+								44,
+								58
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/7bPemzmhxj",
+							"expanded_url": "https://twitter.com/i/web/status/1022890356277485570",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 406225162,
+					"id_str": "406225162",
+					"name": "Clare Anne",
+					"screen_name": "clare_mcbrien",
+					"location": "Scotland.",
+					"description": "All views are my own.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 237,
+					"friends_count": 553,
+					"listed_count": 16,
+					"created_at": "Sun Nov 06 12:26:24 +0000 2011",
+					"favourites_count": 816,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 1234,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/679792892496470016/SbRrqYDr_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/679792892496470016/SbRrqYDr_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/406225162/1450910304",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 7,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 5,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1022890356277485600,
+		"quoted_status_id_str": "1022890356277485570",
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jul 27 09:30:14 +0000 2018",
+		"id": 1022776164644003800,
+		"id_str": "1022776164644003840",
+		"text": "When @c told me about Twitter Atom feeds I tried it out. first fruit was reading @mrkrndvs’s tweets from… https://t.co/yLWNSlsb9X",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "c",
+					"name": "Coley Forest",
+					"id": 632173,
+					"id_str": "632173",
+					"indices": [
+						5,
+						7
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						81,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yLWNSlsb9X",
+					"expanded_url": "https://twitter.com/i/web/status/1022776164644003840",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://micro.blog/\" rel=\"nofollow\">Micro.blog</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3902,
+			"friends_count": 2538,
+			"listed_count": 280,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16755,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jul 27 09:30:13 +0000 2018",
+		"id": 1022776159027834900,
+		"id_str": "1022776159027834880",
+		"text": "Lady’s Tower Elie https://t.co/eAejWWbzZz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1022776157140217900,
+					"id_str": "1022776157140217856",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/DjGhfvsU8AAStJc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjGhfvsU8AAStJc.jpg",
+					"url": "https://t.co/eAejWWbzZz",
+					"display_url": "pic.twitter.com/eAejWWbzZz",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1022776159027834880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1022776157140217900,
+					"id_str": "1022776157140217856",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/DjGhfvsU8AAStJc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjGhfvsU8AAStJc.jpg",
+					"url": "https://t.co/eAejWWbzZz",
+					"display_url": "pic.twitter.com/eAejWWbzZz",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1022776159027834880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://micro.blog/\" rel=\"nofollow\">Micro.blog</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3902,
+			"friends_count": 2538,
+			"listed_count": 280,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16755,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jul 23 21:40:01 +0000 2018",
 		"id": 1021510268730454000,
 		"id_str": "1021510268730454023",
