@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Tue Jul 31 15:18:30 +0000 2018",
+		"id": 1024313358894415900,
+		"id_str": "1024313358894415872",
+		"text": "@mrfeistsclass @weegieteacher @MissLMacDonald @gingermelv @LouiseE_Foreman @SeySusan @aford78 @andrewjewell @Sfm36… https://t.co/pyysxUqBTy",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrfeistsclass",
+					"name": "Mr Feist 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+					"id": 3054101501,
+					"id_str": "3054101501",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "weegieteacher",
+					"name": "Jennifer Lilley",
+					"id": 727623323157418000,
+					"id_str": "727623323157417985",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"screen_name": "MissLMacDonald",
+					"name": "Laura McEachran",
+					"id": 738421091744546800,
+					"id_str": "738421091744546816",
+					"indices": [
+						30,
+						45
+					]
+				},
+				{
+					"screen_name": "gingermelv",
+					"name": "Leigh Milligan",
+					"id": 19449838,
+					"id_str": "19449838",
+					"indices": [
+						46,
+						57
+					]
+				},
+				{
+					"screen_name": "LouiseE_Foreman",
+					"name": "Louise Foreman 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+					"id": 819287928,
+					"id_str": "819287928",
+					"indices": [
+						58,
+						74
+					]
+				},
+				{
+					"screen_name": "SeySusan",
+					"name": "Susan Sey",
+					"id": 2606417403,
+					"id_str": "2606417403",
+					"indices": [
+						75,
+						84
+					]
+				},
+				{
+					"screen_name": "aford78",
+					"name": "Dr Amanda Ford",
+					"id": 65392256,
+					"id_str": "65392256",
+					"indices": [
+						85,
+						93
+					]
+				},
+				{
+					"screen_name": "andrewjewell",
+					"name": "Andrew Jewell",
+					"id": 19016867,
+					"id_str": "19016867",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"screen_name": "Sfm36",
+					"name": "Sarah Clark",
+					"id": 384551986,
+					"id_str": "384551986",
+					"indices": [
+						108,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pyysxUqBTy",
+					"expanded_url": "https://twitter.com/i/web/status/1024313358894415872",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1024218996357451800,
+		"in_reply_to_status_id_str": "1024218996357451776",
+		"in_reply_to_user_id": 3054101501,
+		"in_reply_to_user_id_str": "3054101501",
+		"in_reply_to_screen_name": "mrfeistsclass",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3904,
+			"friends_count": 2538,
+			"listed_count": 280,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16766,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jul 30 19:29:15 +0000 2018",
 		"id": 1024014074701602800,
 		"id_str": "1024014074701602817",
