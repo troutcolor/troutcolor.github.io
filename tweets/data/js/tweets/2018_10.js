@@ -1,6 +1,773 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 26 15:19:33 +0000 2018",
+		"id": 1055841369346990100,
+		"id_str": "1055841369346990081",
+		"full_text": "@paulmartin42 Don’t thinks so still a lot of blogs bring created. Some are very old and folk who admin em no longer have an account. IMO we are only scratching the surface of blogging in Scottish Education.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "paulmartin42",
+					"name": "paul martin",
+					"id": 24338588,
+					"id_str": "24338588",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1055796075070718000,
+		"in_reply_to_status_id_str": "1055796075070717952",
+		"in_reply_to_user_id": 24338588,
+		"in_reply_to_user_id_str": "24338588",
+		"in_reply_to_screen_name": "paulmartin42",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3896,
+			"friends_count": 2532,
+			"listed_count": 280,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16996,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@paulmartin42 Don’t thinks so still a lot of blogs bring created. Some are very old and folk who admin em no longer have an account. IMO we are only scratching the surface of blogging in Scottish Education."
+	},
+	{
+		"created_at": "Fri Oct 26 12:12:21 +0000 2018",
+		"id": 1055794259595538400,
+		"id_str": "1055794259595538432",
+		"full_text": "Glow Blogs Clean Up https://t.co/FwspXcIEBC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FwspXcIEBC",
+					"expanded_url": "https://ift.tt/2EK49Wz",
+					"display_url": "ift.tt/2EK49Wz",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3896,
+			"friends_count": 2532,
+			"listed_count": 280,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16996,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Glow Blogs Clean Up https://t.co/FwspXcIEBC"
+	},
+	{
+		"created_at": "Fri Oct 26 11:16:15 +0000 2018",
+		"id": 1055780138875535400,
+		"id_str": "1055780138875535360",
+		"full_text": "Glow Blogs Clean Up #GlowBlogs we will be removing old and unused blogs soon. Please read and pass on.  https://t.co/fGuCMLuIl4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GlowBlogs",
+					"indices": [
+						20,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fGuCMLuIl4",
+					"expanded_url": "https://blogs.glowscotland.org.uk/glowblogs/glowbloghelp/2018/10/26/glow-blogs-clean-up/",
+					"display_url": "blogs.glowscotland.org.uk/glowblogs/glow…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3896,
+			"friends_count": 2532,
+			"listed_count": 280,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16996,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Glow Blogs Clean Up #GlowBlogs we will be removing old and unused blogs soon. Please read and pass on.  https://t.co/fGuCMLuIl4"
+	},
+	{
+		"created_at": "Fri Oct 26 04:35:37 +0000 2018",
+		"id": 1055679315826954200,
+		"id_str": "1055679315826954240",
+		"full_text": "We won. #RSS https://t.co/TReVCYY8sq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RSS",
+					"indices": [
+						8,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TReVCYY8sq",
+					"expanded_url": "https://twitter.com/amyreports/status/1055677113498394624",
+					"display_url": "twitter.com/amyreports/sta…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3839,
+			"id_str": "3839",
+			"name": "scripting.com",
+			"screen_name": "davewiner",
+			"location": "New York",
+			"description": "American software developer, blogger, inventor of new media types.",
+			"url": "https://t.co/ztgzDGiyOj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ztgzDGiyOj",
+							"expanded_url": "http://scripting.com/",
+							"display_url": "scripting.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67578,
+			"friends_count": 3809,
+			"listed_count": 5578,
+			"created_at": "Sat Aug 05 23:04:08 +0000 2006",
+			"favourites_count": 10260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 152831,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/923372777670938625/Wjzo_hWE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/923372777670938625/Wjzo_hWE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3839/1485462576",
+			"profile_link_color": "7F7F90",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E1E1DF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1055677113498394600,
+		"quoted_status_id_str": "1055677113498394624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TReVCYY8sq",
+			"expanded": "https://twitter.com/amyreports/status/1055677113498394624",
+			"display": "twitter.com/amyreports/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 26 04:26:52 +0000 2018",
+			"id": 1055677113498394600,
+			"id_str": "1055677113498394624",
+			"full_text": "Ouch, @NYT_Crossword. https://t.co/ckeZ8dc0fo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				21
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NYT_Crossword",
+						"name": "NYTimes Crossword",
+						"id": 708425577162743800,
+						"id_str": "708425577162743808",
+						"indices": [
+							6,
+							20
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1055677107546673200,
+						"id_str": "1055677107546673152",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/DqaEvHDU0AAbvp9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DqaEvHDU0AAbvp9.jpg",
+						"url": "https://t.co/ckeZ8dc0fo",
+						"display_url": "pic.twitter.com/ckeZ8dc0fo",
+						"expanded_url": "https://twitter.com/amyreports/status/1055677113498394624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1055677107546673200,
+						"id_str": "1055677107546673152",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/DqaEvHDU0AAbvp9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DqaEvHDU0AAbvp9.jpg",
+						"url": "https://t.co/ckeZ8dc0fo",
+						"display_url": "pic.twitter.com/ckeZ8dc0fo",
+						"expanded_url": "https://twitter.com/amyreports/status/1055677113498394624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 519796901,
+				"id_str": "519796901",
+				"name": "Amy Scott",
+				"screen_name": "amyreports",
+				"location": "Denver, CO",
+				"description": "Senior Correspondent @Marketplace, covering housing & the economy. Producer/Director of the documentary OYLER: One School, One Year.  RT ≠ endorsement",
+				"url": "http://t.co/Q99i0qcEjz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Q99i0qcEjz",
+								"expanded_url": "http://www.oylerdocumentary.com",
+								"display_url": "oylerdocumentary.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3091,
+				"friends_count": 819,
+				"listed_count": 189,
+				"created_at": "Fri Mar 09 20:30:37 +0000 2012",
+				"favourites_count": 1271,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2235,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/644975551694790656/gsPLvshr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/644975551694790656/gsPLvshr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/519796901/1512761143",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 219,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We won. #RSS https://t.co/TReVCYY8sq"
+	},
+	{
+		"created_at": "Wed Oct 24 17:36:08 +0000 2018",
+		"id": 1055150965446238200,
+		"id_str": "1055150965446238208",
+		"full_text": "European parliament approves sweeping ban on single-use plastics https://t.co/uct34ZMnKD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uct34ZMnKD",
+					"expanded_url": "https://www.theguardian.com/environment/2018/oct/24/european-parliament-approves-ban-on-single-use-plastics-uk-eu-brexit?CMP=twt_a-environment_b-gdneco",
+					"display_url": "theguardian.com/environment/20…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20582958,
+			"id_str": "20582958",
+			"name": "Guardian Environment",
+			"screen_name": "guardianeco",
+			"location": "London, UK",
+			"description": "News and comment on the world's most important environmental stories",
+			"url": "https://t.co/IrYc3fUv80",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IrYc3fUv80",
+							"expanded_url": "https://www.theguardian.com/environment",
+							"display_url": "theguardian.com/environment",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 443420,
+			"friends_count": 7994,
+			"listed_count": 11867,
+			"created_at": "Wed Feb 11 10:47:37 +0000 2009",
+			"favourites_count": 1157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 59907,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952818009030176768/bY-fy5tU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952818009030176768/bY-fy5tU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20582958/1516004511",
+			"profile_link_color": "005689",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CAE3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 423,
+		"favorite_count": 624,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "European parliament approves sweeping ban on single-use plastics https://t.co/uct34ZMnKD"
+	},
+	{
 		"created_at": "Thu Oct 25 07:26:33 +0000 2018",
 		"id": 1055359946731200500,
 		"id_str": "1055359946731200517",
