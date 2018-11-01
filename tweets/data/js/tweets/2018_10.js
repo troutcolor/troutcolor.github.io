@@ -1,6 +1,439 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 31 22:38:49 +0000 2018",
+		"id": 1057763852702675000,
+		"id_str": "1057763852702674944",
+		"full_text": "Orienteering &amp; Canoeing – Banton Biggies at Kilbowie Day three report. Have a listen.  https://t.co/TY5jCQth5d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TY5jCQth5d",
+					"expanded_url": "https://blogs.glowscotland.org.uk/nl/bantonbiggies/2018/10/31/orienteering-canoeing/",
+					"display_url": "blogs.glowscotland.org.uk/nl/bantonbiggi…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3897,
+			"friends_count": 2534,
+			"listed_count": 280,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17005,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Orienteering &amp; Canoeing – Banton Biggies at Kilbowie Day three report. Have a listen.  https://t.co/TY5jCQth5d"
+	},
+	{
+		"created_at": "Mon Oct 29 16:15:45 +0000 2018",
+		"id": 1056942673796522000,
+		"id_str": "1056942673796521985",
+		"full_text": "Really looking forward to this!  I've been working on developing this course for a while now, and will be sharing the CC licensed resources soon :) https://t.co/ItC3SIwLjO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ItC3SIwLjO",
+					"expanded_url": "https://twitter.com/UoEDigiSkills/status/1056939190997446657",
+					"display_url": "twitter.com/UoEDigiSkills/…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4016151,
+			"id_str": "4016151",
+			"name": "Lorna M. Campbell",
+			"screen_name": "LornaMCampbell",
+			"location": "Glasgow / University of Edinburgh / Isle of Lewis",
+			"description": "Open education technology, policy & practice @EdinburghUni. @A_L_T, @WikimediaUK & @NauticalHistory Trustee. #oer #openscot #femedtech #cmalt",
+			"url": "https://t.co/9HmEQnxTzb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9HmEQnxTzb",
+							"expanded_url": "http://lornamcampbell.org",
+							"display_url": "lornamcampbell.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3594,
+			"friends_count": 2489,
+			"listed_count": 203,
+			"created_at": "Tue Apr 10 11:25:09 +0000 2007",
+			"favourites_count": 24360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32201,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "AFD3F2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/768472775090638851/1bgBAlp7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/768472775090638851/1bgBAlp7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4016151/1445333850",
+			"profile_link_color": "1F59AB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1056939190997446700,
+		"quoted_status_id_str": "1056939190997446657",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ItC3SIwLjO",
+			"expanded": "https://twitter.com/UoEDigiSkills/status/1056939190997446657",
+			"display": "twitter.com/UoEDigiSkills/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 29 16:01:54 +0000 2018",
+			"id": 1056939190997446700,
+			"id_str": "1056939190997446657",
+			"full_text": "Thrilled to be teaming up with @LornaMCampbell to bring the new 'Academic Blogging: Blogging to build your professional profile' course to our Digital Skills Programme! \nDetails &amp; booking: https://t.co/7DSTdwUCOC https://t.co/7S2NEeKk3o",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				216
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LornaMCampbell",
+						"name": "Lorna M. Campbell",
+						"id": 4016151,
+						"id_str": "4016151",
+						"indices": [
+							31,
+							46
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/7DSTdwUCOC",
+						"expanded_url": "https://edin.ac/2Q9j0Ly",
+						"display_url": "edin.ac/2Q9j0Ly",
+						"indices": [
+							193,
+							216
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1056939155874345000,
+						"id_str": "1056939155874344960",
+						"indices": [
+							217,
+							240
+						],
+						"media_url": "http://pbs.twimg.com/media/DqsAj_cXcAA9ziU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DqsAj_cXcAA9ziU.jpg",
+						"url": "https://t.co/7S2NEeKk3o",
+						"display_url": "pic.twitter.com/7S2NEeKk3o",
+						"expanded_url": "https://twitter.com/UoEDigiSkills/status/1056939190997446657/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1056939155874345000,
+						"id_str": "1056939155874344960",
+						"indices": [
+							217,
+							240
+						],
+						"media_url": "http://pbs.twimg.com/media/DqsAj_cXcAA9ziU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DqsAj_cXcAA9ziU.jpg",
+						"url": "https://t.co/7S2NEeKk3o",
+						"display_url": "pic.twitter.com/7S2NEeKk3o",
+						"expanded_url": "https://twitter.com/UoEDigiSkills/status/1056939190997446657/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3421806689,
+				"id_str": "3421806689",
+				"name": "UoE Digital Skills",
+				"screen_name": "UoEDigiSkills",
+				"location": "Edinburgh, Scotland",
+				"description": "Digital Skills and Training team providing digital and IT training and resources for The University of Edinburgh students and staff. https://t.co/vhZAhxrTdA",
+				"url": "https://t.co/vhZAhxrTdA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vhZAhxrTdA",
+								"expanded_url": "http://www.ed.ac.uk/is/skills",
+								"display_url": "ed.ac.uk/is/skills",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/vhZAhxrTdA",
+								"expanded_url": "http://www.ed.ac.uk/is/skills",
+								"display_url": "ed.ac.uk/is/skills",
+								"indices": [
+									133,
+									156
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 766,
+				"friends_count": 400,
+				"listed_count": 30,
+				"created_at": "Fri Aug 14 09:10:33 +0000 2015",
+				"favourites_count": 285,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 635,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/632121167575404552/ZYGIvHKo_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/632121167575404552/ZYGIvHKo_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3421806689/1466155874",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Really looking forward to this!  I've been working on developing this course for a while now, and will be sharing the CC licensed resources soon :) https://t.co/ItC3SIwLjO"
+	},
+	{
 		"created_at": "Mon Oct 29 16:15:45 +0000 2018",
 		"id": 1056942673796522000,
 		"id_str": "1056942673796521985",
