@@ -1,6 +1,567 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 29 19:16:39 +0000 2018",
+		"id": 1068222222790217700,
+		"id_str": "1068222222790217730",
+		"full_text": "This is important. https://t.co/MKs5d6qeP2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MKs5d6qeP2",
+					"expanded_url": "https://twitter.com/pgogy/status/1068137158932905985",
+					"display_url": "twitter.com/pgogy/status/1…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3896,
+			"friends_count": 2535,
+			"listed_count": 279,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17074,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1068137158932906000,
+		"quoted_status_id_str": "1068137158932905985",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MKs5d6qeP2",
+			"expanded": "https://twitter.com/pgogy/status/1068137158932905985",
+			"display": "twitter.com/pgogy/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 29 13:38:38 +0000 2018",
+			"id": 1068137158932906000,
+			"id_str": "1068137158932905985",
+			"full_text": "Come people. Put a fiver in\n\nExpecting other people to work for free to solve our problemsis seriously bad form\n\n https://t.co/4a9nBSfYnj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				137
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4a9nBSfYnj",
+						"expanded_url": "https://wpcampus.org/2018/11/fundraising-for-wpcampus-gutenberg-accessibility-audit/",
+						"display_url": "wpcampus.org/2018/11/fundra…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 291323178,
+				"id_str": "291323178",
+				"name": "Pgogy WebStuff",
+				"screen_name": "Pgogy",
+				"location": "All Updates from Pgogy",
+				"description": "Pedagogic and Technological Outfitters : WordPress/Drupal/Moodle/PHP/JS : elearning, visualisations, MOOCs, DigiHums, pretty much all code. @pressedconf helper",
+				"url": "https://t.co/5nRHmbGvMh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5nRHmbGvMh",
+								"expanded_url": "http://www.pgogywebstuff.com",
+								"display_url": "pgogywebstuff.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 518,
+				"friends_count": 958,
+				"listed_count": 38,
+				"created_at": "Sun May 01 20:18:19 +0000 2011",
+				"favourites_count": 324,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3754,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F7F9FA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/822391671438516225/PeUCnrOR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/822391671438516225/PeUCnrOR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/291323178/1484910672",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is important. https://t.co/MKs5d6qeP2"
+	},
+	{
+		"created_at": "Thu Nov 29 18:48:00 +0000 2018",
+		"id": 1068215014186774500,
+		"id_str": "1068215014186774528",
+		"full_text": "One thing I really dislike about kindles is you don’t see the cover every time you pick it up. I quite often can’t name the book I am reading. Now using old iPad mini as reader so I put the cover on the lock screen. https://t.co/SRMf7gT1bW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1068215010600472600,
+					"id_str": "1068215010600472576",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/DtMP5HqU0AAnWNS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtMP5HqU0AAnWNS.jpg",
+					"url": "https://t.co/SRMf7gT1bW",
+					"display_url": "pic.twitter.com/SRMf7gT1bW",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1068215014186774528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1068215010600472600,
+					"id_str": "1068215010600472576",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/DtMP5HqU0AAnWNS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtMP5HqU0AAnWNS.jpg",
+					"url": "https://t.co/SRMf7gT1bW",
+					"display_url": "pic.twitter.com/SRMf7gT1bW",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1068215014186774528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://micro.blog/\" rel=\"nofollow\">Micro.blog</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3896,
+			"friends_count": 2535,
+			"listed_count": 279,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17074,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One thing I really dislike about kindles is you don’t see the cover every time you pick it up. I quite often can’t name the book I am reading. Now using old iPad mini as reader so I put the cover on the lock screen. https://t.co/SRMf7gT1bW"
+	},
+	{
+		"created_at": "Wed Nov 28 13:04:45 +0000 2018",
+		"id": 1067766243330011100,
+		"id_str": "1067766243330011146",
+		"full_text": "@mclennancarrie presenting on our exploration of use of #glowblogs as ePortfolio in Teacher Education at @UoD_ESW. Some good  posts coming into our #uodedushare site from the Discovering Maths elective…  #eswconf18 https://t.co/x9CVUx0p0k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "glowblogs",
+					"indices": [
+						56,
+						66
+					]
+				},
+				{
+					"text": "uodedushare",
+					"indices": [
+						148,
+						160
+					]
+				},
+				{
+					"text": "eswconf18",
+					"indices": [
+						204,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mclennancarrie",
+					"name": "Carrie McLennan",
+					"id": 1671162276,
+					"id_str": "1671162276",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "UoD_ESW",
+					"name": "ESW Univ of Dundee",
+					"id": 918042557069873200,
+					"id_str": "918042557069873152",
+					"indices": [
+						105,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/x9CVUx0p0k",
+					"expanded_url": "https://blogs.glowscotland.org.uk/glowblogs/uodedushare/",
+					"display_url": "blogs.glowscotland.org.uk/glowblogs/uode…",
+					"indices": [
+						215,
+						238
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1671162276,
+		"in_reply_to_user_id_str": "1671162276",
+		"in_reply_to_screen_name": "mclennancarrie",
+		"user": {
+			"id": 8894072,
+			"id_str": "8894072",
+			"name": "Derek P Robertson",
+			"screen_name": "derekrobertson",
+			"location": "Dundee, Scotland",
+			"description": "Interested in digital learning & most things related to teacher education. This account relates to my work but tweets about music &  stuff will appear too.",
+			"url": "http://t.co/RL8heIW5pP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/RL8heIW5pP",
+							"expanded_url": "http://hotmilkydrink.typepad.com/",
+							"display_url": "hotmilkydrink.typepad.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5454,
+			"friends_count": 3137,
+			"listed_count": 224,
+			"created_at": "Sat Sep 15 09:50:01 +0000 2007",
+			"favourites_count": 6848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26082,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3C2C22",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632204940098830337/X6LLya1x_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632204940098830337/X6LLya1x_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8894072/1492097104",
+			"profile_link_color": "7A5C45",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "281E17",
+			"profile_text_color": "54493E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mclennancarrie presenting on our exploration of use of #glowblogs as ePortfolio in Teacher Education at @UoD_ESW. Some good  posts coming into our #uodedushare site from the Discovering Maths elective…  #eswconf18 https://t.co/x9CVUx0p0k"
+	},
+	{
 		"created_at": "Wed Nov 28 18:26:39 +0000 2018",
 		"id": 1067847252465590300,
 		"id_str": "1067847252465590272",
