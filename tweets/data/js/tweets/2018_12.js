@@ -76,6 +76,126 @@ Grailbird.data.tweets_2018_12 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
+			"statuses_count": 22689,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "07090B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1645780566/JS_diigo_normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1645780566/JS_diigo_normal.JPG",
+			"profile_link_color": "383C85",
+			"profile_sidebar_border_color": "BFBFBF",
+			"profile_sidebar_fill_color": "C9C9C9",
+			"profile_text_color": "1C1F23",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1072080670111998000,
+		"quoted_status_id_str": "1072080670111997952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FQh4hjtBt5",
+			"expanded": "https://twitter.com/kirsteensteven/status/1072080670111997952",
+			"display": "twitter.com/kirsteensteven…"
+		},
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nice use of @GlowScot Launch Pad @DigiLearnScot https://t.co/FQh4hjtBt5"
+	},
+	{
+		"created_at": "Mon Dec 10 13:03:56 +0000 2018",
+		"id": 1072114694083752000,
+		"id_str": "1072114694083751936",
+		"full_text": "Nice use of @GlowScot Launch Pad @DigiLearnScot https://t.co/FQh4hjtBt5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GlowScot",
+					"name": "Glow Scot",
+					"id": 2912429973,
+					"id_str": "2912429973",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"screen_name": "DigiLearnScot",
+					"name": "Digital Learning and Teaching",
+					"id": 2965753499,
+					"id_str": "2965753499",
+					"indices": [
+						33,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FQh4hjtBt5",
+					"expanded_url": "https://twitter.com/kirsteensteven/status/1072080670111997952",
+					"display_url": "twitter.com/kirsteensteven…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 136030392,
+			"id_str": "136030392",
+			"name": "John Sexton",
+			"screen_name": "MrSMathsWizard",
+			"location": "Edinburgh/Glasgow",
+			"description": "Education ICT Development Team Development Officer\n--\nEducation ICT Development Team\nWest Lothian Council - Schools & Education Services",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1962,
+			"friends_count": 1923,
+			"listed_count": 90,
+			"created_at": "Thu Apr 22 21:16:56 +0000 2010",
+			"favourites_count": 569,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
 			"statuses_count": 22688,
 			"lang": "en",
 			"contributors_enabled": false,
