@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 13 20:32:55 +0000 2018",
+		"id": 1073314845813080000,
+		"id_str": "1073314845813080065",
+		"full_text": "Sunrise this morning. https://t.co/zPKrnmZWLw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1073314842881093600,
+					"id_str": "1073314842881093633",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/DuUuKbYU8AEGTUa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuUuKbYU8AEGTUa.jpg",
+					"url": "https://t.co/zPKrnmZWLw",
+					"display_url": "pic.twitter.com/zPKrnmZWLw",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1073314845813080065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1073314842881093600,
+					"id_str": "1073314842881093633",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/DuUuKbYU8AEGTUa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuUuKbYU8AEGTUa.jpg",
+					"url": "https://t.co/zPKrnmZWLw",
+					"display_url": "pic.twitter.com/zPKrnmZWLw",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1073314845813080065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://micro.blog/\" rel=\"nofollow\">Micro.blog</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3902,
+			"friends_count": 2538,
+			"listed_count": 279,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17097,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sunrise this morning. https://t.co/zPKrnmZWLw"
+	},
+	{
+		"created_at": "Mon Dec 10 13:03:56 +0000 2018",
+		"id": 1072114694083752000,
+		"id_str": "1072114694083751936",
+		"full_text": "Nice use of @GlowScot Launch Pad @DigiLearnScot https://t.co/FQh4hjtBt5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GlowScot",
+					"name": "Glow Scot",
+					"id": 2912429973,
+					"id_str": "2912429973",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"screen_name": "DigiLearnScot",
+					"name": "Digital Learning and Teaching",
+					"id": 2965753499,
+					"id_str": "2965753499",
+					"indices": [
+						33,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FQh4hjtBt5",
+					"expanded_url": "https://twitter.com/kirsteensteven/status/1072080670111997952",
+					"display_url": "twitter.com/kirsteensteven…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 136030392,
+			"id_str": "136030392",
+			"name": "John Sexton",
+			"screen_name": "MrSMathsWizard",
+			"location": "Edinburgh/Glasgow",
+			"description": "Education ICT Development Team Development Officer\n--\nEducation ICT Development Team\nWest Lothian Council - Schools & Education Services",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1963,
+			"friends_count": 1923,
+			"listed_count": 90,
+			"created_at": "Thu Apr 22 21:16:56 +0000 2010",
+			"favourites_count": 569,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22693,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "07090B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1645780566/JS_diigo_normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1645780566/JS_diigo_normal.JPG",
+			"profile_link_color": "383C85",
+			"profile_sidebar_border_color": "BFBFBF",
+			"profile_sidebar_fill_color": "C9C9C9",
+			"profile_text_color": "1C1F23",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1072080670111998000,
+		"quoted_status_id_str": "1072080670111997952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FQh4hjtBt5",
+			"expanded": "https://twitter.com/kirsteensteven/status/1072080670111997952",
+			"display": "twitter.com/kirsteensteven…"
+		},
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nice use of @GlowScot Launch Pad @DigiLearnScot https://t.co/FQh4hjtBt5"
+	},
+	{
 		"created_at": "Mon Dec 10 13:03:56 +0000 2018",
 		"id": 1072114694083752000,
 		"id_str": "1072114694083751936",
