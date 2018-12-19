@@ -1,6 +1,839 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 18 22:22:19 +0000 2018",
+		"id": 1075154317559111700,
+		"id_str": "1075154317559111681",
+		"full_text": "@susanward30 @ITLWorldwide @SBCEducation1 @DigitalscotNews @DigiLearnScot @Wilson722Wilson @TESScotland @TeacherToolkit @TeamSCEL @pedagoo Replied to Susan Ward on Twitter (Twitter) “Why social media ain't all that when it comes to engaging parents and how schools can unlock its real potential https://t.co/P6IFTbFOG4 @ITLWorldwide @SBCEducation1 @DigitalscotNews @DigiLearnScot… https://t.co/H7ZPinStjk",
+		"truncated": false,
+		"display_text_range": [
+			139,
+			404
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "susanward30",
+					"name": "Susan Ward",
+					"id": 869540389,
+					"id_str": "869540389",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "ITLWorldwide",
+					"name": "Independent Thinking",
+					"id": 300309031,
+					"id_str": "300309031",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "SBCEducation1",
+					"name": "SBC Education",
+					"id": 4898936824,
+					"id_str": "4898936824",
+					"indices": [
+						27,
+						41
+					]
+				},
+				{
+					"screen_name": "DigitalscotNews",
+					"name": "Digital Scotland",
+					"id": 888779458584477700,
+					"id_str": "888779458584477696",
+					"indices": [
+						42,
+						58
+					]
+				},
+				{
+					"screen_name": "DigiLearnScot",
+					"name": "Digital Learning and Teaching",
+					"id": 2965753499,
+					"id_str": "2965753499",
+					"indices": [
+						59,
+						73
+					]
+				},
+				{
+					"screen_name": "Wilson722Wilson",
+					"name": "Jacqueline Wilson",
+					"id": 2976878559,
+					"id_str": "2976878559",
+					"indices": [
+						74,
+						90
+					]
+				},
+				{
+					"screen_name": "TESScotland",
+					"name": "Tes Scotland",
+					"id": 106125898,
+					"id_str": "106125898",
+					"indices": [
+						91,
+						103
+					]
+				},
+				{
+					"screen_name": "TeacherToolkit",
+					"name": "TeacherToolkit.co.uk",
+					"id": 180327352,
+					"id_str": "180327352",
+					"indices": [
+						104,
+						119
+					]
+				},
+				{
+					"screen_name": "TeamSCEL",
+					"name": "SCEL",
+					"id": 1465454936,
+					"id_str": "1465454936",
+					"indices": [
+						120,
+						129
+					]
+				},
+				{
+					"screen_name": "pedagoo",
+					"name": "Pedagoo.org",
+					"id": 291838882,
+					"id_str": "291838882",
+					"indices": [
+						130,
+						138
+					]
+				},
+				{
+					"screen_name": "ITLWorldwide",
+					"name": "Independent Thinking",
+					"id": 300309031,
+					"id_str": "300309031",
+					"indices": [
+						319,
+						332
+					]
+				},
+				{
+					"screen_name": "SBCEducation1",
+					"name": "SBC Education",
+					"id": 4898936824,
+					"id_str": "4898936824",
+					"indices": [
+						333,
+						347
+					]
+				},
+				{
+					"screen_name": "DigitalscotNews",
+					"name": "Digital Scotland",
+					"id": 888779458584477700,
+					"id_str": "888779458584477696",
+					"indices": [
+						348,
+						364
+					]
+				},
+				{
+					"screen_name": "DigiLearnScot",
+					"name": "Digital Learning and Teaching",
+					"id": 2965753499,
+					"id_str": "2965753499",
+					"indices": [
+						365,
+						379
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/P6IFTbFOG4",
+					"expanded_url": "https://www.tes.com/news/school-social-media-has-been-terrible-engaging-parents",
+					"display_url": "tes.com/news/school-so…",
+					"indices": [
+						295,
+						318
+					]
+				},
+				{
+					"url": "https://t.co/H7ZPinStjk",
+					"expanded_url": "http://johnjohnston.info/blog/great-stuff-susan-i-wonder-if-blogging-is-a-better-approach/",
+					"display_url": "johnjohnston.info/blog/great-stu…",
+					"indices": [
+						381,
+						404
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+		"in_reply_to_status_id": 1074784244659052500,
+		"in_reply_to_status_id_str": "1074784244659052544",
+		"in_reply_to_user_id": 869540389,
+		"in_reply_to_user_id_str": "869540389",
+		"in_reply_to_screen_name": "susanward30",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3896,
+			"friends_count": 2540,
+			"listed_count": 279,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4422,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17106,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@susanward30 @ITLWorldwide @SBCEducation1 @DigitalscotNews @DigiLearnScot @Wilson722Wilson @TESScotland @TeacherToolkit @TeamSCEL @pedagoo Replied to Susan Ward on Twitter (Twitter) “Why social media ain't all that when it comes to engaging parents and how schools can unlock its real potential https://t.co/P6IFTbFOG4 @ITLWorldwide @SBCEducation1 @DigitalscotNews @DigiLearnScot… https://t.co/H7ZPinStjk"
+	},
+	{
+		"created_at": "Tue Dec 18 16:00:40 +0000 2018",
+		"id": 1075058272321847300,
+		"id_str": "1075058272321847296",
+		"full_text": "@ds106dc #tdc2533 #ds106 you can’t get off the Ds106 Tour Bus https://t.co/QV0Pb0ghwK",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tdc2533",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "ds106",
+					"indices": [
+						18,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1075058245964890100,
+					"id_str": "1075058245964890114",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dutfx1-XgAI_nAb.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dutfx1-XgAI_nAb.jpg",
+					"url": "https://t.co/QV0Pb0ghwK",
+					"display_url": "pic.twitter.com/QV0Pb0ghwK",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1075058272321847296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 526,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 526,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 526,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075058245964890100,
+					"id_str": "1075058245964890114",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dutfx1-XgAI_nAb.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dutfx1-XgAI_nAb.jpg",
+					"url": "https://t.co/QV0Pb0ghwK",
+					"display_url": "pic.twitter.com/QV0Pb0ghwK",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1075058272321847296/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 526,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 526,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 526,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							300,
+							263
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dutfx1-XgAI_nAb.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1074967597219807200,
+		"in_reply_to_status_id_str": "1074967597219807232",
+		"in_reply_to_user_id": 995562187,
+		"in_reply_to_user_id_str": "995562187",
+		"in_reply_to_screen_name": "ds106dc",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3896,
+			"friends_count": 2540,
+			"listed_count": 279,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4422,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17106,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ds106dc #tdc2533 #ds106 you can’t get off the Ds106 Tour Bus https://t.co/QV0Pb0ghwK"
+	},
+	{
+		"created_at": "Tue Dec 18 06:26:40 +0000 2018",
+		"id": 1074913819095392300,
+		"id_str": "1074913819095392256",
+		"full_text": "Great morning yesterday @cumbrae_ps with P6/7 further developing and customising blogs in preparation for #profiles @LargsAcademy #transition #glowblogs @DigiLearnScot https://t.co/j3lPx8iSqz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "profiles",
+					"indices": [
+						106,
+						115
+					]
+				},
+				{
+					"text": "transition",
+					"indices": [
+						130,
+						141
+					]
+				},
+				{
+					"text": "glowblogs",
+					"indices": [
+						142,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cumbrae_ps",
+					"name": "Cumbrae Primary",
+					"id": 806865019078053900,
+					"id_str": "806865019078053888",
+					"indices": [
+						24,
+						35
+					]
+				},
+				{
+					"screen_name": "LargsAcademy",
+					"name": "Largs Academy",
+					"id": 1435462962,
+					"id_str": "1435462962",
+					"indices": [
+						116,
+						129
+					]
+				},
+				{
+					"screen_name": "DigiLearnScot",
+					"name": "Digital Learning and Teaching",
+					"id": 2965753499,
+					"id_str": "2965753499",
+					"indices": [
+						153,
+						167
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/j3lPx8iSqz",
+					"expanded_url": "https://twitter.com/cumbrae_ps/status/1074602085876944896",
+					"display_url": "twitter.com/cumbrae_ps/sta…",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4165588108,
+			"id_str": "4165588108",
+			"name": "Rosslyn Lee",
+			"screen_name": "RosJLee",
+			"location": "",
+			"description": "#AppleTeacher, Apple RTC Manager, #MIEExpert & #GoogleCE Level 2. Be curious!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 567,
+			"friends_count": 226,
+			"listed_count": 52,
+			"created_at": "Wed Nov 11 18:08:56 +0000 2015",
+			"favourites_count": 1777,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1901,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/664518330573856772/8g_wPXD5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/664518330573856772/8g_wPXD5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4165588108/1447275379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1074602085876944900,
+		"quoted_status_id_str": "1074602085876944896",
+		"quoted_status_permalink": {
+			"url": "https://t.co/j3lPx8iSqz",
+			"expanded": "https://twitter.com/cumbrae_ps/status/1074602085876944896",
+			"display": "twitter.com/cumbrae_ps/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 17 09:47:57 +0000 2018",
+			"id": 1074602085876944900,
+			"id_str": "1074602085876944896",
+			"full_text": "Mrs Lee working with us to develop our blogging skills 🤗 @NAC_PLA @NAC_EYE @RosJLee https://t.co/Szx4gDI55C",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				83
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NAC_PLA",
+						"name": "NAC Learning Academy",
+						"id": 727802614541365200,
+						"id_str": "727802614541365248",
+						"indices": [
+							57,
+							65
+						]
+					},
+					{
+						"screen_name": "NAC_EYE",
+						"name": "NAC Education",
+						"id": 704989626583412700,
+						"id_str": "704989626583412737",
+						"indices": [
+							66,
+							74
+						]
+					},
+					{
+						"screen_name": "RosJLee",
+						"name": "Rosslyn Lee",
+						"id": 4165588108,
+						"id_str": "4165588108",
+						"indices": [
+							75,
+							83
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1074602059796762600,
+						"id_str": "1074602059796762624",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/DunA4UEW0AA1zAS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DunA4UEW0AA1zAS.jpg",
+						"url": "https://t.co/Szx4gDI55C",
+						"display_url": "pic.twitter.com/Szx4gDI55C",
+						"expanded_url": "https://twitter.com/cumbrae_ps/status/1074602085876944896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1074602059796762600,
+						"id_str": "1074602059796762624",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/DunA4UEW0AA1zAS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DunA4UEW0AA1zAS.jpg",
+						"url": "https://t.co/Szx4gDI55C",
+						"display_url": "pic.twitter.com/Szx4gDI55C",
+						"expanded_url": "https://twitter.com/cumbrae_ps/status/1074602085876944896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 806865019078053900,
+				"id_str": "806865019078053888",
+				"name": "Cumbrae Primary",
+				"screen_name": "cumbrae_ps",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 141,
+				"friends_count": 34,
+				"listed_count": 3,
+				"created_at": "Thu Dec 08 14:16:26 +0000 2016",
+				"favourites_count": 76,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 228,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1004271715424317441/X6l2w3fE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004271715424317441/X6l2w3fE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/806865019078053888/1544624489",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great morning yesterday @cumbrae_ps with P6/7 further developing and customising blogs in preparation for #profiles @LargsAcademy #transition #glowblogs @DigiLearnScot https://t.co/j3lPx8iSqz"
+	},
+	{
 		"created_at": "Mon Dec 17 20:09:26 +0000 2018",
 		"id": 1074758490655285200,
 		"id_str": "1074758490655285252",
