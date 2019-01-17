@@ -1,6 +1,615 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 16 23:12:09 +0000 2019",
+		"id": 1085676107662311400,
+		"id_str": "1085676107662311425",
+		"full_text": "@IaninSheffield Me too Ian, delighted to catch up.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IaninSheffield",
+					"name": "Ian Guest",
+					"id": 21324520,
+					"id_str": "21324520",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1085672985997070300,
+		"in_reply_to_status_id_str": "1085672985997070337",
+		"in_reply_to_user_id": 21324520,
+		"in_reply_to_user_id_str": "21324520",
+		"in_reply_to_screen_name": "IaninSheffield",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3895,
+			"friends_count": 2543,
+			"listed_count": 279,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17207,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "791e00bcadc4615f",
+			"url": "https://api.twitter.com/1.1/geo/id/791e00bcadc4615f.json",
+			"place_type": "city",
+			"name": "Glasgow",
+			"full_name": "Glasgow, Scotland",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-4.3932845,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.9204214
+						],
+						[
+							-4.3932845,
+							55.9204214
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@IaninSheffield Me too Ian, delighted to catch up."
+	},
+	{
+		"created_at": "Wed Jan 16 15:47:43 +0000 2019",
+		"id": 1085564259856236500,
+		"id_str": "1085564259856236546",
+		"full_text": "@ClareThomsonQUB @ds106dc I knew feckless, something to aspire to ;-),  but not the rest.",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ClareThomsonQUB",
+					"name": "Clare Thomson",
+					"id": 2162676313,
+					"id_str": "2162676313",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						17,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1085563655020822500,
+		"in_reply_to_status_id_str": "1085563655020822531",
+		"in_reply_to_user_id": 2162676313,
+		"in_reply_to_user_id_str": "2162676313",
+		"in_reply_to_screen_name": "ClareThomsonQUB",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3895,
+			"friends_count": 2543,
+			"listed_count": 279,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17207,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "539f5ae54d241371",
+			"url": "https://api.twitter.com/1.1/geo/id/539f5ae54d241371.json",
+			"place_type": "city",
+			"name": "Banton",
+			"full_name": "Banton, Scotland",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-4.009223,
+							55.986072
+						],
+						[
+							-3.998547,
+							55.986072
+						],
+						[
+							-3.998547,
+							55.991639
+						],
+						[
+							-4.009223,
+							55.991639
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ClareThomsonQUB @ds106dc I knew feckless, something to aspire to ;-),  but not the rest."
+	},
+	{
+		"created_at": "Wed Jan 16 15:40:50 +0000 2019",
+		"id": 1085562527654785000,
+		"id_str": "1085562527654785026",
+		"full_text": "@ClareThomsonQUB @ds106dc Was feck a word in Ireland before father ted?",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ClareThomsonQUB",
+					"name": "Clare Thomson",
+					"id": 2162676313,
+					"id_str": "2162676313",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						17,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1085510513151356900,
+		"in_reply_to_status_id_str": "1085510513151356928",
+		"in_reply_to_user_id": 2162676313,
+		"in_reply_to_user_id_str": "2162676313",
+		"in_reply_to_screen_name": "ClareThomsonQUB",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3895,
+			"friends_count": 2543,
+			"listed_count": 279,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17207,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "539f5ae54d241371",
+			"url": "https://api.twitter.com/1.1/geo/id/539f5ae54d241371.json",
+			"place_type": "city",
+			"name": "Banton",
+			"full_name": "Banton, Scotland",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-4.009223,
+							55.986072
+						],
+						[
+							-3.998547,
+							55.986072
+						],
+						[
+							-3.998547,
+							55.991639
+						],
+						[
+							-4.009223,
+							55.991639
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ClareThomsonQUB @ds106dc Was feck a word in Ireland before father ted?"
+	},
+	{
+		"created_at": "Tue Jan 15 17:25:19 +0000 2019",
+		"id": 1085226437458702300,
+		"id_str": "1085226437458702337",
+		"full_text": "Episode 1 of the #MFLtwitteratipodcast hosted by @joedale and @SenorG is now live. It's an hour long bumper issue and we can't wait to hear your feedback! #EP 1 - Finding your tribe, European Day of Languages and TechTalk Interview with Rachel Smith https://t.co/dJsnsKvh1Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MFLtwitteratipodcast",
+					"indices": [
+						17,
+						38
+					]
+				},
+				{
+					"text": "EP",
+					"indices": [
+						155,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joedale",
+					"name": "Joe Dale",
+					"id": 5923092,
+					"id_str": "5923092",
+					"indices": [
+						49,
+						57
+					]
+				},
+				{
+					"screen_name": "SenorG",
+					"name": "Noah Geisel",
+					"id": 21132309,
+					"id_str": "21132309",
+					"indices": [
+						62,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dJsnsKvh1Z",
+					"expanded_url": "https://mfltwitteratipodcast.com/podcast/ep-1-finding-your-tribe-european-day-of-languages-and-techtalk-interview-with-rachel-smith/",
+					"display_url": "mfltwitteratipodcast.com/podcast/ep-1-f…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5923092,
+			"id_str": "5923092",
+			"name": "Joe Dale",
+			"screen_name": "joedale",
+			"location": "Isle of Wight",
+			"description": "UK Independent modern foreign languages & technology consultant. Former host of TES MFL forum & short-listed for NAACE Impact Award 2013 for Curriculum Support",
+			"url": "https://t.co/rEiG8FbkkL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rEiG8FbkkL",
+							"expanded_url": "http://joedale.typepad.com",
+							"display_url": "joedale.typepad.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25383,
+			"friends_count": 27913,
+			"listed_count": 930,
+			"created_at": "Thu May 10 06:36:14 +0000 2007",
+			"favourites_count": 5491,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 109913,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/28748062/untitled_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/28748062/untitled_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5923092/1538583582",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Episode 1 of the #MFLtwitteratipodcast hosted by @joedale and @SenorG is now live. It's an hour long bumper issue and we can't wait to hear your feedback! #EP 1 - Finding your tribe, European Day of Languages and TechTalk Interview with Rachel Smith https://t.co/dJsnsKvh1Z"
+	},
+	{
 		"created_at": "Tue Jan 15 20:36:35 +0000 2019",
 		"id": 1085274569689231400,
 		"id_str": "1085274569689231361",
