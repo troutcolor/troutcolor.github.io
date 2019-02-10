@@ -1,6 +1,660 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 09 11:24:14 +0000 2019",
+		"id": 1094195262287949800,
+		"id_str": "1094195262287949824",
+		"full_text": "Quoted  \n\nHolly has tried to make changes to reduce her carbon footprint and insisted the Guardian did not send a photographer to drive two hours from Glasgow\nfrom: ‘I feel very angry’: the 13-year-old on school strike for climate action following ... https://t.co/dz7h0sb3Mc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dz7h0sb3Mc",
+					"expanded_url": "http://johnjohnston.info/blog/holly-has-tried-to-make-changes-to-reduce-her-carbon-footpri/",
+					"display_url": "johnjohnston.info/blog/holly-has…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://micro.blog/\" rel=\"nofollow\">Micro.blog</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3908,
+			"friends_count": 2543,
+			"listed_count": 279,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17265,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Quoted  \n\nHolly has tried to make changes to reduce her carbon footprint and insisted the Guardian did not send a photographer to drive two hours from Glasgow\nfrom: ‘I feel very angry’: the 13-year-old on school strike for climate action following ... https://t.co/dz7h0sb3Mc"
+	},
+	{
+		"created_at": "Sat Feb 09 10:18:58 +0000 2019",
+		"id": 1094178837410263000,
+		"id_str": "1094178837410263041",
+		"full_text": "🗓️ ♥︎\n\n@stevepbrady flickr me too.\n@jeremycherfas‘s ‘month\n@eli‘s links –\n@cheri‘s micro thoughts\n@patrickrhone kiss for websites\n@rnv SA4QE\n@sanders Eat the Rich!\nnewsletters\n@arush alt\n@roberto &amp; @manton not a  podcast \n@vasta takes  a break\n📷 ❤️ https://t.co/bk33UV4gwG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stevepbrady",
+					"name": "Steve Brady",
+					"id": 603466064,
+					"id_str": "603466064",
+					"indices": [
+						7,
+						19
+					]
+				},
+				{
+					"screen_name": "JeremyCherfas",
+					"name": "Jeremy Cherfas",
+					"id": 938733390362181600,
+					"id_str": "938733390362181632",
+					"indices": [
+						35,
+						49
+					]
+				},
+				{
+					"screen_name": "Eli",
+					"name": "Eli",
+					"id": 16888943,
+					"id_str": "16888943",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"screen_name": "cheri",
+					"name": "Cheri  ♉♓♉",
+					"id": 7635942,
+					"id_str": "7635942",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"screen_name": "patrickrhone",
+					"name": "patrickrhone",
+					"id": 8624112,
+					"id_str": "8624112",
+					"indices": [
+						98,
+						111
+					]
+				},
+				{
+					"screen_name": "rnv",
+					"name": "rnv",
+					"id": 2303394463,
+					"id_str": "2303394463",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"screen_name": "Sanders",
+					"name": "Sandi",
+					"id": 7064,
+					"id_str": "7064",
+					"indices": [
+						141,
+						149
+					]
+				},
+				{
+					"screen_name": "arush",
+					"name": "Arush",
+					"id": 20591684,
+					"id_str": "20591684",
+					"indices": [
+						176,
+						182
+					]
+				},
+				{
+					"screen_name": "roberto",
+					"name": "Roberto A. Correia",
+					"id": 124822723,
+					"id_str": "124822723",
+					"indices": [
+						187,
+						195
+					]
+				},
+				{
+					"screen_name": "manton",
+					"name": "Manton Reece",
+					"id": 897,
+					"id_str": "897",
+					"indices": [
+						202,
+						209
+					]
+				},
+				{
+					"screen_name": "vasta",
+					"name": "Sameer Vasta",
+					"id": 714563,
+					"id_str": "714563",
+					"indices": [
+						226,
+						232
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bk33UV4gwG",
+					"expanded_url": "https://blog.stevepbrady.me/2019/02/03/1987/",
+					"display_url": "blog.stevepbrady.me/2019/02/03/198…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://micro.blog/\" rel=\"nofollow\">Micro.blog</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3908,
+			"friends_count": 2543,
+			"listed_count": 279,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17265,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🗓️ ♥︎\n\n@stevepbrady flickr me too.\n@jeremycherfas‘s ‘month\n@eli‘s links –\n@cheri‘s micro thoughts\n@patrickrhone kiss for websites\n@rnv SA4QE\n@sanders Eat the Rich!\nnewsletters\n@arush alt\n@roberto &amp; @manton not a  podcast \n@vasta takes  a break\n📷 ❤️ https://t.co/bk33UV4gwG"
+	},
+	{
+		"created_at": "Sat Feb 09 10:04:23 +0000 2019",
+		"id": 1094175167415242800,
+		"id_str": "1094175167415242752",
+		"full_text": "https://t.co/dtj2ajZ4cZ images that caught my eye.\n\npost made by simple AppleScript https://t.co/a6mKu5XRo8 https://t.co/k169pv7dDk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dtj2ajZ4cZ",
+					"expanded_url": "http://Micro.blog",
+					"display_url": "Micro.blog",
+					"indices": [
+						0,
+						23
+					]
+				},
+				{
+					"url": "https://t.co/a6mKu5XRo8",
+					"expanded_url": "https://gist.github.com/troutcolor/820f6c42919512275efac42a45432298",
+					"display_url": "gist.github.com/troutcolor/820…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1094175145483165700,
+					"id_str": "1094175145483165696",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy9Kf2SV4AAC_qA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy9Kf2SV4AAC_qA.jpg",
+					"url": "https://t.co/k169pv7dDk",
+					"display_url": "pic.twitter.com/k169pv7dDk",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1094175167415242752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 150,
+							"h": 150,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 150,
+							"h": 150,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 150,
+							"h": 150,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094175145483165700,
+					"id_str": "1094175145483165696",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy9Kf2SV4AAC_qA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy9Kf2SV4AAC_qA.jpg",
+					"url": "https://t.co/k169pv7dDk",
+					"display_url": "pic.twitter.com/k169pv7dDk",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1094175167415242752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 150,
+							"h": 150,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 150,
+							"h": 150,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 150,
+							"h": 150,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1094175149144735700,
+					"id_str": "1094175149144735745",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy9KgD7VAAEK-hQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy9KgD7VAAEK-hQ.jpg",
+					"url": "https://t.co/k169pv7dDk",
+					"display_url": "pic.twitter.com/k169pv7dDk",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1094175167415242752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 150,
+							"h": 150,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 150,
+							"h": 150,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 150,
+							"h": 150,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1094175153133514800,
+					"id_str": "1094175153133514752",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy9KgSyU8AAHgU0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy9KgSyU8AAHgU0.jpg",
+					"url": "https://t.co/k169pv7dDk",
+					"display_url": "pic.twitter.com/k169pv7dDk",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1094175167415242752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 150,
+							"h": 150,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 150,
+							"h": 150,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 150,
+							"h": 150,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1094175156258299900,
+					"id_str": "1094175156258299904",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy9KgebVYAAezON.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy9KgebVYAAezON.jpg",
+					"url": "https://t.co/k169pv7dDk",
+					"display_url": "pic.twitter.com/k169pv7dDk",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1094175167415242752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 150,
+							"h": 150,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 150,
+							"h": 150,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 150,
+							"h": 150,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://micro.blog/\" rel=\"nofollow\">Micro.blog</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3908,
+			"friends_count": 2543,
+			"listed_count": 279,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17265,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "https://t.co/dtj2ajZ4cZ images that caught my eye.\n\npost made by simple AppleScript https://t.co/a6mKu5XRo8 https://t.co/k169pv7dDk"
+	},
+	{
 		"created_at": "Fri Feb 08 18:59:08 +0000 2019",
 		"id": 1093947354955333600,
 		"id_str": "1093947354955333632",
