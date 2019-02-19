@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 18 22:48:30 +0000 2019",
+		"id": 1097628954687623200,
+		"id_str": "1097628954687623169",
+		"full_text": "@mrfeistsclass @BlairvadachOEC @MrsOrrCPS @weegieteacher @DL_for_All @Schools_Digital Back then, in the aughties, we did quite a lot of trip blogs, I alway preferred pupils doing writing. Glow was a twinkle, Connectivity was somewhat limited, devices more so, 2g mobile and leaching rare free WiFi.",
+		"truncated": false,
+		"display_text_range": [
+			86,
+			298
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrfeistsclass",
+					"name": "Mr Feist 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+					"id": 3054101501,
+					"id_str": "3054101501",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "BlairvadachOEC",
+					"name": "Blairvadach",
+					"id": 2885686678,
+					"id_str": "2885686678",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "MrsOrrCPS",
+					"name": "MrsOrr&P6/7E",
+					"id": 956626505039302700,
+					"id_str": "956626505039302656",
+					"indices": [
+						31,
+						41
+					]
+				},
+				{
+					"screen_name": "weegieteacher",
+					"name": "Jennifer Lilley",
+					"id": 727623323157418000,
+					"id_str": "727623323157417985",
+					"indices": [
+						42,
+						56
+					]
+				},
+				{
+					"screen_name": "DL_for_All",
+					"name": "Digital Learning for ALL",
+					"id": 970802301857423400,
+					"id_str": "970802301857423360",
+					"indices": [
+						57,
+						68
+					]
+				},
+				{
+					"screen_name": "Schools_Digital",
+					"name": "Digital Schools",
+					"id": 4151839535,
+					"id_str": "4151839535",
+					"indices": [
+						69,
+						85
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1097626860178104300,
+		"in_reply_to_status_id_str": "1097626860178104321",
+		"in_reply_to_user_id": 3054101501,
+		"in_reply_to_user_id_str": "3054101501",
+		"in_reply_to_screen_name": "mrfeistsclass",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3910,
+			"friends_count": 2546,
+			"listed_count": 279,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17282,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mrfeistsclass @BlairvadachOEC @MrsOrrCPS @weegieteacher @DL_for_All @Schools_Digital Back then, in the aughties, we did quite a lot of trip blogs, I alway preferred pupils doing writing. Glow was a twinkle, Connectivity was somewhat limited, devices more so, 2g mobile and leaching rare free WiFi."
+	},
+	{
+		"created_at": "Mon Feb 18 22:37:33 +0000 2019",
+		"id": 1097626197612204000,
+		"id_str": "1097626197612204032",
+		"full_text": "@mrfeistsclass @BlairvadachOEC @MrsOrrCPS @weegieteacher @DL_for_All @Schools_Digital Enjoyed your post on Blairvadach, trips are great to blog. You might like some pre-twitter ancient history https://t.co/iidlEMCWcE pupils blogged as staff with them didn't know how 😀",
+		"truncated": false,
+		"display_text_range": [
+			86,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrfeistsclass",
+					"name": "Mr Feist 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+					"id": 3054101501,
+					"id_str": "3054101501",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "BlairvadachOEC",
+					"name": "Blairvadach",
+					"id": 2885686678,
+					"id_str": "2885686678",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "MrsOrrCPS",
+					"name": "MrsOrr&P6/7E",
+					"id": 956626505039302700,
+					"id_str": "956626505039302656",
+					"indices": [
+						31,
+						41
+					]
+				},
+				{
+					"screen_name": "weegieteacher",
+					"name": "Jennifer Lilley",
+					"id": 727623323157418000,
+					"id_str": "727623323157417985",
+					"indices": [
+						42,
+						56
+					]
+				},
+				{
+					"screen_name": "DL_for_All",
+					"name": "Digital Learning for ALL",
+					"id": 970802301857423400,
+					"id_str": "970802301857423360",
+					"indices": [
+						57,
+						68
+					]
+				},
+				{
+					"screen_name": "Schools_Digital",
+					"name": "Digital Schools",
+					"id": 4151839535,
+					"id_str": "4151839535",
+					"indices": [
+						69,
+						85
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iidlEMCWcE",
+					"expanded_url": "https://web.archive.org/web/20160630013448/http://www.sandaigprimary.co.uk/pivot/blairvadach06.php",
+					"display_url": "web.archive.org/web/2016063001…",
+					"indices": [
+						193,
+						216
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1094858306307457000,
+		"in_reply_to_status_id_str": "1094858306307457024",
+		"in_reply_to_user_id": 3054101501,
+		"in_reply_to_user_id_str": "3054101501",
+		"in_reply_to_screen_name": "mrfeistsclass",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3910,
+			"friends_count": 2546,
+			"listed_count": 279,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17282,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mrfeistsclass @BlairvadachOEC @MrsOrrCPS @weegieteacher @DL_for_All @Schools_Digital Enjoyed your post on Blairvadach, trips are great to blog. You might like some pre-twitter ancient history https://t.co/iidlEMCWcE pupils blogged as staff with them didn't know how 😀"
+	},
+	{
 		"created_at": "Sun Feb 17 10:09:09 +0000 2019",
 		"id": 1097075472192733200,
 		"id_str": "1097075472192733184",
