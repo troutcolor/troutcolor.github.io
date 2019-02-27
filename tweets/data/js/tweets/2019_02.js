@@ -1,6 +1,648 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 26 22:40:18 +0000 2019",
+		"id": 1100525994618863600,
+		"id_str": "1100525994618863616",
+		"full_text": "tomorrow evening 8pm UK time I’ll be chatting to @pgogy about #pressedconf19 A WordPress and Education, Pedagogy and Research Conference on Twitter  listen on Radio #EDUtalk https://t.co/Xhhaa1qlBV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pressedconf19",
+					"indices": [
+						62,
+						76
+					]
+				},
+				{
+					"text": "EDUtalk",
+					"indices": [
+						165,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Pgogy",
+					"name": "Pgogy WebStuff",
+					"id": 291323178,
+					"id_str": "291323178",
+					"indices": [
+						49,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Xhhaa1qlBV",
+					"expanded_url": "http://edutalk.cc/listen",
+					"display_url": "edutalk.cc/listen",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://micro.blog/\" rel=\"nofollow\">Micro.blog</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3910,
+			"friends_count": 2550,
+			"listed_count": 279,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4563,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17292,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "tomorrow evening 8pm UK time I’ll be chatting to @pgogy about #pressedconf19 A WordPress and Education, Pedagogy and Research Conference on Twitter  listen on Radio #EDUtalk https://t.co/Xhhaa1qlBV"
+	},
+	{
+		"created_at": "Tue Feb 26 05:02:18 +0000 2019",
+		"id": 1100259740960153600,
+		"id_str": "1100259740960153600",
+		"full_text": "#tds1337 Coot on Ice https://t.co/ZSxsGDd3eH https://t.co/HMUg6I2475",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tds1337",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZSxsGDd3eH",
+					"expanded_url": "https://daily.stillweb.org/tds1337/",
+					"display_url": "daily.stillweb.org/tds1337/",
+					"indices": [
+						21,
+						44
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1100259739282346000,
+					"id_str": "1100259739282345985",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/D0ToZ0iWkAEeKQQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0ToZ0iWkAEeKQQ.jpg",
+					"url": "https://t.co/HMUg6I2475",
+					"display_url": "pic.twitter.com/HMUg6I2475",
+					"expanded_url": "https://twitter.com/livedtime/status/1100259740960153600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1100259739282346000,
+					"id_str": "1100259739282345985",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/D0ToZ0iWkAEeKQQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0ToZ0iWkAEeKQQ.jpg",
+					"url": "https://t.co/HMUg6I2475",
+					"display_url": "pic.twitter.com/HMUg6I2475",
+					"expanded_url": "https://twitter.com/livedtime/status/1100259740960153600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1596507146,
+			"id_str": "1596507146",
+			"name": "The Daily Stillness",
+			"screen_name": "livedtime",
+			"location": "Online Worldwide",
+			"description": "Daily small exercises to help you find stillness in life - digital and otherwise",
+			"url": "http://t.co/k15kQrAztW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k15kQrAztW",
+							"expanded_url": "http://daily.stillweb.org",
+							"display_url": "daily.stillweb.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90,
+			"friends_count": 93,
+			"listed_count": 1,
+			"created_at": "Mon Jul 15 18:49:36 +0000 2013",
+			"favourites_count": 117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1547,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/606493612537290752/7HB__Zp__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/606493612537290752/7HB__Zp__normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1596507146/1433434359",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#tds1337 Coot on Ice https://t.co/ZSxsGDd3eH https://t.co/HMUg6I2475"
+	},
+	{
+		"created_at": "Mon Feb 25 20:13:40 +0000 2019",
+		"id": 1100126704088088600,
+		"id_str": "1100126704088088576",
+		"full_text": "Falkirk Digital TeachMeet is tomorrow - details here https://t.co/IMBUrTSuQY https://t.co/D6iJFckZeY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IMBUrTSuQY",
+					"expanded_url": "http://teachmeet.scot/events/event/falkirk-digital-teachmeet-february-2019/",
+					"display_url": "teachmeet.scot/events/event/f…",
+					"indices": [
+						53,
+						76
+					]
+				},
+				{
+					"url": "https://t.co/D6iJFckZeY",
+					"expanded_url": "https://twitter.com/stmungosfalkirk/status/1100120264371855367",
+					"display_url": "twitter.com/stmungosfalkir…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54920357,
+			"id_str": "54920357",
+			"name": "📱Malcolm Wilson 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+			"screen_name": "claganach",
+			"location": "Falkirk, Scotland",
+			"description": "Teacher | Falkirk ICT Curriculum Development Officer #DigiLearnScot #GlowScot #MicrosoftEDU #MIEExpert #MIEFellow #AppleTeacher #SkypeMT",
+			"url": "https://t.co/TZocEyosXR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TZocEyosXR",
+							"expanded_url": "https://blogs.glowscotland.org.uk/fa/ICTFalkirkPrimaries/",
+							"display_url": "blogs.glowscotland.org.uk/fa/ICTFalkirkP…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4293,
+			"friends_count": 3113,
+			"listed_count": 337,
+			"created_at": "Wed Jul 08 15:01:38 +0000 2009",
+			"favourites_count": 4353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20013,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/897611927593123844/zm8fT-7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/897611927593123844/zm8fT-7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54920357/1455117717",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1100120264371855400,
+		"quoted_status_id_str": "1100120264371855367",
+		"quoted_status_permalink": {
+			"url": "https://t.co/D6iJFckZeY",
+			"expanded": "https://twitter.com/stmungosfalkirk/status/1100120264371855367",
+			"display": "twitter.com/stmungosfalkir…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 25 19:48:04 +0000 2019",
+			"id": 1100120264371855400,
+			"id_str": "1100120264371855367",
+			"full_text": "One More Sleep 🎉🎉🎉 to our digital Teach Meet tomorrow 5 pm - 7 pm. We could not be more excited and look forward to welcoming colleagues from the primary and secondary sector to share digital learning.  If you haven’t signed up YET! No worries there is still time. https://t.co/TE8GtMBqp2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				264
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1100120255769309200,
+						"id_str": "1100120255769309185",
+						"indices": [
+							265,
+							288
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D0Rpiz9XcAE7h6t.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D0Rpiz9XcAE7h6t.jpg",
+						"url": "https://t.co/TE8GtMBqp2",
+						"display_url": "pic.twitter.com/TE8GtMBqp2",
+						"expanded_url": "https://twitter.com/StMungosFalkirk/status/1100120264371855367/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 400,
+								"h": 274,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 274,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 274,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1100120255769309200,
+						"id_str": "1100120255769309185",
+						"indices": [
+							265,
+							288
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D0Rpiz9XcAE7h6t.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D0Rpiz9XcAE7h6t.jpg",
+						"url": "https://t.co/TE8GtMBqp2",
+						"display_url": "pic.twitter.com/TE8GtMBqp2",
+						"expanded_url": "https://twitter.com/StMungosFalkirk/status/1100120264371855367/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 400,
+								"h": 274,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 274,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 274,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								200,
+								137
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D0Rpiz9XcAE7h6t.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 614561672,
+				"id_str": "614561672",
+				"name": "St Mungo's HS",
+				"screen_name": "StMungosFalkirk",
+				"location": "",
+				"description": "St Mungo's RC High School, Falkirk",
+				"url": "https://t.co/VJZlgBxAN6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VJZlgBxAN6",
+								"expanded_url": "http://www.stmungoshighschool.co.uk",
+								"display_url": "stmungoshighschool.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3877,
+				"friends_count": 406,
+				"listed_count": 63,
+				"created_at": "Thu Jun 21 20:48:14 +0000 2012",
+				"favourites_count": 12902,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13543,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/957608254443532288/PDWMphkJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/957608254443532288/PDWMphkJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/614561672/1528405772",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Falkirk Digital TeachMeet is tomorrow - details here https://t.co/IMBUrTSuQY https://t.co/D6iJFckZeY"
+	},
+	{
 		"created_at": "Mon Feb 25 20:41:09 +0000 2019",
 		"id": 1100133620210171900,
 		"id_str": "1100133620210171907",
