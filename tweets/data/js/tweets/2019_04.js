@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 27 12:54:40 +0000 2019",
+		"id": 1122121886123593700,
+		"id_str": "1122121886123593728",
+		"full_text": "@BryanMMathers Some answers to the questions about remix, a lovely question, even a brief answer is too long for twitter. (https://t.co/GhEO5N8cPN) https://t.co/AAH4Xn5ssV",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BryanMMathers",
+					"name": "Bryan Mathers",
+					"id": 37933636,
+					"id_str": "37933636",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GhEO5N8cPN",
+					"expanded_url": "http://johnjohnston.info/blog/do-you-remix/",
+					"display_url": "johnjohnston.info/blog/do-you-re…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1122121884211003400,
+					"id_str": "1122121884211003392",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D5KT6I8WwAANnNu.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D5KT6I8WwAANnNu.jpg",
+					"url": "https://t.co/AAH4Xn5ssV",
+					"display_url": "pic.twitter.com/AAH4Xn5ssV",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1122121886123593728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 844,
+							"h": 844,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 844,
+							"h": 844,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1122121884211003400,
+					"id_str": "1122121884211003392",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D5KT6I8WwAANnNu.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D5KT6I8WwAANnNu.jpg",
+					"url": "https://t.co/AAH4Xn5ssV",
+					"display_url": "pic.twitter.com/AAH4Xn5ssV",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1122121886123593728/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 844,
+							"h": 844,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 844,
+							"h": 844,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D5KT6I8WwAANnNu.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+		"in_reply_to_status_id": 1121789779979513900,
+		"in_reply_to_status_id_str": "1121789779979513856",
+		"in_reply_to_user_id": 37933636,
+		"in_reply_to_user_id_str": "37933636",
+		"in_reply_to_screen_name": "BryanMMathers",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3913,
+			"friends_count": 2553,
+			"listed_count": 279,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17465,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@BryanMMathers Some answers to the questions about remix, a lovely question, even a brief answer is too long for twitter. (https://t.co/GhEO5N8cPN) https://t.co/AAH4Xn5ssV"
+	},
+	{
 		"created_at": "Fri Apr 26 20:49:03 +0000 2019",
 		"id": 1121878882712522800,
 		"id_str": "1121878882712522757",
