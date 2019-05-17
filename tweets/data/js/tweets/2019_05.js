@@ -1,6 +1,368 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 16 19:58:42 +0000 2019",
+		"id": 1129067823588958200,
+		"id_str": "1129113967840907264",
+		"full_text": "Lovely morning with P6/7 @corsehillps creating profiles from #glowblogs.  Fun creating avatars &amp; discussions around why it’s better to use one rather than a real photo. We had lots of different looks including blue hair &amp; green eyebrows! #NDLW19 #onlinesafety #digilearnscot https://t.co/r75TA4xZ79",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "glowblogs",
+					"indices": [
+						61,
+						71
+					]
+				},
+				{
+					"text": "NDLW19",
+					"indices": [
+						246,
+						253
+					]
+				},
+				{
+					"text": "onlinesafety",
+					"indices": [
+						254,
+						267
+					]
+				},
+				{
+					"text": "digilearnscot",
+					"indices": [
+						268,
+						282
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "corsehillps",
+					"name": "Corsehill PS & EYC",
+					"id": 3085067745,
+					"id_str": "3085067745",
+					"indices": [
+						25,
+						37
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129067808489443300,
+					"id_str": "1129067808489443334",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/D6tBMJRXkAYva8X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6tBMJRXkAYva8X.jpg",
+					"url": "https://t.co/r75TA4xZ79",
+					"display_url": "pic.twitter.com/r75TA4xZ79",
+					"expanded_url": "https://twitter.com/RosJLee/status/1129067823588958209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129067808489443300,
+					"id_str": "1129067808489443334",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/D6tBMJRXkAYva8X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6tBMJRXkAYva8X.jpg",
+					"url": "https://t.co/r75TA4xZ79",
+					"display_url": "pic.twitter.com/r75TA4xZ79",
+					"expanded_url": "https://twitter.com/RosJLee/status/1129067823588958209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1129067808472686600,
+					"id_str": "1129067808472686597",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/D6tBMJNX4AUHvnl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6tBMJNX4AUHvnl.jpg",
+					"url": "https://t.co/r75TA4xZ79",
+					"display_url": "pic.twitter.com/r75TA4xZ79",
+					"expanded_url": "https://twitter.com/RosJLee/status/1129067823588958209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4165588108,
+			"id_str": "4165588108",
+			"name": "Rosslyn Lee",
+			"screen_name": "RosJLee",
+			"location": "",
+			"description": "#AppleTeacher, #MIEExpert & #GoogleCE Level 2,  #STEM Ambassador.  Be curious!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 595,
+			"friends_count": 238,
+			"listed_count": 52,
+			"created_at": "Wed Nov 11 18:08:56 +0000 2015",
+			"favourites_count": 2113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2138,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091368576450285568/HaztvrxB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091368576450285568/HaztvrxB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4165588108/1549037441",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lovely morning with P6/7 @corsehillps creating profiles from #glowblogs.  Fun creating avatars &amp; discussions around why it’s better to use one rather than a real photo. We had lots of different looks including blue hair &amp; green eyebrows! #NDLW19 #onlinesafety #digilearnscot https://t.co/r75TA4xZ79"
+	},
+	{
+		"created_at": "Thu May 16 17:52:20 +0000 2019",
+		"id": 1129082168519610400,
+		"id_str": "1129082168519610370",
+		"full_text": "I am still finding my On This Day page both interesting and useful. Checking old posts with broken images, grabbing the image from https://t.co/LUPFTSGy26 and repairing. Not every day but it is quite satisfying to do now and again. https://t.co/NzgrLUAbOW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LUPFTSGy26",
+					"expanded_url": "http://archive.org",
+					"display_url": "archive.org",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"url": "https://t.co/NzgrLUAbOW",
+					"expanded_url": "http://johnjohnston.info/blog/on-this-day/",
+					"display_url": "johnjohnston.info/blog/on-this-d…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://micro.blog/\" rel=\"nofollow\">Micro.blog</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3904,
+			"friends_count": 2549,
+			"listed_count": 275,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4671,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17494,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I am still finding my On This Day page both interesting and useful. Checking old posts with broken images, grabbing the image from https://t.co/LUPFTSGy26 and repairing. Not every day but it is quite satisfying to do now and again. https://t.co/NzgrLUAbOW"
+	},
+	{
 		"created_at": "Wed May 15 18:11:49 +0000 2019",
 		"id": 1128724683875127300,
 		"id_str": "1128724683875127301",
