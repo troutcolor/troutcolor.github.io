@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 19 10:21:58 +0000 2019",
+		"id": 1129209278114422800,
+		"id_str": "1130055993289846784",
+		"full_text": "Here’s a video of a guy putting a camera on a sushi conveyer belt. It’s wonderful. Every table has a little story! https://t.co/6mwKsTHJ0e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129208360136454100,
+					"id_str": "1129208360136454144",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1129208360136454144/pu/img/DMAqPw3PjnJjqIPV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1129208360136454144/pu/img/DMAqPw3PjnJjqIPV.jpg",
+					"url": "https://t.co/6mwKsTHJ0e",
+					"display_url": "pic.twitter.com/6mwKsTHJ0e",
+					"expanded_url": "https://twitter.com/DrewCoffman/status/1129209278114422784/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129208360136454100,
+					"id_str": "1129208360136454144",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1129208360136454144/pu/img/DMAqPw3PjnJjqIPV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1129208360136454144/pu/img/DMAqPw3PjnJjqIPV.jpg",
+					"url": "https://t.co/6mwKsTHJ0e",
+					"display_url": "pic.twitter.com/6mwKsTHJ0e",
+					"expanded_url": "https://twitter.com/DrewCoffman/status/1129209278114422784/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1129208360136454144/pu/vid/1280x720/elRYVKYY3u78LP_z.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1129208360136454144/pu/pl/An-5RdN6BFbcxiHs.m3u8?tag=9"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1129208360136454144/pu/vid/320x180/uVysOmzmPQ-X-h4U.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1129208360136454144/pu/vid/640x360/PcAqoOuHcW7SuSzH.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14355836,
+			"id_str": "14355836",
+			"name": "Drew Coffman",
+			"screen_name": "DrewCoffman",
+			"location": "Redding, CA",
+			"description": "Keyhouse. Talking with others at @_NetFriends and @BDYSTFM. Never settling. (I also bought a coffee shop.)",
+			"url": "https://t.co/kCT56tQSre",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kCT56tQSre",
+							"expanded_url": "http://keyhou.se",
+							"display_url": "keyhou.se",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2158,
+			"friends_count": 161,
+			"listed_count": 59,
+			"created_at": "Thu Apr 10 22:11:05 +0000 2008",
+			"favourites_count": 20795,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18366,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/833513152113319936/jZ6at662_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/833513152113319936/jZ6at662_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14355836/1491077995",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "557824",
+			"profile_sidebar_fill_color": "338AB8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 144830,
+		"favorite_count": 435170,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here’s a video of a guy putting a camera on a sushi conveyer belt. It’s wonderful. Every table has a little story! https://t.co/6mwKsTHJ0e"
+	},
+	{
 		"created_at": "Sat May 18 16:28:53 +0000 2019",
 		"id": 1129785940208177200,
 		"id_str": "1129785940208177157",
