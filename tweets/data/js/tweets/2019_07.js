@@ -1,6 +1,525 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 15 17:00:11 +0000 2019",
+		"id": 1150812312648978400,
+		"id_str": "1150812312648978434",
+		"full_text": "👍 https://t.co/sEoRgS4UYr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sEoRgS4UYr",
+					"expanded_url": "https://twitter.com/microbit_edu/status/1149941026485702656",
+					"display_url": "twitter.com/microbit_edu/s…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3909,
+			"friends_count": 2557,
+			"listed_count": 273,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4746,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17641,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1149941026485702700,
+		"quoted_status_id_str": "1149941026485702656",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sEoRgS4UYr",
+			"expanded": "https://twitter.com/microbit_edu/status/1149941026485702656",
+			"display": "twitter.com/microbit_edu/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 13 07:18:00 +0000 2019",
+			"id": 1149941026485702700,
+			"id_str": "1149941026485702656",
+			"full_text": "Teachers based in the UK, we need your help to make it easier for you to teach digital skills. Please check out the form below #microbit #EdTEch #Education #STEM https://t.co/GQNOfuvZzu https://t.co/h4y3KNJqYK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				185
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "microbit",
+						"indices": [
+							127,
+							136
+						]
+					},
+					{
+						"text": "EdTEch",
+						"indices": [
+							137,
+							144
+						]
+					},
+					{
+						"text": "Education",
+						"indices": [
+							145,
+							155
+						]
+					},
+					{
+						"text": "STEM",
+						"indices": [
+							156,
+							161
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GQNOfuvZzu",
+						"expanded_url": "https://form.jotformeu.com/91834654843365",
+						"display_url": "form.jotformeu.com/91834654843365",
+						"indices": [
+							162,
+							185
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1149694518565978100,
+						"id_str": "1149694518565978112",
+						"indices": [
+							186,
+							209
+						],
+						"media_url": "http://pbs.twimg.com/media/D_SJEsNWwAAAzyw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_SJEsNWwAAAzyw.jpg",
+						"url": "https://t.co/h4y3KNJqYK",
+						"display_url": "pic.twitter.com/h4y3KNJqYK",
+						"expanded_url": "https://twitter.com/microbit_edu/status/1149941026485702656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 252,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 444,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 758,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1149694518565978100,
+						"id_str": "1149694518565978112",
+						"indices": [
+							186,
+							209
+						],
+						"media_url": "http://pbs.twimg.com/media/D_SJEsNWwAAAzyw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_SJEsNWwAAAzyw.jpg",
+						"url": "https://t.co/h4y3KNJqYK",
+						"display_url": "pic.twitter.com/h4y3KNJqYK",
+						"expanded_url": "https://twitter.com/microbit_edu/status/1149941026485702656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 252,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 444,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 758,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 763102211639537700,
+				"id_str": "763102211639537665",
+				"name": "Micro:bit Educational Foundation",
+				"screen_name": "microbit_edu",
+				"location": "London, England",
+				"description": "The home of the BBC micro:bit. Inspiring every child to create their best digital future. #microbit",
+				"url": "https://t.co/RbyFh32ECh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RbyFh32ECh",
+								"expanded_url": "http://microbit.org",
+								"display_url": "microbit.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20400,
+				"friends_count": 771,
+				"listed_count": 339,
+				"created_at": "Tue Aug 09 19:58:39 +0000 2016",
+				"favourites_count": 8902,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4051,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876199094292668416/KFZGFbtI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876199094292668416/KFZGFbtI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/763102211639537665/1562067518",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29,
+			"favorite_count": 55,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "👍 https://t.co/sEoRgS4UYr"
+	},
+	{
+		"created_at": "Mon Jul 15 13:28:46 +0000 2019",
+		"id": 1150759110234841100,
+		"id_str": "1150759110234841088",
+		"full_text": "Old in the new https://t.co/npm7vOd1Jx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1150759108368318500,
+					"id_str": "1150759108368318464",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D_hRT-RWwAAamrm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_hRT-RWwAAamrm.jpg",
+					"url": "https://t.co/npm7vOd1Jx",
+					"display_url": "pic.twitter.com/npm7vOd1Jx",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1150759110234841088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1150759108368318500,
+					"id_str": "1150759108368318464",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D_hRT-RWwAAamrm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_hRT-RWwAAamrm.jpg",
+					"url": "https://t.co/npm7vOd1Jx",
+					"display_url": "pic.twitter.com/npm7vOd1Jx",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1150759110234841088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://micro.blog/\" rel=\"nofollow\">Micro.blog</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3909,
+			"friends_count": 2557,
+			"listed_count": 273,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4746,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17641,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Old in the new https://t.co/npm7vOd1Jx"
+	},
+	{
 		"created_at": "Sun Jul 14 17:05:19 +0000 2019",
 		"id": 1150451217987964900,
 		"id_str": "1150451217987964929",
