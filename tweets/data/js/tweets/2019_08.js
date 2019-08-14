@@ -1,6 +1,126 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 13 10:52:35 +0000 2019",
+		"id": 1161221524113842200,
+		"id_str": "1161229051702460416",
+		"full_text": "TODAY (Tues 13th Aug) at 15:00 local time / 22:00 UK time our dear friend @daibarnes will be cremated in Boise, USA.\n\nAt that time stop, raise a glass, and if you haven't yet done so, consider going #barefootfordai\n\n#RIPDai",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "barefootfordai",
+					"indices": [
+						199,
+						214
+					]
+				},
+				{
+					"text": "RIPDai",
+					"indices": [
+						216,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "daibarnes",
+					"name": "Dai Barnes 👣☀️🌧️",
+					"id": 14143403,
+					"id_str": "14143403",
+					"indices": [
+						74,
+						84
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4857178299,
+			"id_str": "4857178299",
+			"name": "TIDE podcast",
+			"screen_name": "TIDEpodcast",
+			"location": "",
+			"description": "Today In Digital Education is a regular podcast from @daibarnes and @dajbelshaw about education, technology, and everything in between.",
+			"url": "https://t.co/JBq7n8f4NE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JBq7n8f4NE",
+							"expanded_url": "http://tidepodcast.org",
+							"display_url": "tidepodcast.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 144,
+			"friends_count": 0,
+			"listed_count": 9,
+			"created_at": "Thu Jan 28 13:37:35 +0000 2016",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/692703344872288256/kFYG1sSe_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/692703344872288256/kFYG1sSe_normal.png",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "TODAY (Tues 13th Aug) at 15:00 local time / 22:00 UK time our dear friend @daibarnes will be cremated in Boise, USA.\n\nAt that time stop, raise a glass, and if you haven't yet done so, consider going #barefootfordai\n\n#RIPDai"
+	},
+	{
 		"created_at": "Sat Aug 10 17:17:34 +0000 2019",
 		"id": 1160238772094738400,
 		"id_str": "1160238772094738432",
