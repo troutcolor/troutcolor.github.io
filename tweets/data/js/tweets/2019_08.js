@@ -1,6 +1,137 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 22 18:57:20 +0000 2019",
+		"id": 1164491661025730600,
+		"id_str": "1164612535166865414",
+		"full_text": "THANK YOU to everyone who has written and recorded messages after the untimely passing of @daibarnes earlier this month.\n\nWe're planning a memorial episode of TIDE and would love your audio contributions: https://t.co/8Hy507KK1x\n\nPlease RT\n\n#RIPDai #barefootfordai",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RIPDai",
+					"indices": [
+						241,
+						248
+					]
+				},
+				{
+					"text": "barefootfordai",
+					"indices": [
+						249,
+						264
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "daibarnes",
+					"name": "Dai Barnes 👣☀️🌧️",
+					"id": 14143403,
+					"id_str": "14143403",
+					"indices": [
+						90,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8Hy507KK1x",
+					"expanded_url": "http://bit.ly/2zhUNvD",
+					"display_url": "bit.ly/2zhUNvD",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4857178299,
+			"id_str": "4857178299",
+			"name": "TIDE podcast",
+			"screen_name": "TIDEpodcast",
+			"location": "",
+			"description": "Today In Digital Education is a regular podcast from @daibarnes and @dajbelshaw about education, technology, and everything in between.",
+			"url": "https://t.co/JBq7n8f4NE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JBq7n8f4NE",
+							"expanded_url": "http://tidepodcast.org",
+							"display_url": "tidepodcast.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 145,
+			"friends_count": 0,
+			"listed_count": 9,
+			"created_at": "Thu Jan 28 13:37:35 +0000 2016",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/692703344872288256/kFYG1sSe_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/692703344872288256/kFYG1sSe_normal.png",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "THANK YOU to everyone who has written and recorded messages after the untimely passing of @daibarnes earlier this month.\n\nWe're planning a memorial episode of TIDE and would love your audio contributions: https://t.co/8Hy507KK1x\n\nPlease RT\n\n#RIPDai #barefootfordai"
+	},
+	{
 		"created_at": "Sun Aug 18 18:06:51 +0000 2019",
 		"id": 1163150278662733800,
 		"id_str": "1163150278662733826",
