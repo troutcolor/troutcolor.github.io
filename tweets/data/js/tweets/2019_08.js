@@ -1,6 +1,155 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 31 12:17:30 +0000 2019",
+		"id": 1167773405208354800,
+		"id_str": "1167773405208354816",
+		"full_text": "Listened Jim Groom from Spreaker\nGettin’ Air Season 3 Premiere with Jim Groom @jimgroom! Jim has been central a central figure in hugely influential educational technology movements/ideas/things like #ds106, #edupunk, and Domain of One’s Own (#DoOO). And… https://t.co/1YGAmuGwNv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ds106",
+					"indices": [
+						200,
+						206
+					]
+				},
+				{
+					"text": "edupunk",
+					"indices": [
+						208,
+						216
+					]
+				},
+				{
+					"text": "DoOO",
+					"indices": [
+						243,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						78,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1YGAmuGwNv",
+					"expanded_url": "https://johnjohnston.info/blog/listen-jim-groom-on-gettin-air/",
+					"display_url": "johnjohnston.info/blog/listen-ji…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3919,
+			"friends_count": 2573,
+			"listed_count": 272,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17711,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Listened Jim Groom from Spreaker\nGettin’ Air Season 3 Premiere with Jim Groom @jimgroom! Jim has been central a central figure in hugely influential educational technology movements/ideas/things like #ds106, #edupunk, and Domain of One’s Own (#DoOO). And… https://t.co/1YGAmuGwNv"
+	},
+	{
 		"created_at": "Fri Aug 30 18:03:55 +0000 2019",
 		"id": 1167498197146771500,
 		"id_str": "1167498197146771457",
