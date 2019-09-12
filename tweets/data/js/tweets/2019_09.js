@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 11 20:21:44 +0000 2019",
+		"id": 1171381040897806300,
+		"id_str": "1171881531750699008",
+		"full_text": "SEPT 21st, I play Aberdeen @TrueNorth_Fest @APAWhatsOn Music Hall Big, Sky Sessions as selected by @thetwilightsad tickets 👉https://t.co/qCDYlShIkP https://t.co/zIfTJrS4QY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TrueNorth_Fest",
+					"name": "True North",
+					"id": 893361824,
+					"id_str": "893361824",
+					"indices": [
+						27,
+						42
+					]
+				},
+				{
+					"screen_name": "APAWhatsOn",
+					"name": "Abdn Performing Arts",
+					"id": 82084596,
+					"id_str": "82084596",
+					"indices": [
+						43,
+						54
+					]
+				},
+				{
+					"screen_name": "thetwilightsad",
+					"name": "the twilight sad",
+					"id": 23094396,
+					"id_str": "23094396",
+					"indices": [
+						99,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qCDYlShIkP",
+					"expanded_url": "https://www.aberdeenperformingarts.com/whats-on/music/true-north-big-sky-sessions-with-michael-timmons-as-chosen-by-the-twilight-sad/2499",
+					"display_url": "aberdeenperformingarts.com/whats-on/music…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1171380998333972500,
+					"id_str": "1171380998333972482",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EEGUz85WwAIg8op.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEGUz85WwAIg8op.jpg",
+					"url": "https://t.co/zIfTJrS4QY",
+					"display_url": "pic.twitter.com/zIfTJrS4QY",
+					"expanded_url": "https://twitter.com/MTImmonsMusic/status/1171381040897806338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171380998333972500,
+					"id_str": "1171380998333972482",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EEGUz85WwAIg8op.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEGUz85WwAIg8op.jpg",
+					"url": "https://t.co/zIfTJrS4QY",
+					"display_url": "pic.twitter.com/zIfTJrS4QY",
+					"expanded_url": "https://twitter.com/MTImmonsMusic/status/1171381040897806338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1244438078,
+			"id_str": "1244438078",
+			"name": "Michael Timmons",
+			"screen_name": "MTImmonsMusic",
+			"location": "",
+			"description": "Solo musician from Glasgow, Scotland. \nNew single The Games Room out now.\nhttps://t.co/0IXq1C4ESc",
+			"url": "https://t.co/7o25Cj4Iud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7o25Cj4Iud",
+							"expanded_url": "http://michaeltimmonsmusic.bandcamp.com",
+							"display_url": "michaeltimmonsmusic.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0IXq1C4ESc",
+							"expanded_url": "https://open.spotify.com/album/2ez9OkKVRCLrvm3AvxKjtS?si=m5ZqLSK9T6-79FKopQB_dw",
+							"display_url": "open.spotify.com/album/2ez9OkKV…",
+							"indices": [
+								74,
+								97
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 723,
+			"friends_count": 384,
+			"listed_count": 15,
+			"created_at": "Tue Mar 05 19:16:35 +0000 2013",
+			"favourites_count": 4407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/848934481096474624/qKZCEFdR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/848934481096474624/qKZCEFdR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1244438078/1562073557",
+			"profile_link_color": "141414",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SEPT 21st, I play Aberdeen @TrueNorth_Fest @APAWhatsOn Music Hall Big, Sky Sessions as selected by @thetwilightsad tickets 👉https://t.co/qCDYlShIkP https://t.co/zIfTJrS4QY"
+	},
+	{
 		"created_at": "Sun Sep 08 19:48:19 +0000 2019",
 		"id": 1170785957617926100,
 		"id_str": "1170785957617926144",
