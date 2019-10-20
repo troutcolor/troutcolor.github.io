@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 19 19:29:26 +0000 2019",
+		"id": 1185639109089464300,
+		"id_str": "1185639109089464327",
+		"full_text": "Yesterdays walk, Glen Finlas\nhttps://t.co/SXjbNlkIX2 https://t.co/Wng3dkk1bB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SXjbNlkIX2",
+					"expanded_url": "https://johnjohnston.info/walks/maps.html?f=72157711409407268&m=2019-10-18-Glen-Finlas.gpx",
+					"display_url": "johnjohnston.info/walks/maps.htm…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1185639099425869800,
+					"id_str": "1185639099425869825",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/EHQ8eqkX0AE-1Vx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHQ8eqkX0AE-1Vx.jpg",
+					"url": "https://t.co/Wng3dkk1bB",
+					"display_url": "pic.twitter.com/Wng3dkk1bB",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1185639109089464327/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 266,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 151,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1185639099425869800,
+					"id_str": "1185639099425869825",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/EHQ8eqkX0AE-1Vx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHQ8eqkX0AE-1Vx.jpg",
+					"url": "https://t.co/Wng3dkk1bB",
+					"display_url": "pic.twitter.com/Wng3dkk1bB",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1185639109089464327/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 266,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 151,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3921,
+			"friends_count": 2576,
+			"listed_count": 273,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4872,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yesterdays walk, Glen Finlas\nhttps://t.co/SXjbNlkIX2 https://t.co/Wng3dkk1bB"
+	},
+	{
 		"created_at": "Fri Oct 18 16:04:02 +0000 2019",
 		"id": 1185225029438582800,
 		"id_str": "1185225029438582785",
