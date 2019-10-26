@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 25 17:10:49 +0000 2019",
+		"id": 1187778554395799600,
+		"id_str": "1187778554395799552",
+		"full_text": "I love @snapthread for making “movies in moments” @digitallearnNL @DigiLearnScot #AppleTeacher https://t.co/9kLhlWYsJn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AppleTeacher",
+					"indices": [
+						81,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "snapthread",
+					"name": "Snapthread",
+					"id": 921459414439252000,
+					"id_str": "921459414439251968",
+					"indices": [
+						7,
+						18
+					]
+				},
+				{
+					"screen_name": "digitallearnNL",
+					"name": "Digital Learning and teaching NL",
+					"id": 1132668651226763300,
+					"id_str": "1132668651226763270",
+					"indices": [
+						50,
+						65
+					]
+				},
+				{
+					"screen_name": "DigiLearnScot",
+					"name": "Digital Learning and Teaching",
+					"id": 2965753499,
+					"id_str": "2965753499",
+					"indices": [
+						66,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9kLhlWYsJn",
+					"expanded_url": "https://twitter.com/banton_pr/status/1187734065153269760",
+					"display_url": "twitter.com/banton_pr/stat…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3922,
+			"friends_count": 2580,
+			"listed_count": 273,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1187734065153269800,
+		"quoted_status_id_str": "1187734065153269760",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9kLhlWYsJn",
+			"expanded": "https://twitter.com/banton_pr/status/1187734065153269760",
+			"display": "twitter.com/banton_pr/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 25 14:14:02 +0000 2019",
+			"id": 1187734065153269800,
+			"id_str": "1187734065153269760",
+			"full_text": "The Mummies of Banton https://t.co/AWyrN0qrjs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				21
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1187733053008990200,
+						"id_str": "1187733053008990210",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1187733053008990210/pu/img/NJH1PLrFwAHVJ-hX.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1187733053008990210/pu/img/NJH1PLrFwAHVJ-hX.jpg",
+						"url": "https://t.co/AWyrN0qrjs",
+						"display_url": "pic.twitter.com/AWyrN0qrjs",
+						"expanded_url": "https://twitter.com/Banton_Pr/status/1187734065153269760/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1187733053008990200,
+						"id_str": "1187733053008990210",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1187733053008990210/pu/img/NJH1PLrFwAHVJ-hX.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1187733053008990210/pu/img/NJH1PLrFwAHVJ-hX.jpg",
+						"url": "https://t.co/AWyrN0qrjs",
+						"display_url": "pic.twitter.com/AWyrN0qrjs",
+						"expanded_url": "https://twitter.com/Banton_Pr/status/1187734065153269760/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"duration_millis": 80812,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1187733053008990210/pu/vid/360x270/7ZMjgDsZS_BoIBIU.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1187733053008990210/pu/pl/dUmauZ1SAEELtb5E.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1187733053008990210/pu/vid/640x480/sSBVUUUgw18BXztL.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1187733053008990210/pu/vid/480x360/qXDxbQFkljMiynXH.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 702565959354163200,
+				"id_str": "702565959354163200",
+				"name": "Banton Primary",
+				"screen_name": "Banton_Pr",
+				"location": "Banton, Scotland",
+				"description": "A Small Primary School in North Lanarkshire",
+				"url": "https://t.co/WNBQyt3iF5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WNBQyt3iF5",
+								"expanded_url": "https://blogs.glowscotland.org.uk/nl/banton/",
+								"display_url": "blogs.glowscotland.org.uk/nl/banton/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 312,
+				"friends_count": 65,
+				"listed_count": 6,
+				"created_at": "Wed Feb 24 18:49:12 +0000 2016",
+				"favourites_count": 509,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 761,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/702578403564773376/V51uWMrV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/702578403564773376/V51uWMrV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/702565959354163200/1456342883",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I love @snapthread for making “movies in moments” @digitallearnNL @DigiLearnScot #AppleTeacher https://t.co/9kLhlWYsJn"
+	},
+	{
 		"created_at": "Thu Oct 24 19:23:32 +0000 2019",
 		"id": 1187449565231964200,
 		"id_str": "1187449565231964160",
