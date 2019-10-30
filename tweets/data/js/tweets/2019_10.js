@@ -1,6 +1,272 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 29 04:08:56 +0000 2019",
+		"id": 1189031335899340800,
+		"id_str": "1189031335899340800",
+		"full_text": "#glowblogs https://t.co/VEZoWCEhxw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "glowblogs",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VEZoWCEhxw",
+					"expanded_url": "https://twitter.com/tesscotland/status/1188930491895963648",
+					"display_url": "twitter.com/tesscotland/st…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3923,
+			"friends_count": 2580,
+			"listed_count": 273,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4875,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17796,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1188930491895963600,
+		"quoted_status_id_str": "1188930491895963648",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VEZoWCEhxw",
+			"expanded": "https://twitter.com/tesscotland/status/1188930491895963648",
+			"display": "twitter.com/tesscotland/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 28 21:28:13 +0000 2019",
+			"id": 1188930491895963600,
+			"id_str": "1188930491895963648",
+			"full_text": "'Why writing a blog can transform your teaching' https://t.co/xAcF6fP5o6 @tes #blogging #teaching",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				97
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "blogging",
+						"indices": [
+							78,
+							87
+						]
+					},
+					{
+						"text": "teaching",
+						"indices": [
+							88,
+							97
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tes",
+						"name": "Tes",
+						"id": 78874095,
+						"id_str": "78874095",
+						"indices": [
+							73,
+							77
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/xAcF6fP5o6",
+						"expanded_url": "http://bit.ly/2NitDeF",
+						"display_url": "bit.ly/2NitDeF",
+						"indices": [
+							49,
+							72
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 106125898,
+				"id_str": "106125898",
+				"name": "Tes Scotland",
+				"screen_name": "TESScotland",
+				"location": "Scotland",
+				"description": "Times Educational Supplement Scotland – magazine for Scottish teaching professionals. Tweets by @Henry_Hepburn @Emma_Seith @JBelgutay",
+				"url": "https://t.co/cMrTUIpcDG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cMrTUIpcDG",
+								"expanded_url": "http://tes.com",
+								"display_url": "tes.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 25331,
+				"friends_count": 7121,
+				"listed_count": 194,
+				"created_at": "Mon Jan 18 15:43:58 +0000 2010",
+				"favourites_count": 1829,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10238,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/844957479515701248/9mpFb8Aw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/844957479515701248/9mpFb8Aw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/106125898/1532017729",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#glowblogs https://t.co/VEZoWCEhxw"
+	},
+	{
 		"created_at": "Sun Oct 27 08:25:51 +0000 2019",
 		"id": 1188371217667018800,
 		"id_str": "1188371217667018752",
