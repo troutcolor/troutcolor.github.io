@@ -1,6 +1,445 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 27 16:33:05 +0000 2019",
+		"id": 1199637251719909400,
+		"id_str": "1199727856412221440",
+		"full_text": "We are excited to be part of @BigSleepOuts @SocialBite_ in Edinburgh 7th of December. Sharing songs written with young people many with experience of homelessness from @LorettoCare @WheatleyHousing 🎶 more info 👉 https://t.co/kHksS8ZXG7 https://t.co/0fiSNL2gll",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BigSleepOuts",
+					"name": "The Worlds Big Sleep Out",
+					"id": 1098579660454150100,
+					"id_str": "1098579660454150144",
+					"indices": [
+						29,
+						42
+					]
+				},
+				{
+					"screen_name": "SocialBite_",
+					"name": "Social Bite",
+					"id": 718183207,
+					"id_str": "718183207",
+					"indices": [
+						43,
+						55
+					]
+				},
+				{
+					"screen_name": "LorettoCare",
+					"name": "Loretto Care",
+					"id": 555833442,
+					"id_str": "555833442",
+					"indices": [
+						168,
+						180
+					]
+				},
+				{
+					"screen_name": "WheatleyHousing",
+					"name": "Wheatley Group",
+					"id": 1951585878,
+					"id_str": "1951585878",
+					"indices": [
+						181,
+						197
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kHksS8ZXG7",
+					"expanded_url": "https://www.bigsleepout.com/",
+					"display_url": "bigsleepout.com",
+					"indices": [
+						212,
+						235
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1199637233961242600,
+					"id_str": "1199637233961242624",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/EKX3tVWXkAAvxHO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKX3tVWXkAAvxHO.jpg",
+					"url": "https://t.co/0fiSNL2gll",
+					"display_url": "pic.twitter.com/0fiSNL2gll",
+					"expanded_url": "https://twitter.com/LCEnsemble/status/1199637251719909376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1001552884822048768",
+									"screen_name": "jill_lorean",
+									"name": "Jill Lorean"
+								},
+								{
+									"type": "user",
+									"user_id": "2760282561",
+									"screen_name": "MarthaFfion",
+									"name": "Martha Ffion"
+								},
+								{
+									"type": "user",
+									"user_id": "861879586317062144",
+									"screen_name": "FiskurMusic",
+									"name": "Fiskur"
+								},
+								{
+									"type": "user",
+									"user_id": "1428972157",
+									"screen_name": "raukarna",
+									"name": "lucy cathcart froden"
+								},
+								{
+									"type": "user",
+									"user_id": "406225162",
+									"screen_name": "clare_mcbrien",
+									"name": "Clare Anne"
+								},
+								{
+									"type": "user",
+									"user_id": "1244438078",
+									"screen_name": "MTImmonsMusic",
+									"name": "Michael Timmons"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 594,
+									"y": 592,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 1372,
+									"y": 608,
+									"h": 70,
+									"w": 70
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 197,
+									"y": 196,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 455,
+									"y": 201,
+									"h": 23,
+									"w": 23
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 594,
+									"y": 592,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 1372,
+									"y": 608,
+									"h": 70,
+									"w": 70
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 348,
+									"y": 346,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 803,
+									"y": 356,
+									"h": 41,
+									"w": 41
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199637233961242600,
+					"id_str": "1199637233961242624",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/EKX3tVWXkAAvxHO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKX3tVWXkAAvxHO.jpg",
+					"url": "https://t.co/0fiSNL2gll",
+					"display_url": "pic.twitter.com/0fiSNL2gll",
+					"expanded_url": "https://twitter.com/LCEnsemble/status/1199637251719909376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1001552884822048768",
+									"screen_name": "jill_lorean",
+									"name": "Jill Lorean"
+								},
+								{
+									"type": "user",
+									"user_id": "2760282561",
+									"screen_name": "MarthaFfion",
+									"name": "Martha Ffion"
+								},
+								{
+									"type": "user",
+									"user_id": "861879586317062144",
+									"screen_name": "FiskurMusic",
+									"name": "Fiskur"
+								},
+								{
+									"type": "user",
+									"user_id": "1428972157",
+									"screen_name": "raukarna",
+									"name": "lucy cathcart froden"
+								},
+								{
+									"type": "user",
+									"user_id": "406225162",
+									"screen_name": "clare_mcbrien",
+									"name": "Clare Anne"
+								},
+								{
+									"type": "user",
+									"user_id": "1244438078",
+									"screen_name": "MTImmonsMusic",
+									"name": "Michael Timmons"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 594,
+									"y": 592,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 1372,
+									"y": 608,
+									"h": 70,
+									"w": 70
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 197,
+									"y": 196,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 455,
+									"y": 201,
+									"h": 23,
+									"w": 23
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 594,
+									"y": 592,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 1372,
+									"y": 608,
+									"h": 70,
+									"w": 70
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 348,
+									"y": 346,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 803,
+									"y": 356,
+									"h": 41,
+									"w": 41
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 727509081242636300,
+			"id_str": "727509081242636292",
+			"name": "Ensemble",
+			"screen_name": "LCEnsemble",
+			"location": "Central Scotland ",
+			"description": "Changing lives with music. Creating music with young people with experience of homelessness & mental health issues. Funded by Creative Scotland + Loretto Care",
+			"url": "https://t.co/vzNwriJUJz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vzNwriJUJz",
+							"expanded_url": "https://billetto.co.uk/e/songs-to-end-homelessness-ensemble-live-at-saint-luke-s-tickets-358221",
+							"display_url": "billetto.co.uk/e/songs-to-end…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 400,
+			"friends_count": 576,
+			"listed_count": 16,
+			"created_at": "Tue May 03 14:44:16 +0000 2016",
+			"favourites_count": 583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 577,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728250808400281600/TxvLeXGe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728250808400281600/TxvLeXGe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/727509081242636292/1559830840",
+			"profile_link_color": "00B0B9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are excited to be part of @BigSleepOuts @SocialBite_ in Edinburgh 7th of December. Sharing songs written with young people many with experience of homelessness from @LorettoCare @WheatleyHousing 🎶 more info 👉 https://t.co/kHksS8ZXG7 https://t.co/0fiSNL2gll"
+	},
+	{
 		"created_at": "Mon Nov 25 12:44:03 +0000 2019",
 		"id": 1198945443604025300,
 		"id_str": "1198945443604025344",
