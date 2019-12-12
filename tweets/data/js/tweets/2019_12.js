@@ -1,6 +1,114 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 11 09:54:45 +0000 2019",
+		"id": 1204413338777600000,
+		"id_str": "1204701044065869824",
+		"full_text": "For those who think both sides are liars: 88% of Conservative ads were found to be misleading or outright wrong, while 0% of Labour's ads were deemed misleading https://t.co/nxlRDQ3ED2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nxlRDQ3ED2",
+					"expanded_url": "https://www.bbc.co.uk/news/technology-50726500",
+					"display_url": "bbc.co.uk/news/technolog…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48777623,
+			"id_str": "48777623",
+			"name": "Nick Srnicek",
+			"screen_name": "n_srnck",
+			"location": "",
+			"description": "Everything for everyone.",
+			"url": "https://t.co/3jPVJ4QGSW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3jPVJ4QGSW",
+							"expanded_url": "http://politybooks.com/bookdetail/?isbn=9781509504862",
+							"display_url": "politybooks.com/bookdetail/?is…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18751,
+			"friends_count": 704,
+			"listed_count": 306,
+			"created_at": "Fri Jun 19 18:01:30 +0000 2009",
+			"favourites_count": 5384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3043,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838574405257211904/HgFeju2u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838574405257211904/HgFeju2u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48777623/1398825296",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2343,
+		"favorite_count": 3231,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For those who think both sides are liars: 88% of Conservative ads were found to be misleading or outright wrong, while 0% of Labour's ads were deemed misleading https://t.co/nxlRDQ3ED2"
+	},
+	{
 		"created_at": "Mon Dec 09 20:12:11 +0000 2019",
 		"id": 1204131649543389200,
 		"id_str": "1204131649543389185",
