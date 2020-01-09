@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 08 07:53:08 +0000 2020",
+		"id": 1214817296964866000,
+		"id_str": "1214817296964866049",
+		"full_text": "#GlowBlogs https://t.co/cXyzKMbRys",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GlowBlogs",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cXyzKMbRys",
+					"expanded_url": "https://twitter.com/KingslandLearns/status/1214217822177517571",
+					"display_url": "twitter.com/KingslandLearn…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3938,
+			"friends_count": 2597,
+			"listed_count": 272,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1214217822177517600,
+		"quoted_status_id_str": "1214217822177517571",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cXyzKMbRys",
+			"expanded": "https://twitter.com/KingslandLearns/status/1214217822177517571",
+			"display": "twitter.com/KingslandLearn…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 06 16:11:02 +0000 2020",
+			"id": 1214217822177517600,
+			"id_str": "1214217822177517571",
+			"full_text": "Recent highlights on the @GlowScot blogs include sushi making, funky dance moves, amazing homework projects and links to some fun Maths games. Click the link below to take a peek into your child's learning @KingslandLearns! https://t.co/rPTpt8fIJw https://t.co/Cx5P7qOLld",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				247
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GlowScot",
+						"name": "Glow Scot",
+						"id": 2912429973,
+						"id_str": "2912429973",
+						"indices": [
+							25,
+							34
+						]
+					},
+					{
+						"screen_name": "KingslandLearns",
+						"name": "Kingsland Primary",
+						"id": 2976434549,
+						"id_str": "2976434549",
+						"indices": [
+							206,
+							222
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/rPTpt8fIJw",
+						"expanded_url": "https://buff.ly/2QsPd30",
+						"display_url": "buff.ly/2QsPd30",
+						"indices": [
+							224,
+							247
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1214217820411547600,
+						"id_str": "1214217820411547648",
+						"indices": [
+							248,
+							271
+						],
+						"media_url": "http://pbs.twimg.com/media/ENnErKmUUAAiFgu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENnErKmUUAAiFgu.jpg",
+						"url": "https://t.co/Cx5P7qOLld",
+						"display_url": "pic.twitter.com/Cx5P7qOLld",
+						"expanded_url": "https://twitter.com/KingslandLearns/status/1214217822177517571/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 286,
+								"h": 382,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 286,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 286,
+								"h": 382,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1214217820411547600,
+						"id_str": "1214217820411547648",
+						"indices": [
+							248,
+							271
+						],
+						"media_url": "http://pbs.twimg.com/media/ENnErKmUUAAiFgu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENnErKmUUAAiFgu.jpg",
+						"url": "https://t.co/Cx5P7qOLld",
+						"display_url": "pic.twitter.com/Cx5P7qOLld",
+						"expanded_url": "https://twitter.com/KingslandLearns/status/1214217822177517571/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 286,
+								"h": 382,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 286,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 286,
+								"h": 382,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2976434549,
+				"id_str": "2976434549",
+				"name": "Kingsland Primary",
+				"screen_name": "KingslandLearns",
+				"location": "Peebles, Scottish Borders",
+				"description": "Welcome to our Twitter page! We want to share our good work and news of all the exciting things we do in our school.",
+				"url": "https://t.co/h2Yw6BU2Qs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/h2Yw6BU2Qs",
+								"expanded_url": "http://www.kingslandprimary.org",
+								"display_url": "kingslandprimary.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 632,
+				"friends_count": 45,
+				"listed_count": 12,
+				"created_at": "Tue Jan 13 13:44:41 +0000 2015",
+				"favourites_count": 309,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 748,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/555002687990022144/gQu6PpLD_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/555002687990022144/gQu6PpLD_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2976434549/1421157869",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#GlowBlogs https://t.co/cXyzKMbRys"
+	},
+	{
 		"created_at": "Tue Jan 07 18:22:24 +0000 2020",
 		"id": 1214613270801395700,
 		"id_str": "1214613270801395715",
