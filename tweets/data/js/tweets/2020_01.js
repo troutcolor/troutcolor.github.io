@@ -1,6 +1,136 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 13 21:00:32 +0000 2020",
+		"id": 1206917356846551000,
+		"id_str": "1216827391026302980",
+		"full_text": "#WCGla You can now get your tickets for the first ever #WordCamp #Glasgow!\nSaturday 8 February 2020\n\nIt'll be great, don't miss out! 😍 \nhttps://t.co/zU8bjvBlCn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WCGla",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "WordCamp",
+					"indices": [
+						55,
+						64
+					]
+				},
+				{
+					"text": "Glasgow",
+					"indices": [
+						65,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zU8bjvBlCn",
+					"expanded_url": "https://2020.glasgow.wordcamp.org/tickets/",
+					"display_url": "2020.glasgow.wordcamp.org/tickets/",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743395446786228200,
+			"id_str": "743395446786228225",
+			"name": "WordPress Glasgow",
+			"screen_name": "wp_glasgow",
+			"location": "Glasgow, Scotland",
+			"description": "WordPress Glasgow meetup. For Web Developers, Business Owners and Bloggers. All levels welcome. Come along and join the community! #wpglasgow #wordpress",
+			"url": "https://t.co/nF24yszaWq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nF24yszaWq",
+							"expanded_url": "https://wpglasgow.org",
+							"display_url": "wpglasgow.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1716,
+			"friends_count": 1046,
+			"listed_count": 160,
+			"created_at": "Thu Jun 16 10:51:00 +0000 2016",
+			"favourites_count": 1899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5017,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113819755419402240/UpymXo3P_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113819755419402240/UpymXo3P_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743395446786228225/1466075571",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#WCGla You can now get your tickets for the first ever #WordCamp #Glasgow!\nSaturday 8 February 2020\n\nIt'll be great, don't miss out! 😍 \nhttps://t.co/zU8bjvBlCn"
+	},
+	{
 		"created_at": "Sat Jan 11 23:32:24 +0000 2020",
 		"id": 1216140834711724000,
 		"id_str": "1216140834711724032",
