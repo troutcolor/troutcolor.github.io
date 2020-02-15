@@ -1,6 +1,586 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 14 20:16:48 +0000 2020",
+		"id": 1228412797144400000,
+		"id_str": "1228412797144399872",
+		"full_text": "@EdTech_Stories @claganach @dgilmour @MrSMathsWizard @marc_smith @zeemaps @EdTechStories @andrewkbailey13 @declara @Giveandtakeinc I don't want to move educators. I'd like to spread the understanding that platforms that you pay for with your attention, and then that attention is manipulated, may not be the best place to direct our pupils data and attention. A start along that path… https://t.co/PY7BeuFftw",
+		"truncated": false,
+		"display_text_range": [
+			131,
+			408
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EdTech_Stories",
+					"name": "William Jenkins",
+					"id": 1280294108,
+					"id_str": "1280294108",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "claganach",
+					"name": "📱Malcolm Wilson 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+					"id": 54920357,
+					"id_str": "54920357",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "dgilmour",
+					"name": "David Gilmour",
+					"id": 8720172,
+					"id_str": "8720172",
+					"indices": [
+						27,
+						36
+					]
+				},
+				{
+					"screen_name": "MrSMathsWizard",
+					"name": "John Sexton",
+					"id": 136030392,
+					"id_str": "136030392",
+					"indices": [
+						37,
+						52
+					]
+				},
+				{
+					"screen_name": "marc_smith",
+					"name": "Marc Smith",
+					"id": 12160482,
+					"id_str": "12160482",
+					"indices": [
+						53,
+						64
+					]
+				},
+				{
+					"screen_name": "zeemaps",
+					"name": "ZeeMaps",
+					"id": 30665881,
+					"id_str": "30665881",
+					"indices": [
+						65,
+						73
+					]
+				},
+				{
+					"screen_name": "EdTechStories",
+					"name": "William Jenkins",
+					"id": 921336763871846400,
+					"id_str": "921336763871846402",
+					"indices": [
+						74,
+						88
+					]
+				},
+				{
+					"screen_name": "andrewkbailey13",
+					"name": "Andrew Bailey",
+					"id": 283494396,
+					"id_str": "283494396",
+					"indices": [
+						89,
+						105
+					]
+				},
+				{
+					"screen_name": "declara",
+					"name": "Declara",
+					"id": 1075111008,
+					"id_str": "1075111008",
+					"indices": [
+						106,
+						114
+					]
+				},
+				{
+					"screen_name": "Giveandtakeinc",
+					"name": "GiveandTake",
+					"id": 859610521649197000,
+					"id_str": "859610521649197056",
+					"indices": [
+						115,
+						130
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PY7BeuFftw",
+					"expanded_url": "https://johnjohnston.info/blog/re-in-my-experience-its-a-challenge-moving-edu-folks-to-other-platforms/",
+					"display_url": "johnjohnston.info/blog/re-in-my-…",
+					"indices": [
+						385,
+						408
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+		"in_reply_to_status_id": 1228400597336023000,
+		"in_reply_to_status_id_str": "1228400597336023040",
+		"in_reply_to_user_id": 1280294108,
+		"in_reply_to_user_id_str": "1280294108",
+		"in_reply_to_screen_name": "EdTech_Stories",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3938,
+			"friends_count": 2599,
+			"listed_count": 273,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@EdTech_Stories @claganach @dgilmour @MrSMathsWizard @marc_smith @zeemaps @EdTechStories @andrewkbailey13 @declara @Giveandtakeinc I don't want to move educators. I'd like to spread the understanding that platforms that you pay for with your attention, and then that attention is manipulated, may not be the best place to direct our pupils data and attention. A start along that path… https://t.co/PY7BeuFftw"
+	},
+	{
+		"created_at": "Fri Feb 14 19:12:48 +0000 2020",
+		"id": 1228396693034586000,
+		"id_str": "1228396693034586114",
+		"full_text": "@EdTech_Stories @claganach @dgilmour @MrSMathsWizard @marc_smith @zeemaps @EdTechStories CC @andrewkbailey13  Thanks, I've parsed  3000 odd tweets from some of William's (&amp; Andrew's) lists, not sure if anyone else in interested, but:\nhttps://t.co/UGV1ZHCBYI",
+		"truncated": false,
+		"display_text_range": [
+			89,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EdTech_Stories",
+					"name": "William Jenkins",
+					"id": 1280294108,
+					"id_str": "1280294108",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "claganach",
+					"name": "📱Malcolm Wilson 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+					"id": 54920357,
+					"id_str": "54920357",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "dgilmour",
+					"name": "David Gilmour",
+					"id": 8720172,
+					"id_str": "8720172",
+					"indices": [
+						27,
+						36
+					]
+				},
+				{
+					"screen_name": "MrSMathsWizard",
+					"name": "John Sexton",
+					"id": 136030392,
+					"id_str": "136030392",
+					"indices": [
+						37,
+						52
+					]
+				},
+				{
+					"screen_name": "marc_smith",
+					"name": "Marc Smith",
+					"id": 12160482,
+					"id_str": "12160482",
+					"indices": [
+						53,
+						64
+					]
+				},
+				{
+					"screen_name": "zeemaps",
+					"name": "ZeeMaps",
+					"id": 30665881,
+					"id_str": "30665881",
+					"indices": [
+						65,
+						73
+					]
+				},
+				{
+					"screen_name": "EdTechStories",
+					"name": "William Jenkins",
+					"id": 921336763871846400,
+					"id_str": "921336763871846402",
+					"indices": [
+						74,
+						88
+					]
+				},
+				{
+					"screen_name": "andrewkbailey13",
+					"name": "Andrew Bailey",
+					"id": 283494396,
+					"id_str": "283494396",
+					"indices": [
+						92,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UGV1ZHCBYI",
+					"expanded_url": "https://johnjohnston.info/blog/what-we-scottish-schools-tweet-with/",
+					"display_url": "johnjohnston.info/blog/what-we-s…",
+					"indices": [
+						238,
+						261
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1228296780153901000,
+		"in_reply_to_status_id_str": "1228296780153901056",
+		"in_reply_to_user_id": 1280294108,
+		"in_reply_to_user_id_str": "1280294108",
+		"in_reply_to_screen_name": "EdTech_Stories",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3938,
+			"friends_count": 2599,
+			"listed_count": 273,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@EdTech_Stories @claganach @dgilmour @MrSMathsWizard @marc_smith @zeemaps @EdTechStories CC @andrewkbailey13  Thanks, I've parsed  3000 odd tweets from some of William's (&amp; Andrew's) lists, not sure if anyone else in interested, but:\nhttps://t.co/UGV1ZHCBYI"
+	},
+	{
+		"created_at": "Fri Feb 14 12:17:06 +0000 2020",
+		"id": 1228292078058209300,
+		"id_str": "1228292078058209281",
+		"full_text": "@EdTech_Stories @claganach @dgilmour @MrSMathsWizard @marc_smith @zeemaps Hi Thanks, I can see your twitter lists. All I am after is the list IDs so good to go:-)",
+		"truncated": false,
+		"display_text_range": [
+			74,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EdTech_Stories",
+					"name": "William Jenkins",
+					"id": 1280294108,
+					"id_str": "1280294108",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "claganach",
+					"name": "📱Malcolm Wilson 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+					"id": 54920357,
+					"id_str": "54920357",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "dgilmour",
+					"name": "David Gilmour",
+					"id": 8720172,
+					"id_str": "8720172",
+					"indices": [
+						27,
+						36
+					]
+				},
+				{
+					"screen_name": "MrSMathsWizard",
+					"name": "John Sexton",
+					"id": 136030392,
+					"id_str": "136030392",
+					"indices": [
+						37,
+						52
+					]
+				},
+				{
+					"screen_name": "marc_smith",
+					"name": "Marc Smith",
+					"id": 12160482,
+					"id_str": "12160482",
+					"indices": [
+						53,
+						64
+					]
+				},
+				{
+					"screen_name": "zeemaps",
+					"name": "ZeeMaps",
+					"id": 30665881,
+					"id_str": "30665881",
+					"indices": [
+						65,
+						73
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1228245936297717800,
+		"in_reply_to_status_id_str": "1228245936297717762",
+		"in_reply_to_user_id": 1280294108,
+		"in_reply_to_user_id_str": "1280294108",
+		"in_reply_to_screen_name": "EdTech_Stories",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher Scotland, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3938,
+			"friends_count": 2599,
+			"listed_count": 273,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 4958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EdTech_Stories @claganach @dgilmour @MrSMathsWizard @marc_smith @zeemaps Hi Thanks, I can see your twitter lists. All I am after is the list IDs so good to go:-)"
+	},
+	{
 		"created_at": "Thu Feb 13 20:27:42 +0000 2020",
 		"id": 1228053153679106000,
 		"id_str": "1228053153679106053",
