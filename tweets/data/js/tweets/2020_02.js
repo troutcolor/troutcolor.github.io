@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 19 17:54:36 +0000 2020",
+		"id": 1230161562519908400,
+		"id_str": "1230188951593459712",
+		"full_text": "Liverpool I support @thetwilightsad April 14th @ArtsClubHQ 🖤 can't wait to be part of this show &amp; play with this incredible band once again. Tickets 👉 https://t.co/5uAryp3MVb https://t.co/Drpofx2uEv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thetwilightsad",
+					"name": "the twilight sad",
+					"id": 23094396,
+					"id_str": "23094396",
+					"indices": [
+						20,
+						35
+					]
+				},
+				{
+					"screen_name": "ArtsClubHQ",
+					"name": "Arts Club",
+					"id": 46657585,
+					"id_str": "46657585",
+					"indices": [
+						47,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5uAryp3MVb",
+					"expanded_url": "https://www.seetickets.com/event/the-twilight-sad/arts-club/1504567",
+					"display_url": "seetickets.com/event/the-twil…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1230161556371071000,
+					"id_str": "1230161556371070980",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/ERJpavfW4AQTw_r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERJpavfW4AQTw_r.jpg",
+					"url": "https://t.co/Drpofx2uEv",
+					"display_url": "pic.twitter.com/Drpofx2uEv",
+					"expanded_url": "https://twitter.com/MTImmonsMusic/status/1230161562519908353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 678,
+							"h": 917,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 678,
+							"h": 917,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 503,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230161556371071000,
+					"id_str": "1230161556371070980",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/ERJpavfW4AQTw_r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERJpavfW4AQTw_r.jpg",
+					"url": "https://t.co/Drpofx2uEv",
+					"display_url": "pic.twitter.com/Drpofx2uEv",
+					"expanded_url": "https://twitter.com/MTImmonsMusic/status/1230161562519908353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 678,
+							"h": 917,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 678,
+							"h": 917,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 503,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1244438078,
+			"id_str": "1244438078",
+			"name": "Michael Timmons",
+			"screen_name": "MTImmonsMusic",
+			"location": "",
+			"description": "Solo musician from Glasgow, Scotland. \nNew single The Games Room out now.\nhttps://t.co/0IXq1C4ESc",
+			"url": "https://t.co/7o25Cj4Iud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7o25Cj4Iud",
+							"expanded_url": "http://michaeltimmonsmusic.bandcamp.com",
+							"display_url": "michaeltimmonsmusic.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0IXq1C4ESc",
+							"expanded_url": "https://open.spotify.com/album/2ez9OkKVRCLrvm3AvxKjtS?si=m5ZqLSK9T6-79FKopQB_dw",
+							"display_url": "open.spotify.com/album/2ez9OkKV…",
+							"indices": [
+								74,
+								97
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 749,
+			"friends_count": 394,
+			"listed_count": 15,
+			"created_at": "Tue Mar 05 19:16:35 +0000 2013",
+			"favourites_count": 4874,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3040,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/848934481096474624/qKZCEFdR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/848934481096474624/qKZCEFdR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1244438078/1562073557",
+			"profile_link_color": "141414",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Liverpool I support @thetwilightsad April 14th @ArtsClubHQ 🖤 can't wait to be part of this show &amp; play with this incredible band once again. Tickets 👉 https://t.co/5uAryp3MVb https://t.co/Drpofx2uEv"
+	},
+	{
 		"created_at": "Tue Feb 18 19:16:49 +0000 2020",
 		"id": 1229847255361949700,
 		"id_str": "1229847255361949714",
