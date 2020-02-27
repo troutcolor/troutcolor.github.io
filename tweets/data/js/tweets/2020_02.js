@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 26 22:06:02 +0000 2020",
+		"id": 1232747008127045600,
+		"id_str": "1232788943655120896",
+		"full_text": "Terrific day @SpringsidePS with P4,5,6 &amp;7 classes setting up #glowblogs Looking forward to returning in a few months to see how they have progressed! #digitalskills @DigiLearnScot @GlowScot #literacy https://t.co/qBlmKK4yM5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "glowblogs",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"text": "digitalskills",
+					"indices": [
+						154,
+						168
+					]
+				},
+				{
+					"text": "literacy",
+					"indices": [
+						194,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SpringsidePS",
+					"name": "Springside PS & Early Years",
+					"id": 4870438521,
+					"id_str": "4870438521",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "DigiLearnScot",
+					"name": "Digital Learning and Teaching",
+					"id": 2965753499,
+					"id_str": "2965753499",
+					"indices": [
+						169,
+						183
+					]
+				},
+				{
+					"screen_name": "GlowScot",
+					"name": "Glow Scot",
+					"id": 2912429973,
+					"id_str": "2912429973",
+					"indices": [
+						184,
+						193
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1232746997179932700,
+					"id_str": "1232746997179932673",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ERuY3NDW4AEclph.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ERuY3NDW4AEclph.jpg",
+					"url": "https://t.co/qBlmKK4yM5",
+					"display_url": "pic.twitter.com/qBlmKK4yM5",
+					"expanded_url": "https://twitter.com/RosJLee/status/1232747008127045633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1232746997179932700,
+					"id_str": "1232746997179932673",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ERuY3NDW4AEclph.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ERuY3NDW4AEclph.jpg",
+					"url": "https://t.co/qBlmKK4yM5",
+					"display_url": "pic.twitter.com/qBlmKK4yM5",
+					"expanded_url": "https://twitter.com/RosJLee/status/1232747008127045633/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ERuY3NDW4AEclph.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4165588108,
+			"id_str": "4165588108",
+			"name": "Rosslyn Lee",
+			"screen_name": "RosJLee",
+			"location": "",
+			"description": "#AppleTeacher, #MIEExpert & #GoogleCE Level 2, #STEM Ambassador. Be curious!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 713,
+			"friends_count": 279,
+			"listed_count": 54,
+			"created_at": "Wed Nov 11 18:08:56 +0000 2015",
+			"favourites_count": 2849,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149343416876261376/k3XEpnXc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149343416876261376/k3XEpnXc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4165588108/1563015593",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Terrific day @SpringsidePS with P4,5,6 &amp;7 classes setting up #glowblogs Looking forward to returning in a few months to see how they have progressed! #digitalskills @DigiLearnScot @GlowScot #literacy https://t.co/qBlmKK4yM5"
+	},
+	{
 		"created_at": "Mon Feb 24 21:31:39 +0000 2020",
 		"id": 1232055513417998300,
 		"id_str": "1232055513417998336",
