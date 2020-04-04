@@ -1,6 +1,1160 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 03 19:23:05 +0000 2020",
+		"id": 1246156287051796500,
+		"id_str": "1246156287051796481",
+		"full_text": "@timmmmyboy @scottlo @billgx Izicast looks interesting cause Audiobus....",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timmmmyboy",
+					"name": "timmmmyboy",
+					"id": 1025923491495903200,
+					"id_str": "1025923491495903232",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "scottlo",
+					"name": "scottlo",
+					"id": 1154221,
+					"id_str": "1154221",
+					"indices": [
+						12,
+						20
+					]
+				},
+				{
+					"screen_name": "billgx",
+					"name": "Bill Genereux",
+					"id": 14168970,
+					"id_str": "14168970",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1246154834094502000,
+		"in_reply_to_status_id_str": "1246154834094501888",
+		"in_reply_to_user_id": 1025923491495903200,
+		"in_reply_to_user_id_str": "1025923491495903232",
+		"in_reply_to_screen_name": "timmmmyboy",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3949,
+			"friends_count": 2615,
+			"listed_count": 272,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "791e00bcadc4615f",
+			"url": "https://api.twitter.com/1.1/geo/id/791e00bcadc4615f.json",
+			"place_type": "city",
+			"name": "Glasgow",
+			"full_name": "Glasgow, Scotland",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-4.3932845,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.9204214
+						],
+						[
+							-4.3932845,
+							55.9204214
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@timmmmyboy @scottlo @billgx Izicast looks interesting cause Audiobus...."
+	},
+	{
+		"created_at": "Fri Apr 03 16:10:20 +0000 2020",
+		"id": 1246107776117543000,
+		"id_str": "1246107776117542912",
+		"full_text": "@carolinebreyley Wow, quite a blow. The forecast said it snowed here early morning, but no sign when I got up. Everything topsy-turvy now.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "carolinebreyley",
+					"name": "caroline breyley",
+					"id": 20870409,
+					"id_str": "20870409",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1246014624358633500,
+		"in_reply_to_status_id_str": "1246014624358633472",
+		"in_reply_to_user_id": 20870409,
+		"in_reply_to_user_id_str": "20870409",
+		"in_reply_to_screen_name": "carolinebreyley",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3949,
+			"friends_count": 2615,
+			"listed_count": 272,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@carolinebreyley Wow, quite a blow. The forecast said it snowed here early morning, but no sign when I got up. Everything topsy-turvy now."
+	},
+	{
+		"created_at": "Fri Apr 03 13:00:35 +0000 2020",
+		"id": 1246060025359016000,
+		"id_str": "1246060025359015936",
+		"full_text": "@ds106dc #tdc3004 #ds106 not sure this is a celebration! https://t.co/BjGtDskPCW",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tdc3004",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "ds106",
+					"indices": [
+						18,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1246059989812183000,
+					"id_str": "1246059989812183047",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1246059989812183047/pu/img/q2e38ntaccWbJAL4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1246059989812183047/pu/img/q2e38ntaccWbJAL4.jpg",
+					"url": "https://t.co/BjGtDskPCW",
+					"display_url": "pic.twitter.com/BjGtDskPCW",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1246060025359015936/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 448,
+							"h": 448,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 448,
+							"h": 448,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 448,
+							"h": 448,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246059989812183000,
+					"id_str": "1246059989812183047",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1246059989812183047/pu/img/q2e38ntaccWbJAL4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1246059989812183047/pu/img/q2e38ntaccWbJAL4.jpg",
+					"url": "https://t.co/BjGtDskPCW",
+					"display_url": "pic.twitter.com/BjGtDskPCW",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1246060025359015936/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 448,
+							"h": 448,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 448,
+							"h": 448,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 448,
+							"h": 448,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3072,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1246059989812183047/pu/vid/320x320/V7CK4L5ExLA0asW0.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1246059989812183047/pu/pl/qTwVlUd0JWfhGFIr.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1246059989812183047/pu/vid/448x448/GiHLWHMVSsNz8XmK.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1245939735165534200,
+		"in_reply_to_status_id_str": "1245939735165534210",
+		"in_reply_to_user_id": 995562187,
+		"in_reply_to_user_id_str": "995562187",
+		"in_reply_to_screen_name": "ds106dc",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3949,
+			"friends_count": 2615,
+			"listed_count": 272,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ds106dc #tdc3004 #ds106 not sure this is a celebration! https://t.co/BjGtDskPCW"
+	},
+	{
+		"created_at": "Fri Apr 03 12:17:05 +0000 2020",
+		"id": 1246049078158471200,
+		"id_str": "1246049078158471174",
+		"full_text": "@dgilmour @TheoKL Quote: \"Open education is not a short-term fix to a passing problem—it is a long-term solution to ensuring equitable, inclusive access to effective educational resources and learning opportunities.\" So Good, thanks David. Also, IMO, as much as possible… https://t.co/wcAmvRVEGG",
+		"truncated": false,
+		"display_text_range": [
+			18,
+			295
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dgilmour",
+					"name": "David Gilmour",
+					"id": 8720172,
+					"id_str": "8720172",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "TheoKL",
+					"name": "Theo Kuechel",
+					"id": 1290061,
+					"id_str": "1290061",
+					"indices": [
+						10,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wcAmvRVEGG",
+					"expanded_url": "https://johnjohnston.info/blog/re-education-in-times-of-crisis-and-beyond/",
+					"display_url": "johnjohnston.info/blog/re-educat…",
+					"indices": [
+						272,
+						295
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+		"in_reply_to_status_id": 1246043518784725000,
+		"in_reply_to_status_id_str": "1246043518784724994",
+		"in_reply_to_user_id": 8720172,
+		"in_reply_to_user_id_str": "8720172",
+		"in_reply_to_screen_name": "dgilmour",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3949,
+			"friends_count": 2615,
+			"listed_count": 272,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@dgilmour @TheoKL Quote: \"Open education is not a short-term fix to a passing problem—it is a long-term solution to ensuring equitable, inclusive access to effective educational resources and learning opportunities.\" So Good, thanks David. Also, IMO, as much as possible… https://t.co/wcAmvRVEGG"
+	},
+	{
+		"created_at": "Fri Apr 03 09:13:20 +0000 2020",
+		"id": 1246002838146371600,
+		"id_str": "1246002838146371584",
+		"full_text": "I don't think I've tweeted how much I value and enjoy @Notabilia in my email inbox https://t.co/4iQvNPxrQL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "notabilia",
+					"name": "Notabilia",
+					"id": 824431685076815900,
+					"id_str": "824431685076815872",
+					"indices": [
+						54,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4iQvNPxrQL",
+					"expanded_url": "https://twitter.com/notabilia/status/1245451901962825729",
+					"display_url": "twitter.com/notabilia/stat…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3949,
+			"friends_count": 2615,
+			"listed_count": 272,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1245451901962825700,
+		"quoted_status_id_str": "1245451901962825729",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4iQvNPxrQL",
+			"expanded": "https://twitter.com/notabilia/status/1245451901962825729",
+			"display": "twitter.com/notabilia/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 01 20:44:07 +0000 2020",
+			"id": 1245451901962825700,
+			"id_str": "1245451901962825729",
+			"full_text": "|n|otabilia 738  ⁂ \"Poem\" ⁂ A.R. Ammons || From *Notabilia*, a daily(ish) newsletter → https://t.co/sx3TZ42SCe\n\n⁣⁣⁣#notabilia #quotes #newsletter #literaryquotes #commonplacebook #ARAmmons #poem #NaPoMo #NaPoMo20 https://t.co/zrChSfJfdx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				212
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "notabilia",
+						"indices": [
+							115,
+							125
+						]
+					},
+					{
+						"text": "quotes",
+						"indices": [
+							126,
+							133
+						]
+					},
+					{
+						"text": "newsletter",
+						"indices": [
+							134,
+							145
+						]
+					},
+					{
+						"text": "literaryquotes",
+						"indices": [
+							146,
+							161
+						]
+					},
+					{
+						"text": "commonplacebook",
+						"indices": [
+							162,
+							178
+						]
+					},
+					{
+						"text": "ARAmmons",
+						"indices": [
+							179,
+							188
+						]
+					},
+					{
+						"text": "poem",
+						"indices": [
+							189,
+							194
+						]
+					},
+					{
+						"text": "NaPoMo",
+						"indices": [
+							195,
+							202
+						]
+					},
+					{
+						"text": "NaPoMo20",
+						"indices": [
+							203,
+							212
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/sx3TZ42SCe",
+						"expanded_url": "http://ktxc.to/nbts",
+						"display_url": "ktxc.to/nbts",
+						"indices": [
+							87,
+							110
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1245451814339666000,
+						"id_str": "1245451814339665920",
+						"indices": [
+							213,
+							236
+						],
+						"media_url": "http://pbs.twimg.com/media/EUi705KU4AAmm6j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUi705KU4AAmm6j.jpg",
+						"url": "https://t.co/zrChSfJfdx",
+						"display_url": "pic.twitter.com/zrChSfJfdx",
+						"expanded_url": "https://twitter.com/notabilia/status/1245451901962825729/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 670,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 380,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 670,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1245451814339666000,
+						"id_str": "1245451814339665920",
+						"indices": [
+							213,
+							236
+						],
+						"media_url": "http://pbs.twimg.com/media/EUi705KU4AAmm6j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUi705KU4AAmm6j.jpg",
+						"url": "https://t.co/zrChSfJfdx",
+						"display_url": "pic.twitter.com/zrChSfJfdx",
+						"expanded_url": "https://twitter.com/notabilia/status/1245451901962825729/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 670,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 380,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 670,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 824431685076815900,
+				"id_str": "824431685076815872",
+				"name": "Notabilia",
+				"screen_name": "notabilia",
+				"location": "The World of Words",
+				"description": "A daily(ish) email with a single carefully chosen short poem, flash fiction, interesting list, quotation, or other excerpt. Check out @katexic too! By @fncll.",
+				"url": "https://t.co/q2sfnJSf7x",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/q2sfnJSf7x",
+								"expanded_url": "https://katexic.com/notabilia/",
+								"display_url": "katexic.com/notabilia/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 54,
+				"friends_count": 0,
+				"listed_count": 2,
+				"created_at": "Thu Jan 26 01:40:05 +0000 2017",
+				"favourites_count": 10,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 420,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/824709362870411264/GxJpdoEX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/824709362870411264/GxJpdoEX_normal.jpg",
+				"profile_link_color": "760E0E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I don't think I've tweeted how much I value and enjoy @Notabilia in my email inbox https://t.co/4iQvNPxrQL"
+	},
+	{
+		"created_at": "Fri Apr 03 08:06:34 +0000 2020",
+		"id": 1245986034044801000,
+		"id_str": "1245986034044801027",
+		"full_text": "@kennypieper I think the web pages might be an idea when we don’t know the devices that are being used. No logon problems either.  Depends on what you mean by interactive.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kennypieper",
+					"name": "Kenny Pieper",
+					"id": 174989179,
+					"id_str": "174989179",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1245279376855490600,
+		"in_reply_to_status_id_str": "1245279376855490560",
+		"in_reply_to_user_id": 174989179,
+		"in_reply_to_user_id_str": "174989179",
+		"in_reply_to_screen_name": "kennypieper",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3949,
+			"friends_count": 2615,
+			"listed_count": 272,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kennypieper I think the web pages might be an idea when we don’t know the devices that are being used. No logon problems either.  Depends on what you mean by interactive."
+	},
+	{
 		"created_at": "Thu Apr 02 18:22:30 +0000 2020",
 		"id": 1245778652698218500,
 		"id_str": "1245778652698218497",
