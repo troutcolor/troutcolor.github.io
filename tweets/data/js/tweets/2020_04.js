@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 05 12:53:36 +0000 2020",
+		"id": 1246783042343092200,
+		"id_str": "1246783042343092225",
+		"full_text": "Self challenge on my daily exercise today. ROYGBIV in the park. https://t.co/Uj1UFDje3B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1246783039218356200,
+					"id_str": "1246783039218356226",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EU12kYSXkAIlBjQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU12kYSXkAIlBjQ.jpg",
+					"url": "https://t.co/Uj1UFDje3B",
+					"display_url": "pic.twitter.com/Uj1UFDje3B",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1246783042343092225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246783039218356200,
+					"id_str": "1246783039218356226",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EU12kYSXkAIlBjQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU12kYSXkAIlBjQ.jpg",
+					"url": "https://t.co/Uj1UFDje3B",
+					"display_url": "pic.twitter.com/Uj1UFDje3B",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1246783042343092225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://micro.blog/\" rel=\"nofollow\">Micro.blog</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3950,
+			"friends_count": 2616,
+			"listed_count": 272,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5064,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Self challenge on my daily exercise today. ROYGBIV in the park. https://t.co/Uj1UFDje3B"
+	},
+	{
+		"created_at": "Sun Apr 05 07:54:53 +0000 2020",
+		"id": 1246055518650749000,
+		"id_str": "1246707868264513536",
+		"full_text": "As “our anxiety about future scenarios and inequalities during lockdown excarberates, we may want to use this time to engage in a wider (digital) conversation about the values we want technologies to enact and the kinds of literacies our children may need” https://t.co/xsdncxndIz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xsdncxndIz",
+					"expanded_url": "https://blogs.lse.ac.uk/medialse/2020/04/03/virtual-schooling-covid-gogy-and-digital-fatigue/",
+					"display_url": "blogs.lse.ac.uk/medialse/2020/…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 780934633,
+			"id_str": "780934633",
+			"name": "Sonia Livingstone",
+			"screen_name": "Livingstone_S",
+			"location": "London UK",
+			"description": "LSE prof researching children's rights in the digital age. See blog https://t.co/giwIQFtQHv, and projects & publications at https://t.co/JyTMbNOfF6",
+			"url": "https://t.co/2bfmoQg4rV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2bfmoQg4rV",
+							"expanded_url": "http://www.sonialivingstone.net/",
+							"display_url": "sonialivingstone.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/giwIQFtQHv",
+							"expanded_url": "http://www.parenting.digital",
+							"display_url": "parenting.digital",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/JyTMbNOfF6",
+							"expanded_url": "http://www.sonialivingstone.net",
+							"display_url": "sonialivingstone.net",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18127,
+			"friends_count": 2608,
+			"listed_count": 647,
+			"created_at": "Sat Aug 25 19:27:02 +0000 2012",
+			"favourites_count": 29572,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26256,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085099712473116672/hbGSMM6h_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085099712473116672/hbGSMM6h_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/780934633/1505745963",
+			"profile_link_color": "B51344",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As “our anxiety about future scenarios and inequalities during lockdown excarberates, we may want to use this time to engage in a wider (digital) conversation about the values we want technologies to enact and the kinds of literacies our children may need” https://t.co/xsdncxndIz"
+	},
+	{
 		"created_at": "Sat Apr 04 16:20:34 +0000 2020",
 		"id": 1246472740342825000,
 		"id_str": "1246472740342824962",
@@ -635,7 +944,7 @@ Grailbird.data.tweets_2020_04 =
 				},
 				{
 					"screen_name": "lookwhatjendid",
-					"name": "Jen Mackay 👩🏻‍💻 🌈",
+					"name": "Jen Mackay 👩🏻💻 🌈",
 					"id": 3353779307,
 					"id_str": "3353779307",
 					"indices": [
@@ -1291,7 +1600,7 @@ Grailbird.data.tweets_2020_04 =
 				},
 				{
 					"screen_name": "lookwhatjendid",
-					"name": "Jen Mackay 👩🏻‍💻 🌈",
+					"name": "Jen Mackay 👩🏻💻 🌈",
 					"id": 3353779307,
 					"id_str": "3353779307",
 					"indices": [
@@ -1648,7 +1957,7 @@ Grailbird.data.tweets_2020_04 =
 				},
 				{
 					"screen_name": "lookwhatjendid",
-					"name": "Jen Mackay 👩🏻‍💻 🌈",
+					"name": "Jen Mackay 👩🏻💻 🌈",
 					"id": 3353779307,
 					"id_str": "3353779307",
 					"indices": [
