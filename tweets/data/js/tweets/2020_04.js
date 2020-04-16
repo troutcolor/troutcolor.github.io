@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 15 18:27:46 +0000 2020",
+		"id": 1250491016869744600,
+		"id_str": "1250491016869744642",
+		"full_text": "Today’s Heron https://t.co/BYlu2ADbkP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250491011865993200,
+					"id_str": "1250491011865993217",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/EVqi8y0XYAEeuQ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVqi8y0XYAEeuQ8.jpg",
+					"url": "https://t.co/BYlu2ADbkP",
+					"display_url": "pic.twitter.com/BYlu2ADbkP",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1250491016869744642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250491011865993200,
+					"id_str": "1250491011865993217",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/EVqi8y0XYAEeuQ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVqi8y0XYAEeuQ8.jpg",
+					"url": "https://t.co/BYlu2ADbkP",
+					"display_url": "pic.twitter.com/BYlu2ADbkP",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1250491016869744642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://micro.blog/\" rel=\"nofollow\">Micro.blog</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3950,
+			"friends_count": 2620,
+			"listed_count": 272,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today’s Heron https://t.co/BYlu2ADbkP"
+	},
+	{
+		"created_at": "Wed Apr 15 14:42:48 +0000 2020",
+		"id": 1250434404842799000,
+		"id_str": "1250434404842799111",
+		"full_text": "@Sfm36 Would this help: https://t.co/uS2ju3y97q\nNever tried myself, but have been on the end of  such documents. I recall it not being a particularly pleasant experience (not sure why).",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sfm36",
+					"name": "Sarah Clark",
+					"id": 384551986,
+					"id_str": "384551986",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uS2ju3y97q",
+					"expanded_url": "https://support.clio.com/hc/en-us/articles/203359420-Tutorial-Creating-a-Protected-Fillable-Template-in-Microsoft-Word-for-Use-in-Document-Automation",
+					"display_url": "support.clio.com/hc/en-us/artic…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1250432368562692000,
+		"in_reply_to_status_id_str": "1250432368562692099",
+		"in_reply_to_user_id": 384551986,
+		"in_reply_to_user_id_str": "384551986",
+		"in_reply_to_screen_name": "Sfm36",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3950,
+			"friends_count": 2620,
+			"listed_count": 272,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Sfm36 Would this help: https://t.co/uS2ju3y97q\nNever tried myself, but have been on the end of  such documents. I recall it not being a particularly pleasant experience (not sure why)."
+	},
+	{
 		"created_at": "Tue Apr 14 14:19:15 +0000 2020",
 		"id": 1250066090589335600,
 		"id_str": "1250066090589335554",
