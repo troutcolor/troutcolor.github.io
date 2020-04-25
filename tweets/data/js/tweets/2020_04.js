@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 24 15:45:55 +0000 2020",
+		"id": 1253711177345007600,
+		"id_str": "1253711776962707457",
+		"full_text": "Helpful overview by @lookwhatjendid @SeySusan of Wordpress blog platform available to all #GlowScot users @johnjohnston #DigiLearnScot https://t.co/QCFA5M69LU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GlowScot",
+					"indices": [
+						90,
+						99
+					]
+				},
+				{
+					"text": "DigiLearnScot",
+					"indices": [
+						120,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lookwhatjendid",
+					"name": "Jen Mackay 👩🏻‍💻 🌈",
+					"id": 3353779307,
+					"id_str": "3353779307",
+					"indices": [
+						20,
+						35
+					]
+				},
+				{
+					"screen_name": "SeySusan",
+					"name": "Susan Sey",
+					"id": 2606417403,
+					"id_str": "2606417403",
+					"indices": [
+						36,
+						45
+					]
+				},
+				{
+					"screen_name": "johnjohnston",
+					"name": "john johnston",
+					"id": 7484192,
+					"id_str": "7484192",
+					"indices": [
+						106,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QCFA5M69LU",
+					"expanded_url": "https://twitter.com/DigiLearnScot/status/1253705235488321541",
+					"display_url": "twitter.com/DigiLearnScot/…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54920357,
+			"id_str": "54920357",
+			"name": "📱Malcolm Wilson 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+			"screen_name": "claganach",
+			"location": "Falkirk, Scotland",
+			"description": "Teacher | Falkirk ICT Curriculum Development Officer #DigiLearnScot #GlowScot #MicrosoftEDU #MIEExpert #MIEFellow #AppleTeacher #SkypeMT #BYOD4L #EdTech50",
+			"url": "https://t.co/TZocEyosXR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TZocEyosXR",
+							"expanded_url": "https://blogs.glowscotland.org.uk/fa/ICTFalkirkPrimaries/",
+							"display_url": "blogs.glowscotland.org.uk/fa/ICTFalkirkP…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5001,
+			"friends_count": 3353,
+			"listed_count": 341,
+			"created_at": "Wed Jul 08 15:01:38 +0000 2009",
+			"favourites_count": 7019,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/897611927593123844/zm8fT-7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/897611927593123844/zm8fT-7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54920357/1455117717",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1253705235488321500,
+		"quoted_status_id_str": "1253705235488321541",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QCFA5M69LU",
+			"expanded": "https://twitter.com/DigiLearnScot/status/1253705235488321541",
+			"display": "twitter.com/DigiLearnScot/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 24 15:19:55 +0000 2020",
+			"id": 1253705235488321500,
+			"id_str": "1253705235488321541",
+			"full_text": "Our recent Glow Blogs Webinar with Jenni and Susan which covers everything you need to get up and running with @glowscot blogs is available to watch again on youtube  https://t.co/iQGLCEWJpY via @YouTube",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				203
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GlowScot",
+						"name": "Glow Scot",
+						"id": 2912429973,
+						"id_str": "2912429973",
+						"indices": [
+							111,
+							120
+						]
+					},
+					{
+						"screen_name": "YouTube",
+						"name": "YouTube at 🏠",
+						"id": 10228272,
+						"id_str": "10228272",
+						"indices": [
+							195,
+							203
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/iQGLCEWJpY",
+						"expanded_url": "https://youtu.be/RKix9lHSFRI",
+						"display_url": "youtu.be/RKix9lHSFRI",
+						"indices": [
+							167,
+							190
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2965753499,
+				"id_str": "2965753499",
+				"name": "Digital Learning and Teaching",
+				"screen_name": "DigiLearnScot",
+				"location": "Education Scotland, Scotland",
+				"description": "The official Education Scotland account for Digital Skills and Digital Literacy for schools in Scotland. Join in the conversation by using #DigiLearnScot",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6896,
+				"friends_count": 1965,
+				"listed_count": 71,
+				"created_at": "Wed Jan 07 09:54:58 +0000 2015",
+				"favourites_count": 2793,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2828,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1039133296595267586/xQscBBXJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039133296595267586/xQscBBXJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2965753499/1439923647",
+				"profile_link_color": "7DB1BF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Helpful overview by @lookwhatjendid @SeySusan of Wordpress blog platform available to all #GlowScot users @johnjohnston #DigiLearnScot https://t.co/QCFA5M69LU"
+	},
+	{
 		"created_at": "Thu Apr 23 17:48:19 +0000 2020",
 		"id": 1253380194456555500,
 		"id_str": "1253380194456555523",
