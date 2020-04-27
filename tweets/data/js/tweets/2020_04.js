@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 26 19:46:51 +0000 2020",
+		"id": 1254497187167420400,
+		"id_str": "1254497187167420416",
+		"full_text": "@graemepwallace @NicolaSturgeon @Mr_Minchin @RealGeoffBarton “un-burst my head” love it. Yo might like to through your RSS feed into ScotEduBlogs an aggregation of Scottish Edu blogs. https://t.co/oJ1BmbozLR form on the site or let me know. @ScotEduBlogs",
+		"truncated": false,
+		"display_text_range": [
+			61,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "graemepwallace",
+					"name": "Graeme Wallace",
+					"id": 582110449,
+					"id_str": "582110449",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "NicolaSturgeon",
+					"name": "Nicola Sturgeon",
+					"id": 160952087,
+					"id_str": "160952087",
+					"indices": [
+						16,
+						31
+					]
+				},
+				{
+					"screen_name": "Mr_Minchin",
+					"name": "Blair Minchin",
+					"id": 225064064,
+					"id_str": "225064064",
+					"indices": [
+						32,
+						43
+					]
+				},
+				{
+					"screen_name": "RealGeoffBarton",
+					"name": "Geoff Barton",
+					"id": 27443383,
+					"id_str": "27443383",
+					"indices": [
+						44,
+						60
+					]
+				},
+				{
+					"screen_name": "ScotEduBlogs",
+					"name": "ScotEduBlogs",
+					"id": 8267992,
+					"id_str": "8267992",
+					"indices": [
+						241,
+						254
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oJ1BmbozLR",
+					"expanded_url": "http://scotedublogs.org.uk/",
+					"display_url": "scotedublogs.org.uk",
+					"indices": [
+						184,
+						207
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1253956838384636000,
+		"in_reply_to_status_id_str": "1253956838384635904",
+		"in_reply_to_user_id": 582110449,
+		"in_reply_to_user_id_str": "582110449",
+		"in_reply_to_screen_name": "graemepwallace",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3950,
+			"friends_count": 2624,
+			"listed_count": 271,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "791e00bcadc4615f",
+			"url": "https://api.twitter.com/1.1/geo/id/791e00bcadc4615f.json",
+			"place_type": "city",
+			"name": "Glasgow",
+			"full_name": "Glasgow, Scotland",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-4.3932845,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.9204214
+						],
+						[
+							-4.3932845,
+							55.9204214
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@graemepwallace @NicolaSturgeon @Mr_Minchin @RealGeoffBarton “un-burst my head” love it. Yo might like to through your RSS feed into ScotEduBlogs an aggregation of Scottish Edu blogs. https://t.co/oJ1BmbozLR form on the site or let me know. @ScotEduBlogs"
+	},
+	{
+		"created_at": "Sun Apr 26 19:39:42 +0000 2020",
+		"id": 1254495387605401600,
+		"id_str": "1254495387605401601",
+		"full_text": "@katexic clipping back in my inbox a lovely thing. Recommended https://t.co/LDfcvOKR6N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "katexic",
+					"name": "katexic",
+					"id": 2367437268,
+					"id_str": "2367437268",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LDfcvOKR6N",
+					"expanded_url": "https://tinyletter.com/katexic",
+					"display_url": "tinyletter.com/katexic",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 2367437268,
+		"in_reply_to_user_id_str": "2367437268",
+		"in_reply_to_screen_name": "katexic",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3950,
+			"friends_count": 2624,
+			"listed_count": 271,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "791e00bcadc4615f",
+			"url": "https://api.twitter.com/1.1/geo/id/791e00bcadc4615f.json",
+			"place_type": "city",
+			"name": "Glasgow",
+			"full_name": "Glasgow, Scotland",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-4.3932845,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.9204214
+						],
+						[
+							-4.3932845,
+							55.9204214
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@katexic clipping back in my inbox a lovely thing. Recommended https://t.co/LDfcvOKR6N"
+	},
+	{
 		"created_at": "Sat Apr 25 21:47:24 +0000 2020",
 		"id": 1254165135175880700,
 		"id_str": "1254165135175880704",
@@ -24,7 +384,7 @@ Grailbird.data.tweets_2020_04 =
 			"user_mentions": [
 				{
 					"screen_name": "andrewkbailey13",
-					"name": "Andrew Bailey 👨‍🏫",
+					"name": "Andrew Bailey 👨🏫",
 					"id": 283494396,
 					"id_str": "283494396",
 					"indices": [
@@ -250,7 +610,7 @@ Grailbird.data.tweets_2020_04 =
 			"user_mentions": [
 				{
 					"screen_name": "andrewkbailey13",
-					"name": "Andrew Bailey 👨‍🏫",
+					"name": "Andrew Bailey 👨🏫",
 					"id": 283494396,
 					"id_str": "283494396",
 					"indices": [
@@ -409,7 +769,7 @@ Grailbird.data.tweets_2020_04 =
 			"user_mentions": [
 				{
 					"screen_name": "andrewkbailey13",
-					"name": "Andrew Bailey 👨‍🏫",
+					"name": "Andrew Bailey 👨🏫",
 					"id": 283494396,
 					"id_str": "283494396",
 					"indices": [
@@ -568,7 +928,7 @@ Grailbird.data.tweets_2020_04 =
 			"user_mentions": [
 				{
 					"screen_name": "andrewkbailey13",
-					"name": "Andrew Bailey 👨‍🏫",
+					"name": "Andrew Bailey 👨🏫",
 					"id": 283494396,
 					"id_str": "283494396",
 					"indices": [
