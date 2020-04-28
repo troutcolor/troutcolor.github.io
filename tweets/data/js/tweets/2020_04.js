@@ -1,6 +1,173 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 27 21:04:47 +0000 2020",
+		"id": 1254495079710032000,
+		"id_str": "1254879189246885888",
+		"full_text": "New blog post #MicrosoftForms and feedback.  Teacher and pupil perspectives in @MicrosoftTeams on giving and viewing feedback.  \n\nhttps://t.co/9KOIE71VDX\n\n#MIEExpert #GlowScot #DigiLearnScot #TeamMIEEScotland #MicrosoftEDU #distancelearning",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftForms",
+					"indices": [
+						14,
+						29
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						155,
+						165
+					]
+				},
+				{
+					"text": "GlowScot",
+					"indices": [
+						166,
+						175
+					]
+				},
+				{
+					"text": "DigiLearnScot",
+					"indices": [
+						176,
+						190
+					]
+				},
+				{
+					"text": "TeamMIEEScotland",
+					"indices": [
+						191,
+						208
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						209,
+						222
+					]
+				},
+				{
+					"text": "distancelearning",
+					"indices": [
+						223,
+						240
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftTeams",
+					"name": "Microsoft Teams",
+					"id": 817461289081409500,
+					"id_str": "817461289081409536",
+					"indices": [
+						79,
+						94
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9KOIE71VDX",
+					"expanded_url": "https://blogs.glowscotland.org.uk/an/digitallearningprototype/2020/04/26/microsoft-forms-and-feedback/",
+					"display_url": "blogs.glowscotland.org.uk/an/digitallear…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 283494396,
+			"id_str": "283494396",
+			"name": "Andrew Bailey 👨‍🏫",
+			"screen_name": "andrewkbailey13",
+			"location": "Monifieth",
+			"description": "Husband, Dad, Physics Teacher #MIEExpert, #CognitiveScience Dundee Utd, Cricket. Views own. IoP Schools based physics coach.",
+			"url": "https://t.co/9Dr0lxIbSg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9Dr0lxIbSg",
+							"expanded_url": "https://blogs.glowscotland.org.uk/an/digitallearningprototype/",
+							"display_url": "blogs.glowscotland.org.uk/an/digitallear…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1852,
+			"friends_count": 1301,
+			"listed_count": 91,
+			"created_at": "Sun Apr 17 11:53:40 +0000 2011",
+			"favourites_count": 14643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182115007506583553/KgBwgR-D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182115007506583553/KgBwgR-D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/283494396/1424619647",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 28,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New blog post #MicrosoftForms and feedback.  Teacher and pupil perspectives in @MicrosoftTeams on giving and viewing feedback.  \n\nhttps://t.co/9KOIE71VDX\n\n#MIEExpert #GlowScot #DigiLearnScot #TeamMIEEScotland #MicrosoftEDU #distancelearning"
+	},
+	{
 		"created_at": "Sun Apr 26 19:46:51 +0000 2020",
 		"id": 1254497187167420400,
 		"id_str": "1254497187167420416",
