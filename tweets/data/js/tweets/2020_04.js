@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 30 19:20:00 +0000 2020",
+		"id": 1255361200260513800,
+		"id_str": "1255939982583267328",
+		"full_text": "#tds1765 Just a smile https://t.co/1xeCj3hln1 https://t.co/tkOypAV9Fg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tds1765",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1xeCj3hln1",
+					"expanded_url": "https://daily.stillweb.org/tds1765/",
+					"display_url": "daily.stillweb.org/tds1765/",
+					"indices": [
+						22,
+						45
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1255361198633222100,
+					"id_str": "1255361198633222145",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EWvwW-VXgAEl37C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWvwW-VXgAEl37C.jpg",
+					"url": "https://t.co/tkOypAV9Fg",
+					"display_url": "pic.twitter.com/tkOypAV9Fg",
+					"expanded_url": "https://twitter.com/livedtime/status/1255361200260513792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 496,
+							"h": 499,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 496,
+							"h": 499,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 496,
+							"h": 499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255361198633222100,
+					"id_str": "1255361198633222145",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EWvwW-VXgAEl37C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWvwW-VXgAEl37C.jpg",
+					"url": "https://t.co/tkOypAV9Fg",
+					"display_url": "pic.twitter.com/tkOypAV9Fg",
+					"expanded_url": "https://twitter.com/livedtime/status/1255361200260513792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 496,
+							"h": 499,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 496,
+							"h": 499,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 496,
+							"h": 499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1596507146,
+			"id_str": "1596507146",
+			"name": "The Daily Stillness",
+			"screen_name": "livedtime",
+			"location": "Online Worldwide",
+			"description": "Daily small exercises to help you find stillness in life - digital and otherwise",
+			"url": "http://t.co/k15kQrAztW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k15kQrAztW",
+							"expanded_url": "http://daily.stillweb.org",
+							"display_url": "daily.stillweb.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 94,
+			"friends_count": 92,
+			"listed_count": 1,
+			"created_at": "Mon Jul 15 18:49:36 +0000 2013",
+			"favourites_count": 147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2007,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/606493612537290752/7HB__Zp__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/606493612537290752/7HB__Zp__normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1596507146/1433434359",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#tds1765 Just a smile https://t.co/1xeCj3hln1 https://t.co/tkOypAV9Fg"
+	},
+	{
+		"created_at": "Thu Apr 30 17:03:08 +0000 2020",
+		"id": 1255905536425500700,
+		"id_str": "1255905536425500672",
+		"full_text": "All misty wet with rain…\nThe Blossom is going now, leaves coming through. https://t.co/39qUQbRgHg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1255905529458839600,
+					"id_str": "1255905529458839555",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EW3fbMrX0AMDNv4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW3fbMrX0AMDNv4.jpg",
+					"url": "https://t.co/39qUQbRgHg",
+					"display_url": "pic.twitter.com/39qUQbRgHg",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1255905536425500672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255905529458839600,
+					"id_str": "1255905529458839555",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EW3fbMrX0AMDNv4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW3fbMrX0AMDNv4.jpg",
+					"url": "https://t.co/39qUQbRgHg",
+					"display_url": "pic.twitter.com/39qUQbRgHg",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1255905536425500672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://micro.blog/\" rel=\"nofollow\">Micro.blog</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3953,
+			"friends_count": 2625,
+			"listed_count": 271,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5164,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All misty wet with rain…\nThe Blossom is going now, leaves coming through. https://t.co/39qUQbRgHg"
+	},
+	{
 		"created_at": "Wed Apr 29 20:10:00 +0000 2020",
 		"id": 1255590177851965400,
 		"id_str": "1255590177851965441",
@@ -140,7 +516,7 @@ Grailbird.data.tweets_2020_04 =
 			"user_mentions": [
 				{
 					"screen_name": "andrewkbailey13",
-					"name": "Andrew Bailey 👨‍🏫",
+					"name": "Andrew Bailey 👨🏫",
 					"id": 283494396,
 					"id_str": "283494396",
 					"indices": [
@@ -256,7 +632,7 @@ Grailbird.data.tweets_2020_04 =
 			"user_mentions": [
 				{
 					"screen_name": "andrewkbailey13",
-					"name": "Andrew Bailey 👨‍🏫",
+					"name": "Andrew Bailey 👨🏫",
 					"id": 283494396,
 					"id_str": "283494396",
 					"indices": [
@@ -380,7 +756,7 @@ Grailbird.data.tweets_2020_04 =
 			"user_mentions": [
 				{
 					"screen_name": "andrewkbailey13",
-					"name": "Andrew Bailey 👨‍🏫",
+					"name": "Andrew Bailey 👨🏫",
 					"id": 283494396,
 					"id_str": "283494396",
 					"indices": [
