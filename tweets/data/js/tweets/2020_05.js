@@ -1,6 +1,401 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 03 19:42:48 +0000 2020",
+		"id": 1257032883023339500,
+		"id_str": "1257032883023339520",
+		"full_text": "For example, I just borrowed from @littlelessons20\n &amp; @MrMcMahonTPS for my weekly home learning post:\n\nhttps://t.co/SpdaEp2pRE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "littlelessons20",
+					"name": "LittleLessons",
+					"id": 1108055759919767600,
+					"id_str": "1108055759919767552",
+					"indices": [
+						34,
+						50
+					]
+				},
+				{
+					"screen_name": "MrMcMahonTPS",
+					"name": "Mr. McMahon",
+					"id": 4128066376,
+					"id_str": "4128066376",
+					"indices": [
+						58,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SpdaEp2pRE",
+					"expanded_url": "https://blogs.glowscotland.org.uk/nl/bantonbiggies/2020/05/03/home-learning-4-may-2020/",
+					"display_url": "blogs.glowscotland.org.uk/nl/bantonbiggi…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1257032359309951000,
+		"in_reply_to_status_id_str": "1257032359309950977",
+		"in_reply_to_user_id": 7484192,
+		"in_reply_to_user_id_str": "7484192",
+		"in_reply_to_screen_name": "johnjohnston",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3953,
+			"friends_count": 2629,
+			"listed_count": 271,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For example, I just borrowed from @littlelessons20\n &amp; @MrMcMahonTPS for my weekly home learning post:\n\nhttps://t.co/SpdaEp2pRE"
+	},
+	{
+		"created_at": "Sun May 03 19:40:43 +0000 2020",
+		"id": 1257032359309951000,
+		"id_str": "1257032359309950977",
+		"full_text": "#GlowBlogs quick tip, embed a twitter tweet in any post or page. Just paste in the link to the tweet. Given the amazing resources being posted by teachers, this gives you a way to share with your home learners. #GlowScot @GlowScot\n\nhttps://t.co/cMl10EBFZz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GlowBlogs",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "GlowScot",
+					"indices": [
+						211,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GlowScot",
+					"name": "Glow Scot",
+					"id": 2912429973,
+					"id_str": "2912429973",
+					"indices": [
+						221,
+						230
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cMl10EBFZz",
+					"expanded_url": "https://blogs.glowscotland.org.uk/glowblogs/glowbloghelp/portfolio/embed-tweets/",
+					"display_url": "blogs.glowscotland.org.uk/glowblogs/glow…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3953,
+			"friends_count": 2629,
+			"listed_count": 271,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#GlowBlogs quick tip, embed a twitter tweet in any post or page. Just paste in the link to the tweet. Given the amazing resources being posted by teachers, this gives you a way to share with your home learners. #GlowScot @GlowScot\n\nhttps://t.co/cMl10EBFZz"
+	},
+	{
+		"created_at": "Sun May 03 10:23:34 +0000 2020",
+		"id": 1256892145501458400,
+		"id_str": "1256892145501458434",
+		"full_text": "@Mr_Minchin Spot on, I remember a friend of a friend, from Hong Kong, visiting my wife in our then 1 bedroom flat. On seeing our living room, Partick  tenement, she told us they could be 4 HK flats in the  room!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mr_Minchin",
+					"name": "Blair Minchin",
+					"id": 225064064,
+					"id_str": "225064064",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1256848633590399000,
+		"in_reply_to_status_id_str": "1256848633590398976",
+		"in_reply_to_user_id": 225064064,
+		"in_reply_to_user_id_str": "225064064",
+		"in_reply_to_screen_name": "Mr_Minchin",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3953,
+			"friends_count": 2629,
+			"listed_count": 271,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Mr_Minchin Spot on, I remember a friend of a friend, from Hong Kong, visiting my wife in our then 1 bedroom flat. On seeing our living room, Partick  tenement, she told us they could be 4 HK flats in the  room!"
+	},
+	{
 		"created_at": "Sat May 02 13:25:40 +0000 2020",
 		"id": 1256575584790085600,
 		"id_str": "1256575584790085632",
@@ -34,7 +429,7 @@ Grailbird.data.tweets_2020_05 =
 				},
 				{
 					"screen_name": "andrewkbailey13",
-					"name": "Andrew Bailey 👨‍🏫",
+					"name": "Andrew Bailey 👨🏫",
 					"id": 283494396,
 					"id_str": "283494396",
 					"indices": [
@@ -193,7 +588,7 @@ Grailbird.data.tweets_2020_05 =
 			"user_mentions": [
 				{
 					"screen_name": "andrewkbailey13",
-					"name": "Andrew Bailey 👨‍🏫",
+					"name": "Andrew Bailey 👨🏫",
 					"id": 283494396,
 					"id_str": "283494396",
 					"indices": [
@@ -349,7 +744,7 @@ Grailbird.data.tweets_2020_05 =
 				},
 				{
 					"screen_name": "andrewkbailey13",
-					"name": "Andrew Bailey 👨‍🏫",
+					"name": "Andrew Bailey 👨🏫",
 					"id": 283494396,
 					"id_str": "283494396",
 					"indices": [
