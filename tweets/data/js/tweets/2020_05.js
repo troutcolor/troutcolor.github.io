@@ -1,6 +1,1142 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 18 21:35:48 +0000 2020",
+		"id": 1262497139210489900,
+		"id_str": "1262497139210489859",
+		"full_text": "@IanStuart66 @MrsTEHS @andrewkbailey13 @athole So on desktop is Teams basics a web front end sort of like electron?",
+		"truncated": false,
+		"display_text_range": [
+			47,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IanStuart66",
+					"name": "Ian Stuart",
+					"id": 2228692152,
+					"id_str": "2228692152",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "MrsTEHS",
+					"name": "MRST",
+					"id": 916218873602551800,
+					"id_str": "916218873602551809",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"screen_name": "andrewkbailey13",
+					"name": "Andrew Bailey 👨‍🏫",
+					"id": 283494396,
+					"id_str": "283494396",
+					"indices": [
+						22,
+						38
+					]
+				},
+				{
+					"screen_name": "athole",
+					"name": "Athole",
+					"id": 34001499,
+					"id_str": "34001499",
+					"indices": [
+						39,
+						46
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1262496273183236000,
+		"in_reply_to_status_id_str": "1262496273183236096",
+		"in_reply_to_user_id": 2228692152,
+		"in_reply_to_user_id_str": "2228692152",
+		"in_reply_to_screen_name": "IanStuart66",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3952,
+			"friends_count": 2630,
+			"listed_count": 271,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5312,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "791e00bcadc4615f",
+			"url": "https://api.twitter.com/1.1/geo/id/791e00bcadc4615f.json",
+			"place_type": "city",
+			"name": "Glasgow",
+			"full_name": "Glasgow, Scotland",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-4.3932845,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.9204214
+						],
+						[
+							-4.3932845,
+							55.9204214
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@IanStuart66 @MrsTEHS @andrewkbailey13 @athole So on desktop is Teams basics a web front end sort of like electron?"
+	},
+	{
+		"created_at": "Mon May 18 21:27:44 +0000 2020",
+		"id": 1262495108492144600,
+		"id_str": "1262495108492144641",
+		"full_text": "@IanStuart66 @MrsTEHS @andrewkbailey13 @athole I don’t see available update on iPad. But I feel teams may get mew features without update app? Or my kids are confused. Hands did go up.",
+		"truncated": false,
+		"display_text_range": [
+			47,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IanStuart66",
+					"name": "Ian Stuart",
+					"id": 2228692152,
+					"id_str": "2228692152",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "MrsTEHS",
+					"name": "MRST",
+					"id": 916218873602551800,
+					"id_str": "916218873602551809",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"screen_name": "andrewkbailey13",
+					"name": "Andrew Bailey 👨‍🏫",
+					"id": 283494396,
+					"id_str": "283494396",
+					"indices": [
+						22,
+						38
+					]
+				},
+				{
+					"screen_name": "athole",
+					"name": "Athole",
+					"id": 34001499,
+					"id_str": "34001499",
+					"indices": [
+						39,
+						46
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1262494502826184700,
+		"in_reply_to_status_id_str": "1262494502826184706",
+		"in_reply_to_user_id": 2228692152,
+		"in_reply_to_user_id_str": "2228692152",
+		"in_reply_to_screen_name": "IanStuart66",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3952,
+			"friends_count": 2630,
+			"listed_count": 271,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5312,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@IanStuart66 @MrsTEHS @andrewkbailey13 @athole I don’t see available update on iPad. But I feel teams may get mew features without update app? Or my kids are confused. Hands did go up."
+	},
+	{
+		"created_at": "Mon May 18 21:23:32 +0000 2020",
+		"id": 1262494052861255700,
+		"id_str": "1262494052861255680",
+		"full_text": "@MrsTEHS @IanStuart66 @andrewkbailey13 @athole The future has arrived but is not evenly distributed;-) I see on Mac but don’t see on my iPad but pupils could put up hands on iPads.",
+		"truncated": false,
+		"display_text_range": [
+			47,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrsTEHS",
+					"name": "MRST",
+					"id": 916218873602551800,
+					"id_str": "916218873602551809",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "IanStuart66",
+					"name": "Ian Stuart",
+					"id": 2228692152,
+					"id_str": "2228692152",
+					"indices": [
+						9,
+						21
+					]
+				},
+				{
+					"screen_name": "andrewkbailey13",
+					"name": "Andrew Bailey 👨‍🏫",
+					"id": 283494396,
+					"id_str": "283494396",
+					"indices": [
+						22,
+						38
+					]
+				},
+				{
+					"screen_name": "athole",
+					"name": "Athole",
+					"id": 34001499,
+					"id_str": "34001499",
+					"indices": [
+						39,
+						46
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1262484586942148600,
+		"in_reply_to_status_id_str": "1262484586942148608",
+		"in_reply_to_user_id": 916218873602551800,
+		"in_reply_to_user_id_str": "916218873602551809",
+		"in_reply_to_screen_name": "MrsTEHS",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3952,
+			"friends_count": 2630,
+			"listed_count": 271,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5312,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MrsTEHS @IanStuart66 @andrewkbailey13 @athole The future has arrived but is not evenly distributed;-) I see on Mac but don’t see on my iPad but pupils could put up hands on iPads."
+	},
+	{
+		"created_at": "Mon May 18 20:41:56 +0000 2020",
+		"id": 1262483584071409700,
+		"id_str": "1262483584071409665",
+		"full_text": "@andrewkbailey13 hands up arrived in #MicrosoftTeams for my class today. On more than one platform win, mac, iOS. Not all kids yet but looks good. Also got  mixing audio with my mic. \nhttps://t.co/VHqcGBuozZ\n\nCc @athole @IanStuart66",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						37,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "andrewkbailey13",
+					"name": "Andrew Bailey 👨‍🏫",
+					"id": 283494396,
+					"id_str": "283494396",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "athole",
+					"name": "Athole",
+					"id": 34001499,
+					"id_str": "34001499",
+					"indices": [
+						212,
+						219
+					]
+				},
+				{
+					"screen_name": "IanStuart66",
+					"name": "Ian Stuart",
+					"id": 2228692152,
+					"id_str": "2228692152",
+					"indices": [
+						220,
+						232
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VHqcGBuozZ",
+					"expanded_url": "https://johnjohnston.info/blog/lockdown-learning-18-may-2020-virtual-devices/",
+					"display_url": "johnjohnston.info/blog/lockdown-…",
+					"indices": [
+						184,
+						207
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 283494396,
+		"in_reply_to_user_id_str": "283494396",
+		"in_reply_to_screen_name": "andrewkbailey13",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3952,
+			"friends_count": 2630,
+			"listed_count": 271,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5312,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "791e00bcadc4615f",
+			"url": "https://api.twitter.com/1.1/geo/id/791e00bcadc4615f.json",
+			"place_type": "city",
+			"name": "Glasgow",
+			"full_name": "Glasgow, Scotland",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-4.3932845,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.9204214
+						],
+						[
+							-4.3932845,
+							55.9204214
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@andrewkbailey13 hands up arrived in #MicrosoftTeams for my class today. On more than one platform win, mac, iOS. Not all kids yet but looks good. Also got  mixing audio with my mic. \nhttps://t.co/VHqcGBuozZ\n\nCc @athole @IanStuart66"
+	},
+	{
+		"created_at": "Mon May 18 18:08:29 +0000 2020",
+		"id": 1262444966678233000,
+		"id_str": "1262444966678233088",
+		"full_text": "@jimgroom @mbransons Oh oh did somebody mention a GIF fight https://t.co/PsUgeKtaDL #ds106",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ds106",
+					"indices": [
+						84,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "mbransons",
+					"name": "Michael B Smith",
+					"id": 259908125,
+					"id_str": "259908125",
+					"indices": [
+						10,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PsUgeKtaDL",
+					"expanded_url": "https://giffight.tumblr.com",
+					"display_url": "giffight.tumblr.com",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1262410569677705200,
+		"in_reply_to_status_id_str": "1262410569677705216",
+		"in_reply_to_user_id": 3362981,
+		"in_reply_to_user_id_str": "3362981",
+		"in_reply_to_screen_name": "jimgroom",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3952,
+			"friends_count": 2630,
+			"listed_count": 271,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5312,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "791e00bcadc4615f",
+			"url": "https://api.twitter.com/1.1/geo/id/791e00bcadc4615f.json",
+			"place_type": "city",
+			"name": "Glasgow",
+			"full_name": "Glasgow, Scotland",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-4.3932845,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.9204214
+						],
+						[
+							-4.3932845,
+							55.9204214
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@jimgroom @mbransons Oh oh did somebody mention a GIF fight https://t.co/PsUgeKtaDL #ds106"
+	},
+	{
+		"created_at": "Mon May 18 16:55:03 +0000 2020",
+		"id": 1262426484293107700,
+		"id_str": "1262426484293107719",
+		"full_text": "Lockdown Learning 18 May 2020 – virtual devices: https://t.co/VHqcGBuozZ https://t.co/YJ8nA2zxc1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VHqcGBuozZ",
+					"expanded_url": "https://johnjohnston.info/blog/lockdown-learning-18-may-2020-virtual-devices/",
+					"display_url": "johnjohnston.info/blog/lockdown-…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1262426481231265800,
+					"id_str": "1262426481231265799",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EYUKMjDWAAco8bZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EYUKMjDWAAco8bZ.png",
+					"url": "https://t.co/YJ8nA2zxc1",
+					"display_url": "pic.twitter.com/YJ8nA2zxc1",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1262426484293107719/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 668,
+							"h": 373,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 668,
+							"h": 373,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 668,
+							"h": 373,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1262426481231265800,
+					"id_str": "1262426481231265799",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EYUKMjDWAAco8bZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EYUKMjDWAAco8bZ.png",
+					"url": "https://t.co/YJ8nA2zxc1",
+					"display_url": "pic.twitter.com/YJ8nA2zxc1",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1262426484293107719/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 668,
+							"h": 373,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 668,
+							"h": 373,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 668,
+							"h": 373,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3952,
+			"friends_count": 2630,
+			"listed_count": 271,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5312,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lockdown Learning 18 May 2020 – virtual devices: https://t.co/VHqcGBuozZ https://t.co/YJ8nA2zxc1"
+	},
+	{
+		"created_at": "Mon May 18 11:55:45 +0000 2020",
+		"id": 1262351161958576000,
+		"id_str": "1262351161958576128",
+		"full_text": "this morning’s hawthorn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://micro.blog/\" rel=\"nofollow\">Micro.blog</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3952,
+			"friends_count": 2630,
+			"listed_count": 271,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5312,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "this morning’s hawthorn"
+	},
+	{
 		"created_at": "Sun May 17 21:14:41 +0000 2020",
 		"id": 1262129436259954700,
 		"id_str": "1262129436259954688",
