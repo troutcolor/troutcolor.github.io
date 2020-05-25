@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 24 16:42:53 +0000 2020",
+		"id": 1264597749493829600,
+		"id_str": "1264597749493829632",
+		"full_text": "Responsibility &amp;  integrity Redefined.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3950,
+			"friends_count": 2632,
+			"listed_count": 271,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Responsibility &amp;  integrity Redefined."
+	},
+	{
+		"created_at": "Sun May 24 16:16:41 +0000 2020",
+		"id": 1264590734730113000,
+		"id_str": "1264591157964804098",
+		"full_text": "There is now a #TeamMIEEScotland #mieexpert blog.  \n\nI have written a post on their about how I am using Microsoft Teams.  \n\nhttps://t.co/PimI3uQbch\n\n#digilearnscot #GlowScot #MicrosoftTeams",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TeamMIEEScotland",
+					"indices": [
+						15,
+						32
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						33,
+						43
+					]
+				},
+				{
+					"text": "digilearnscot",
+					"indices": [
+						150,
+						164
+					]
+				},
+				{
+					"text": "GlowScot",
+					"indices": [
+						165,
+						174
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						175,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PimI3uQbch",
+					"expanded_url": "https://blogs.glowscotland.org.uk/glowblogs/miescot/how-i-am-using-microsoft-teams-for-physics/",
+					"display_url": "blogs.glowscotland.org.uk/glowblogs/mies…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 283494396,
+			"id_str": "283494396",
+			"name": "Andrew Bailey 👨‍🏫",
+			"screen_name": "andrewkbailey13",
+			"location": "Monifieth",
+			"description": "Husband, Dad, Physics Teacher #MIEExpert, #CognitiveScience Dundee Utd, Cricket. Views own. IoP Schools based physics coach.",
+			"url": "https://t.co/9Dr0lxIbSg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9Dr0lxIbSg",
+							"expanded_url": "https://blogs.glowscotland.org.uk/an/digitallearningprototype/",
+							"display_url": "blogs.glowscotland.org.uk/an/digitallear…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1964,
+			"friends_count": 1336,
+			"listed_count": 90,
+			"created_at": "Sun Apr 17 11:53:40 +0000 2011",
+			"favourites_count": 15598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1258737574782402560/scEJe_yK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1258737574782402560/scEJe_yK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/283494396/1424619647",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There is now a #TeamMIEEScotland #mieexpert blog.  \n\nI have written a post on their about how I am using Microsoft Teams.  \n\nhttps://t.co/PimI3uQbch\n\n#digilearnscot #GlowScot #MicrosoftTeams"
+	},
+	{
 		"created_at": "Sat May 23 11:31:14 +0000 2020",
 		"id": 1264156933348634600,
 		"id_str": "1264156933348634626",
