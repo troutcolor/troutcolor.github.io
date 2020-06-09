@@ -1,6 +1,1000 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 08 21:06:33 +0000 2020",
+		"id": 1270099922696765400,
+		"id_str": "1270099922696765443",
+		"full_text": "Simpler Meet: https://t.co/wAmHWzMvW7 https://t.co/q5TlGyuDFt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wAmHWzMvW7",
+					"expanded_url": "https://johnjohnston.info/blog/simpler-meet/",
+					"display_url": "johnjohnston.info/blog/simpler-m…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270099919785820200,
+					"id_str": "1270099919785820163",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/EaBNJdQWAAMUoNC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaBNJdQWAAMUoNC.jpg",
+					"url": "https://t.co/q5TlGyuDFt",
+					"display_url": "pic.twitter.com/q5TlGyuDFt",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1270099922696765443/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 668,
+							"h": 445,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 668,
+							"h": 445,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 668,
+							"h": 445,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270099919785820200,
+					"id_str": "1270099919785820163",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/EaBNJdQWAAMUoNC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaBNJdQWAAMUoNC.jpg",
+					"url": "https://t.co/q5TlGyuDFt",
+					"display_url": "pic.twitter.com/q5TlGyuDFt",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1270099922696765443/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 668,
+							"h": 445,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 668,
+							"h": 445,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 668,
+							"h": 445,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3945,
+			"friends_count": 2636,
+			"listed_count": 271,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Simpler Meet: https://t.co/wAmHWzMvW7 https://t.co/q5TlGyuDFt"
+	},
+	{
+		"created_at": "Mon Jun 08 20:13:22 +0000 2020",
+		"id": 1270086536458092500,
+		"id_str": "1270086536458092545",
+		"full_text": "@threadreaderapp unroll https://t.co/bPkDoXGOlJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "threadreaderapp",
+					"name": "Thread Reader App",
+					"id": 895814938995957800,
+					"id_str": "895814938995957760",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bPkDoXGOlJ",
+					"expanded_url": "https://twitter.com/mslegalsass/status/1269907757924147200",
+					"display_url": "twitter.com/mslegalsass/st…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 895814938995957800,
+		"in_reply_to_user_id_str": "895814938995957760",
+		"in_reply_to_screen_name": "threadreaderapp",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3945,
+			"friends_count": 2636,
+			"listed_count": 271,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "791e00bcadc4615f",
+			"url": "https://api.twitter.com/1.1/geo/id/791e00bcadc4615f.json",
+			"place_type": "city",
+			"name": "Glasgow",
+			"full_name": "Glasgow, Scotland",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-4.3932845,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.9204214
+						],
+						[
+							-4.3932845,
+							55.9204214
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1269907757924147200,
+		"quoted_status_id_str": "1269907757924147200",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bPkDoXGOlJ",
+			"expanded": "https://twitter.com/mslegalsass/status/1269907757924147200",
+			"display": "twitter.com/mslegalsass/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 08 08:22:57 +0000 2020",
+			"id": 1269907757924147200,
+			"id_str": "1269907757924147200",
+			"full_text": "That, scandalously, was what the taxpayer was paying for until 2015. “In 1833, the British government used £20m, 40% of its national budget, to buy freedom for all slaves in the empire. The amount of money borrowed for the Slavery Abolition Act was so large that it",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1269907755562721300,
+			"in_reply_to_status_id_str": "1269907755562721280",
+			"in_reply_to_user_id": 28794486,
+			"in_reply_to_user_id_str": "28794486",
+			"in_reply_to_screen_name": "MsLegalSass",
+			"user": {
+				"id": 28794486,
+				"id_str": "28794486",
+				"name": "🦠💊AnnaMarie #covid19 is not the flu💊🦠",
+				"screen_name": "MsLegalSass",
+				"location": "United Kingdom",
+				"description": "•Policy making •Security • Law • Politics • Aviation • Arsenal • Medicine• #HumanRights #BTSARMY #ClimateChange #Immigration",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3193,
+				"friends_count": 4961,
+				"listed_count": 7,
+				"created_at": "Sat Apr 04 13:43:43 +0000 2009",
+				"favourites_count": 102397,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 21707,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1155756289131048961/2VagkScv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1155756289131048961/2VagkScv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28794486/1571289073",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "05103B",
+				"profile_sidebar_fill_color": "4F1210",
+				"profile_text_color": "7F178F",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 125,
+			"favorite_count": 656,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@threadreaderapp unroll https://t.co/bPkDoXGOlJ"
+	},
+	{
+		"created_at": "Mon Jun 08 19:30:10 +0000 2020",
+		"id": 1270075666898313200,
+		"id_str": "1270075666898313217",
+		"full_text": "@drewburrett @helpmyphysics @andrewkbailey13 I don’t know moodle but @dajbelshaw is PM for @moodlenet and I am sure will know who could give noodle advice",
+		"truncated": false,
+		"display_text_range": [
+			45,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drewburrett",
+					"name": "Drew Burrett",
+					"id": 23138592,
+					"id_str": "23138592",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "helpmyphysics",
+					"name": "helpmyphysics",
+					"id": 15506946,
+					"id_str": "15506946",
+					"indices": [
+						13,
+						27
+					]
+				},
+				{
+					"screen_name": "andrewkbailey13",
+					"name": "Andrew Bailey 👨‍🏫",
+					"id": 283494396,
+					"id_str": "283494396",
+					"indices": [
+						28,
+						44
+					]
+				},
+				{
+					"screen_name": "dajbelshaw",
+					"name": "˗ˏˋ Doug Belshaw ˎˊ˗ 🇪🇺☠️✊",
+					"id": 764365,
+					"id_str": "764365",
+					"indices": [
+						69,
+						80
+					]
+				},
+				{
+					"screen_name": "moodlenet",
+					"name": "MoodleNet",
+					"id": 1298048270,
+					"id_str": "1298048270",
+					"indices": [
+						91,
+						101
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1270074194664067000,
+		"in_reply_to_status_id_str": "1270074194664067073",
+		"in_reply_to_user_id": 23138592,
+		"in_reply_to_user_id_str": "23138592",
+		"in_reply_to_screen_name": "drewburrett",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3945,
+			"friends_count": 2636,
+			"listed_count": 271,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "791e00bcadc4615f",
+			"url": "https://api.twitter.com/1.1/geo/id/791e00bcadc4615f.json",
+			"place_type": "city",
+			"name": "Glasgow",
+			"full_name": "Glasgow, Scotland",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-4.3932845,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.9204214
+						],
+						[
+							-4.3932845,
+							55.9204214
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@drewburrett @helpmyphysics @andrewkbailey13 I don’t know moodle but @dajbelshaw is PM for @moodlenet and I am sure will know who could give noodle advice"
+	},
+	{
+		"created_at": "Mon Jun 08 16:39:57 +0000 2020",
+		"id": 1270032832379961300,
+		"id_str": "1270032832379961344",
+		"full_text": "Great example by @claganach  of the Draw Attention plug in #GlowBlogs to create  an \"interactive virtual classroom\" without leaving your blog!\nhttps://t.co/BUzaHQpc0t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GlowBlogs",
+					"indices": [
+						59,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "claganach",
+					"name": "📱Malcolm Wilson 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+					"id": 54920357,
+					"id_str": "54920357",
+					"indices": [
+						17,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BUzaHQpc0t",
+					"expanded_url": "https://blogs.glowscotland.org.uk/fa/ICTFalkirkPrimaries/build-an-interactive-virtual-classroom-in-microsoft-teams/",
+					"display_url": "blogs.glowscotland.org.uk/fa/ICTFalkirkP…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3945,
+			"friends_count": 2636,
+			"listed_count": 271,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great example by @claganach  of the Draw Attention plug in #GlowBlogs to create  an \"interactive virtual classroom\" without leaving your blog!\nhttps://t.co/BUzaHQpc0t"
+	},
+	{
+		"created_at": "Mon Jun 08 16:24:07 +0000 2020",
+		"id": 1270028846033768400,
+		"id_str": "1270028846033768448",
+		"full_text": "It would be great to get entires from everywhere. On the blog post not twitter please. https://t.co/3mlr7zy5V9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3mlr7zy5V9",
+					"expanded_url": "https://twitter.com/Banton_Pr/status/1270026044553285635",
+					"display_url": "twitter.com/Banton_Pr/stat…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3945,
+			"friends_count": 2636,
+			"listed_count": 271,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1270026044553285600,
+		"quoted_status_id_str": "1270026044553285635",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3mlr7zy5V9",
+			"expanded": "https://twitter.com/Banton_Pr/status/1270026044553285635",
+			"display": "twitter.com/Banton_Pr/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 08 16:12:59 +0000 2020",
+			"id": 1270026044553285600,
+			"id_str": "1270026044553285635",
+			"full_text": "New Emoji Quiz, everyone welcome. Answers on the blog comment not Twitter please.  Every day this week!\n\nhttps://t.co/awCS2mhitU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				128
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/awCS2mhitU",
+						"expanded_url": "https://blogs.glowscotland.org.uk/nl/bantonbiggies/portfolio/tv-emoji-quiz-day-one/",
+						"display_url": "blogs.glowscotland.org.uk/nl/bantonbiggi…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 702565959354163200,
+				"id_str": "702565959354163200",
+				"name": "Banton Primary",
+				"screen_name": "Banton_Pr",
+				"location": "Banton, Scotland",
+				"description": "A Small Primary School in North Lanarkshire",
+				"url": "https://t.co/WNBQyt3iF5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WNBQyt3iF5",
+								"expanded_url": "https://blogs.glowscotland.org.uk/nl/banton/",
+								"display_url": "blogs.glowscotland.org.uk/nl/banton/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 374,
+				"friends_count": 78,
+				"listed_count": 8,
+				"created_at": "Wed Feb 24 18:49:12 +0000 2016",
+				"favourites_count": 620,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1004,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/702578403564773376/V51uWMrV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/702578403564773376/V51uWMrV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/702565959354163200/1456342883",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It would be great to get entires from everywhere. On the blog post not twitter please. https://t.co/3mlr7zy5V9"
+	},
+	{
 		"created_at": "Sun Jun 07 14:40:49 +0000 2020",
 		"id": 1269640461838360600,
 		"id_str": "1269640461838360578",
@@ -24,7 +1018,7 @@ Grailbird.data.tweets_2020_06 =
 			"user_mentions": [
 				{
 					"screen_name": "andrewkbailey13",
-					"name": "Andrew Bailey 👨‍🏫",
+					"name": "Andrew Bailey 👨🏫",
 					"id": 283494396,
 					"id_str": "283494396",
 					"indices": [
@@ -161,7 +1155,7 @@ Grailbird.data.tweets_2020_06 =
 			"user_mentions": [
 				{
 					"screen_name": "andrewkbailey13",
-					"name": "Andrew Bailey 👨‍🏫",
+					"name": "Andrew Bailey 👨🏫",
 					"id": 283494396,
 					"id_str": "283494396",
 					"indices": [
@@ -320,7 +1314,7 @@ Grailbird.data.tweets_2020_06 =
 			"user_mentions": [
 				{
 					"screen_name": "andrewkbailey13",
-					"name": "Andrew Bailey 👨‍🏫",
+					"name": "Andrew Bailey 👨🏫",
 					"id": 283494396,
 					"id_str": "283494396",
 					"indices": [
@@ -753,7 +1747,7 @@ Grailbird.data.tweets_2020_06 =
 			"user_mentions": [
 				{
 					"screen_name": "andrewkbailey13",
-					"name": "Andrew Bailey 👨‍🏫",
+					"name": "Andrew Bailey 👨🏫",
 					"id": 283494396,
 					"id_str": "283494396",
 					"indices": [
