@@ -1,6 +1,171 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 29 08:12:16 +0000 2020",
+		"id": 1299620872328818700,
+		"id_str": "1299620872328818688",
+		"full_text": "@KiwiGrant21 @ciaracreative @KateClanchy1 Most has gone from the web, best impact was back in 2005! https://t.co/aBKIwL9P2U\n\nA few details in this video: https://t.co/Ny2qKot0po apologies for quality.\n\nMy class, different school, blog poetry: https://t.co/wFVENS6Hr0 including some written in Teams during lockdown",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			314
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KiwiGrant21",
+					"name": "Pukeko",
+					"id": 2727162935,
+					"id_str": "2727162935",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "ciaracreative",
+					"name": "Ciara Gibson",
+					"id": 302877813,
+					"id_str": "302877813",
+					"indices": [
+						13,
+						27
+					]
+				},
+				{
+					"screen_name": "KateClanchy1",
+					"name": "Kate Clanchy",
+					"id": 815884673805156400,
+					"id_str": "815884673805156352",
+					"indices": [
+						28,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aBKIwL9P2U",
+					"expanded_url": "https://web.archive.org/web/20060505183025/http://www.sandaigprimary.co.uk/extras/all_the_keepers.html",
+					"display_url": "web.archive.org/web/2006050518…",
+					"indices": [
+						100,
+						123
+					]
+				},
+				{
+					"url": "https://t.co/Ny2qKot0po",
+					"expanded_url": "https://www.youtube.com/watch?v=HTLXVU_xNK8",
+					"display_url": "youtube.com/watch?v=HTLXVU…",
+					"indices": [
+						154,
+						177
+					]
+				},
+				{
+					"url": "https://t.co/wFVENS6Hr0",
+					"expanded_url": "https://blogs.glowscotland.org.uk/nl/bantonbiggies/category/poem/",
+					"display_url": "blogs.glowscotland.org.uk/nl/bantonbiggi…",
+					"indices": [
+						243,
+						266
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1299599035796516900,
+		"in_reply_to_status_id_str": "1299599035796516864",
+		"in_reply_to_user_id": 2727162935,
+		"in_reply_to_user_id_str": "2727162935",
+		"in_reply_to_screen_name": "KiwiGrant21",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3938,
+			"friends_count": 2658,
+			"listed_count": 269,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@KiwiGrant21 @ciaracreative @KateClanchy1 Most has gone from the web, best impact was back in 2005! https://t.co/aBKIwL9P2U\n\nA few details in this video: https://t.co/Ny2qKot0po apologies for quality.\n\nMy class, different school, blog poetry: https://t.co/wFVENS6Hr0 including some written in Teams during lockdown"
+	},
+	{
 		"created_at": "Fri Aug 28 21:47:19 +0000 2020",
 		"id": 1299463598968889300,
 		"id_str": "1299463598968889345",
