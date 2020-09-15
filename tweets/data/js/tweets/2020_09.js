@@ -1,6 +1,596 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 14 21:11:30 +0000 2020",
+		"id": 1305615178764087300,
+		"id_str": "1305615178764087301",
+		"full_text": "I think @bbclaurak just described UK Gov’s breaking law as audacious. Presume as in audacious bank robbery?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bbclaurak",
+					"name": "Laura Kuenssberg",
+					"id": 61183568,
+					"id_str": "61183568",
+					"indices": [
+						8,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3942,
+			"friends_count": 2663,
+			"listed_count": 267,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "791e00bcadc4615f",
+			"url": "https://api.twitter.com/1.1/geo/id/791e00bcadc4615f.json",
+			"place_type": "city",
+			"name": "Glasgow",
+			"full_name": "Glasgow, Scotland",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-4.3932845,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.9204214
+						],
+						[
+							-4.3932845,
+							55.9204214
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I think @bbclaurak just described UK Gov’s breaking law as audacious. Presume as in audacious bank robbery?"
+	},
+	{
+		"created_at": "Mon Sep 14 21:07:12 +0000 2020",
+		"id": 1305614094846832600,
+		"id_str": "1305614094846832640",
+		"full_text": "@IanStuart66 @cgerrard02 @Sfm36 @cerirmoore @tasha_epton @MSEducationUK @AdGrocott @R_L8on @Lanny_Watkins @leannegreaves3 @_fernjoness @DonnaMShah @JDWEdTech That was a super day. Remember it well.",
+		"truncated": false,
+		"display_text_range": [
+			158,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IanStuart66",
+					"name": "Ian Stuart",
+					"id": 2228692152,
+					"id_str": "2228692152",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "cgerrard02",
+					"name": "Chris Gerrard #MIEExpert 🦸‍♂️",
+					"id": 819162812278800400,
+					"id_str": "819162812278800385",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "Sfm36",
+					"name": "Sarah Clark",
+					"id": 384551986,
+					"id_str": "384551986",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"screen_name": "cerirmoore",
+					"name": "Ceri",
+					"id": 774637516767002600,
+					"id_str": "774637516767002624",
+					"indices": [
+						32,
+						43
+					]
+				},
+				{
+					"screen_name": "tasha_epton",
+					"name": "Natasha Epton",
+					"id": 29822720,
+					"id_str": "29822720",
+					"indices": [
+						44,
+						56
+					]
+				},
+				{
+					"screen_name": "MSEducationUK",
+					"name": "Microsoft Education UK",
+					"id": 48661542,
+					"id_str": "48661542",
+					"indices": [
+						57,
+						71
+					]
+				},
+				{
+					"screen_name": "AdGrocott",
+					"name": "Adam Grocott",
+					"id": 39306193,
+					"id_str": "39306193",
+					"indices": [
+						72,
+						82
+					]
+				},
+				{
+					"screen_name": "R_L8on",
+					"name": "R.Leighton",
+					"id": 1658240550,
+					"id_str": "1658240550",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"screen_name": "Lanny_Watkins",
+					"name": "Paul 'Lanny' Watkins FRSA",
+					"id": 772415035,
+					"id_str": "772415035",
+					"indices": [
+						91,
+						105
+					]
+				},
+				{
+					"screen_name": "leannegreaves3",
+					"name": "Leanne Greaves",
+					"id": 920360479775739900,
+					"id_str": "920360479775739910",
+					"indices": [
+						106,
+						121
+					]
+				},
+				{
+					"screen_name": "_fernjoness",
+					"name": "Fern Jones",
+					"id": 1238200889254568000,
+					"id_str": "1238200889254567936",
+					"indices": [
+						122,
+						134
+					]
+				},
+				{
+					"screen_name": "DonnaMShah",
+					"name": "Donna Shah 🙋🏻‍♀️ #TVTTagTeam",
+					"id": 2527416623,
+					"id_str": "2527416623",
+					"indices": [
+						135,
+						146
+					]
+				},
+				{
+					"screen_name": "JDWEdTech",
+					"name": "James Wilton",
+					"id": 1114148359269441500,
+					"id_str": "1114148359269441538",
+					"indices": [
+						147,
+						157
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1305586166994022400,
+		"in_reply_to_status_id_str": "1305586166994022406",
+		"in_reply_to_user_id": 2228692152,
+		"in_reply_to_user_id_str": "2228692152",
+		"in_reply_to_screen_name": "IanStuart66",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3942,
+			"friends_count": 2663,
+			"listed_count": 267,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "791e00bcadc4615f",
+			"url": "https://api.twitter.com/1.1/geo/id/791e00bcadc4615f.json",
+			"place_type": "city",
+			"name": "Glasgow",
+			"full_name": "Glasgow, Scotland",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-4.3932845,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.9204214
+						],
+						[
+							-4.3932845,
+							55.9204214
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@IanStuart66 @cgerrard02 @Sfm36 @cerirmoore @tasha_epton @MSEducationUK @AdGrocott @R_L8on @Lanny_Watkins @leannegreaves3 @_fernjoness @DonnaMShah @JDWEdTech That was a super day. Remember it well."
+	},
+	{
+		"created_at": "Mon Sep 14 18:36:26 +0000 2020",
+		"id": 1304721454563549200,
+		"id_str": "1305576154678669315",
+		"full_text": "Mam showed me this t-shirt. I think it's rude and it makes me sad. This is me in a good t-shirt. I like my life. I can do lots of things. Why are they saying that about Downs Syndrome? It's nasty. It's unkind. Help me tell @AmazonUK. Please share this. https://t.co/7ThoyfgC6n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AmazonUK",
+					"name": "Amazon.co.uk",
+					"id": 209004862,
+					"id_str": "209004862",
+					"indices": [
+						223,
+						232
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1304721451753394200,
+					"id_str": "1304721451753394178",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/EhtNP2aX0AIfvJi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhtNP2aX0AIfvJi.jpg",
+					"url": "https://t.co/7ThoyfgC6n",
+					"display_url": "pic.twitter.com/7ThoyfgC6n",
+					"expanded_url": "https://twitter.com/AmazingBrent/status/1304721454563549184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1304721451753394200,
+					"id_str": "1304721451753394178",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/EhtNP2aX0AIfvJi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhtNP2aX0AIfvJi.jpg",
+					"url": "https://t.co/7ThoyfgC6n",
+					"display_url": "pic.twitter.com/7ThoyfgC6n",
+					"expanded_url": "https://twitter.com/AmazingBrent/status/1304721454563549184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1260117651625566200,
+			"id_str": "1260117651625566208",
+			"name": "BeingBrent",
+			"screen_name": "AmazingBrent",
+			"location": "",
+			"description": "I  have Downs syndrome. I like life, family, and friends. Mam helps me. It's good  to do stuff and learn things",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4421,
+			"friends_count": 64,
+			"listed_count": 3,
+			"created_at": "Tue May 12 08:00:48 +0000 2020",
+			"favourites_count": 464,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1296212389499674625/tCgKHq93_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1296212389499674625/tCgKHq93_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1260117651625566208/1597684350",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7435,
+		"favorite_count": 20342,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mam showed me this t-shirt. I think it's rude and it makes me sad. This is me in a good t-shirt. I like my life. I can do lots of things. Why are they saying that about Downs Syndrome? It's nasty. It's unkind. Help me tell @AmazonUK. Please share this. https://t.co/7ThoyfgC6n"
+	},
+	{
 		"created_at": "Sun Sep 13 20:51:44 +0000 2020",
 		"id": 1305247817783562200,
 		"id_str": "1305247817783562240",
