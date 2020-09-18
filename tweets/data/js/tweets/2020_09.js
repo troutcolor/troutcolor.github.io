@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 17 14:51:20 +0000 2020",
+		"id": 1306588364347289600,
+		"id_str": "1306606670492184576",
+		"full_text": "NHS Spitfire over Banton Primary! Quick iPad work by Aaron! https://t.co/xDdot39Zxf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306588251734433800,
+					"id_str": "1306588251734433792",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1306588251734433792/pu/img/S67ym0uM7fmSr5-N.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1306588251734433792/pu/img/S67ym0uM7fmSr5-N.jpg",
+					"url": "https://t.co/xDdot39Zxf",
+					"display_url": "pic.twitter.com/xDdot39Zxf",
+					"expanded_url": "https://twitter.com/Banton_Pr/status/1306588364347289600/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306588251734433800,
+					"id_str": "1306588251734433792",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1306588251734433792/pu/img/S67ym0uM7fmSr5-N.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1306588251734433792/pu/img/S67ym0uM7fmSr5-N.jpg",
+					"url": "https://t.co/xDdot39Zxf",
+					"display_url": "pic.twitter.com/xDdot39Zxf",
+					"expanded_url": "https://twitter.com/Banton_Pr/status/1306588364347289600/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 12765,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1306588251734433792/pu/pl/SnhHPXsu417R-zki.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1306588251734433792/pu/vid/640x360/zhwTWBvRMF1ZuJ73.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1306588251734433792/pu/vid/1280x720/vT2oyQon5uQf8ZV3.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1306588251734433792/pu/vid/480x270/mVc6u5jFn14jfU21.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 702565959354163200,
+			"id_str": "702565959354163200",
+			"name": "Banton Primary",
+			"screen_name": "Banton_Pr",
+			"location": "Banton, Scotland",
+			"description": "A Small Primary School in North Lanarkshire",
+			"url": "https://t.co/WNBQyt3iF5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WNBQyt3iF5",
+							"expanded_url": "https://blogs.glowscotland.org.uk/nl/banton/",
+							"display_url": "blogs.glowscotland.org.uk/nl/banton/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 397,
+			"friends_count": 79,
+			"listed_count": 8,
+			"created_at": "Wed Feb 24 18:49:12 +0000 2016",
+			"favourites_count": 642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/702578403564773376/V51uWMrV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/702578403564773376/V51uWMrV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702565959354163200/1456342883",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NHS Spitfire over Banton Primary! Quick iPad work by Aaron! https://t.co/xDdot39Zxf"
+	},
+	{
 		"created_at": "Tue Sep 15 18:53:37 +0000 2020",
 		"id": 1305942869400850400,
 		"id_str": "1305942869400850437",
