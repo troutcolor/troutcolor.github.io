@@ -1,6 +1,141 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 21 11:30:33 +0000 2020",
+		"id": 1307970043234451500,
+		"id_str": "1308005693803331584",
+		"full_text": "Today is #WorldAlzheimersDay you should follow @PlaylistForLife and find out more about the power of personal playlists for people living with dementia 💚🎶  https://t.co/Le8jdFpbZN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WorldAlzheimersDay",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PlaylistForLife",
+					"name": "Playlist for Life",
+					"id": 2203221589,
+					"id_str": "2203221589",
+					"indices": [
+						47,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Le8jdFpbZN",
+					"expanded_url": "https://www.playlistforlife.org.uk/harry-margarets-story/",
+					"display_url": "playlistforlife.org.uk/harry-margaret…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1244438078,
+			"id_str": "1244438078",
+			"name": "Michael Timmons",
+			"screen_name": "MTImmonsMusic",
+			"location": "",
+			"description": "Solo musician from Glasgow, Scotland. \n https://t.co/89txp2LntQ",
+			"url": "https://t.co/7o25Cj4Iud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7o25Cj4Iud",
+							"expanded_url": "http://michaeltimmonsmusic.bandcamp.com",
+							"display_url": "michaeltimmonsmusic.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/89txp2LntQ",
+							"expanded_url": "https://open.spotify.com/artist/4GGtkJm1PfBI9zd2CjahOt?si=_SJQXQoJQciDOS9BzDLJXw",
+							"display_url": "open.spotify.com/artist/4GGtkJm…",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 762,
+			"friends_count": 415,
+			"listed_count": 14,
+			"created_at": "Tue Mar 05 19:16:35 +0000 2013",
+			"favourites_count": 5832,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/848934481096474624/qKZCEFdR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/848934481096474624/qKZCEFdR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1244438078/1562073557",
+			"profile_link_color": "141414",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today is #WorldAlzheimersDay you should follow @PlaylistForLife and find out more about the power of personal playlists for people living with dementia 💚🎶  https://t.co/Le8jdFpbZN"
+	},
+	{
 		"created_at": "Sun Sep 20 16:41:11 +0000 2020",
 		"id": 1307721477555445800,
 		"id_str": "1307721477555445765",
