@@ -1,6 +1,316 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 14 18:32:42 +0000 2020",
+		"id": 1316446851093143600,
+		"id_str": "1316446851093143552",
+		"full_text": "@ds106dc #tdc3198 #ds106  The Wire, take repeated viewings. Also provided a lot of fun with #wire106",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tdc3198",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "ds106",
+					"indices": [
+						18,
+						24
+					]
+				},
+				{
+					"text": "wire106",
+					"indices": [
+						92,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1316243178530328600,
+		"in_reply_to_status_id_str": "1316243178530328576",
+		"in_reply_to_user_id": 995562187,
+		"in_reply_to_user_id_str": "995562187",
+		"in_reply_to_screen_name": "ds106dc",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3945,
+			"friends_count": 2667,
+			"listed_count": 267,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5656,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ds106dc #tdc3198 #ds106  The Wire, take repeated viewings. Also provided a lot of fun with #wire106"
+	},
+	{
+		"created_at": "Wed Oct 14 17:30:18 +0000 2020",
+		"id": 1316381500569460700,
+		"id_str": "1316431147543527424",
+		"full_text": "6 brand new songs &amp; 2 music videos now well underway, with many more to follow! 🥳 Not even a global pandemic can stop us 💪 Pictured are some of our young people in consultation with their chosen artist @David_Lemm recently, generating ideas for album artwork over Zoom 💡😊 https://t.co/UjEDgiCeBW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "David_Lemm",
+					"name": "David Lemm",
+					"id": 276568201,
+					"id_str": "276568201",
+					"indices": [
+						206,
+						217
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316381318721269800,
+					"id_str": "1316381318721269760",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EkS51btXcAAdQPA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkS51btXcAAdQPA.jpg",
+					"url": "https://t.co/UjEDgiCeBW",
+					"display_url": "pic.twitter.com/UjEDgiCeBW",
+					"expanded_url": "https://twitter.com/WCEnsemble/status/1316381500569460736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 957,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1287,
+							"h": 1026,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 542,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316381318721269800,
+					"id_str": "1316381318721269760",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EkS51btXcAAdQPA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkS51btXcAAdQPA.jpg",
+					"url": "https://t.co/UjEDgiCeBW",
+					"display_url": "pic.twitter.com/UjEDgiCeBW",
+					"expanded_url": "https://twitter.com/WCEnsemble/status/1316381500569460736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 957,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1287,
+							"h": 1026,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 542,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 727509081242636300,
+			"id_str": "727509081242636292",
+			"name": "Ensemble | Making Music To Change Lives",
+			"screen_name": "WCEnsemble",
+			"location": "Central Scotland ",
+			"description": "Empowering young people, many with experience of homelessness & mental health issues, to write songs. Funded by Creative Scotland YMI & Wheatley Care",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 406,
+			"friends_count": 575,
+			"listed_count": 13,
+			"created_at": "Tue May 03 14:44:16 +0000 2016",
+			"favourites_count": 602,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 604,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728250808400281600/TxvLeXGe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728250808400281600/TxvLeXGe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/727509081242636292/1595423600",
+			"profile_link_color": "00B0B9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "6 brand new songs &amp; 2 music videos now well underway, with many more to follow! 🥳 Not even a global pandemic can stop us 💪 Pictured are some of our young people in consultation with their chosen artist @David_Lemm recently, generating ideas for album artwork over Zoom 💡😊 https://t.co/UjEDgiCeBW"
+	},
+	{
 		"created_at": "Tue Oct 13 21:53:34 +0000 2020",
 		"id": 1316135014061486000,
 		"id_str": "1316135014061486081",
