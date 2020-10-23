@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 22 18:53:16 +0000 2020",
+		"id": 1319351131408158700,
+		"id_str": "1319351131408158720",
+		"full_text": "I read before retweeting;-) nice explanation that will be relevant for more than the USA election via @jackyalcine on https://t.co/3XoLozerKm https://t.co/aCSI8MlfzB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jackyalcine",
+					"name": "jacky is coming off of here slowly.",
+					"id": 1262855987993563100,
+					"id_str": "1262855987993563136",
+					"indices": [
+						102,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3XoLozerKm",
+					"expanded_url": "http://micro.blog",
+					"display_url": "micro.blog",
+					"indices": [
+						118,
+						141
+					]
+				},
+				{
+					"url": "https://t.co/aCSI8MlfzB",
+					"expanded_url": "https://twitter.com/growthdotdesign/status/1319171282508914688",
+					"display_url": "twitter.com/growthdotdesig…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3944,
+			"friends_count": 2668,
+			"listed_count": 267,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1319171282508914700,
+		"quoted_status_id_str": "1319171282508914688",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aCSI8MlfzB",
+			"expanded": "https://twitter.com/growthdotdesign/status/1319171282508914688",
+			"display": "twitter.com/growthdotdesig…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 22 06:58:37 +0000 2020",
+			"id": 1319171282508914700,
+			"id_str": "1319171282508914688",
+			"full_text": "🧠 The psychology of misinformation on Facebook during the 2020 U.S. elections\n\nhttps://t.co/ahkXhNYrpD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				102
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ahkXhNYrpD",
+						"expanded_url": "https://growth.design/case-studies/facebook-misinformation/",
+						"display_url": "growth.design/case-studies/f…",
+						"indices": [
+							79,
+							102
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1123700360646991900,
+				"id_str": "1123700360646991878",
+				"name": "Growth.Design",
+				"screen_name": "GrowthDotDesign",
+				"location": "🇨🇦 Montreal (+150 countries)",
+				"description": "Learn how to craft experiences so delightful that your customers will be happy to spread the word for you. (by @DanBenoni & @LouisXavierL)",
+				"url": "https://t.co/YjbNUmXnBT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YjbNUmXnBT",
+								"expanded_url": "https://growth.design/",
+								"display_url": "growth.design",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6588,
+				"friends_count": 2,
+				"listed_count": 98,
+				"created_at": "Wed May 01 21:26:58 +0000 2019",
+				"favourites_count": 2675,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 522,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1208177788789899272/5qFvBb7Q_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208177788789899272/5qFvBb7Q_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1123700360646991878/1576284222",
+				"profile_link_color": "D7A408",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 65,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I read before retweeting;-) nice explanation that will be relevant for more than the USA election via @jackyalcine on https://t.co/3XoLozerKm https://t.co/aCSI8MlfzB"
+	},
+	{
 		"created_at": "Wed Oct 21 14:27:42 +0000 2020",
 		"id": 1318921910177116200,
 		"id_str": "1318921910177116160",
