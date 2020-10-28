@@ -1,6 +1,178 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 27 12:26:51 +0000 2020",
+		"id": 1321055161108828200,
+		"id_str": "1321065823486824449",
+		"full_text": "We're very excited to hear the outcome of this songwriting collab which we've heard is going to incorporate ska, reggae, industrial AND electronic vibes! 🥳 @MTImmonsMusic and our young musicians Jamie and Andrew have been meeting weekly on Zoom to share ideas and make music. https://t.co/rN2qZiUiMC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MTImmonsMusic",
+					"name": "Michael Timmons",
+					"id": 1244438078,
+					"id_str": "1244438078",
+					"indices": [
+						156,
+						170
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1321054196247023600,
+					"id_str": "1321054196247023616",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/ElVTytBX0AA5xH0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElVTytBX0AA5xH0.jpg",
+					"url": "https://t.co/rN2qZiUiMC",
+					"display_url": "pic.twitter.com/rN2qZiUiMC",
+					"expanded_url": "https://twitter.com/WCEnsemble/status/1321055161108828160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1285,
+							"h": 722,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1321054196247023600,
+					"id_str": "1321054196247023616",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/ElVTytBX0AA5xH0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElVTytBX0AA5xH0.jpg",
+					"url": "https://t.co/rN2qZiUiMC",
+					"display_url": "pic.twitter.com/rN2qZiUiMC",
+					"expanded_url": "https://twitter.com/WCEnsemble/status/1321055161108828160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1285,
+							"h": 722,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 727509081242636300,
+			"id_str": "727509081242636292",
+			"name": "Ensemble | Making Music To Change Lives",
+			"screen_name": "WCEnsemble",
+			"location": "Central Scotland ",
+			"description": "Empowering young people, many with experience of homelessness or mental health issues, to write songs. Funded by @CreativeScots and supported by @WheatleyCare",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 408,
+			"friends_count": 578,
+			"listed_count": 13,
+			"created_at": "Tue May 03 14:44:16 +0000 2016",
+			"favourites_count": 610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728250808400281600/TxvLeXGe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728250808400281600/TxvLeXGe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/727509081242636292/1595423600",
+			"profile_link_color": "00B0B9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're very excited to hear the outcome of this songwriting collab which we've heard is going to incorporate ska, reggae, industrial AND electronic vibes! 🥳 @MTImmonsMusic and our young musicians Jamie and Andrew have been meeting weekly on Zoom to share ideas and make music. https://t.co/rN2qZiUiMC"
+	},
+	{
 		"created_at": "Mon Oct 26 22:07:23 +0000 2020",
 		"id": 1320849531840405500,
 		"id_str": "1320849531840405508",
