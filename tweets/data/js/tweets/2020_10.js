@@ -1,6 +1,420 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 30 19:52:45 +0000 2020",
+		"id": 1322265201283080200,
+		"id_str": "1322265201283080192",
+		"full_text": "Just beautiful! https://t.co/sbd4oBMGJ1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sbd4oBMGJ1",
+					"expanded_url": "https://twitter.com/andrewpbrooks/status/1321571807225401345",
+					"display_url": "twitter.com/andrewpbrooks/…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3940,
+			"friends_count": 2670,
+			"listed_count": 267,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5660,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1321571807225401300,
+		"quoted_status_id_str": "1321571807225401345",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sbd4oBMGJ1",
+			"expanded": "https://twitter.com/andrewpbrooks/status/1321571807225401345",
+			"display": "twitter.com/andrewpbrooks/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 28 21:57:27 +0000 2020",
+			"id": 1321571807225401300,
+			"id_str": "1321571807225401345",
+			"full_text": "I’ve just added these photographs to my gallery of natural landscapes &amp; details of nature, see these &amp; many more plus find out about the locations here https://t.co/lLZ3EUuhEw https://t.co/puuSBHZFkp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				183
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/lLZ3EUuhEw",
+						"expanded_url": "https://www.andrewbrooksartist.com/landscape-photography",
+						"display_url": "andrewbrooksartist.com/landscape-phot…",
+						"indices": [
+							160,
+							183
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1321571758386929700,
+						"id_str": "1321571758386929665",
+						"indices": [
+							184,
+							207
+						],
+						"media_url": "http://pbs.twimg.com/media/ElcqgyPXYAERbcD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ElcqgyPXYAERbcD.jpg",
+						"url": "https://t.co/puuSBHZFkp",
+						"display_url": "pic.twitter.com/puuSBHZFkp",
+						"expanded_url": "https://twitter.com/AndrewPBrooks/status/1321571807225401345/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1000,
+								"h": 738,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 738,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 502,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1321571758386929700,
+						"id_str": "1321571758386929665",
+						"indices": [
+							184,
+							207
+						],
+						"media_url": "http://pbs.twimg.com/media/ElcqgyPXYAERbcD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ElcqgyPXYAERbcD.jpg",
+						"url": "https://t.co/puuSBHZFkp",
+						"display_url": "pic.twitter.com/puuSBHZFkp",
+						"expanded_url": "https://twitter.com/AndrewPBrooks/status/1321571807225401345/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1000,
+								"h": 738,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 738,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 502,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1321571758420435000,
+						"id_str": "1321571758420434944",
+						"indices": [
+							184,
+							207
+						],
+						"media_url": "http://pbs.twimg.com/media/ElcqgyXWoAAG4YZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ElcqgyXWoAAG4YZ.jpg",
+						"url": "https://t.co/puuSBHZFkp",
+						"display_url": "pic.twitter.com/puuSBHZFkp",
+						"expanded_url": "https://twitter.com/AndrewPBrooks/status/1321571807225401345/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 970,
+								"h": 536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 376,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 970,
+								"h": 536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1321571758420512800,
+						"id_str": "1321571758420512778",
+						"indices": [
+							184,
+							207
+						],
+						"media_url": "http://pbs.twimg.com/media/ElcqgyXX0AoXTmo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ElcqgyXX0AoXTmo.jpg",
+						"url": "https://t.co/puuSBHZFkp",
+						"display_url": "pic.twitter.com/puuSBHZFkp",
+						"expanded_url": "https://twitter.com/AndrewPBrooks/status/1321571807225401345/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1125,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 900,
+								"h": 1125,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1321571758625968000,
+						"id_str": "1321571758625968129",
+						"indices": [
+							184,
+							207
+						],
+						"media_url": "http://pbs.twimg.com/media/ElcqgzIW0AE-0m7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ElcqgzIW0AE-0m7.jpg",
+						"url": "https://t.co/puuSBHZFkp",
+						"display_url": "pic.twitter.com/puuSBHZFkp",
+						"expanded_url": "https://twitter.com/AndrewPBrooks/status/1321571807225401345/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 684,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 465,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 684,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19607012,
+				"id_str": "19607012",
+				"name": "Andrew Brooks",
+				"screen_name": "AndrewPBrooks",
+				"location": "New Mills UK Earth",
+				"description": "Artist / Photographer / Filmmaker. Exploring cities, the natural environment & imagined worlds. Artworks available’",
+				"url": "https://t.co/03MSU8Pge8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/03MSU8Pge8",
+								"expanded_url": "https://www.andrewbrooksartist.com",
+								"display_url": "andrewbrooksartist.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 30358,
+				"friends_count": 24053,
+				"listed_count": 393,
+				"created_at": "Tue Jan 27 18:33:59 +0000 2009",
+				"favourites_count": 67419,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20734,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/847817783526268928/_khNroxZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/847817783526268928/_khNroxZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19607012/1463473746",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 54,
+			"favorite_count": 374,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just beautiful! https://t.co/sbd4oBMGJ1"
+	},
+	{
 		"created_at": "Wed Oct 28 20:56:54 +0000 2020",
 		"id": 1321556569524473900,
 		"id_str": "1321556569524473856",
