@@ -1,6 +1,464 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 20 21:28:35 +0000 2020",
+		"id": 1340771100368785400,
+		"id_str": "1340771100368785409",
+		"full_text": "Liked: The EFF: Facebook’s Laughable Campaign Against Apple Is Really Against Users and Small Businesses https://t.co/NzCQCrqSYH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NzCQCrqSYH",
+					"expanded_url": "https://johnjohnston.info/blog/liked-the-eff-facebooks-laughable-campaign-against-apple-is-really-against-users-and-small-businesses/",
+					"display_url": "johnjohnston.info/blog/liked-the…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3924,
+			"friends_count": 2669,
+			"listed_count": 267,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5716,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Liked: The EFF: Facebook’s Laughable Campaign Against Apple Is Really Against Users and Small Businesses https://t.co/NzCQCrqSYH"
+	},
+	{
+		"created_at": "Sun Dec 20 19:29:37 +0000 2020",
+		"id": 1340648333866635300,
+		"id_str": "1340741161800114177",
+		"full_text": "Listen again to this week's @regalradio show with @sleafordmods @TheJustJoans @DecayTrace @arpinewood @MTImmonsMusic @mclarenallday @StanleyOdd @philipjosephrae @stucksunsets @Little_Love_FV and Album of the Week from @bellesglasgow https://t.co/oo5gebCZEJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "regalradio",
+					"name": "Regal Radio",
+					"id": 978400386,
+					"id_str": "978400386",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "sleafordmods",
+					"name": "Sleaford Mods",
+					"id": 23674486,
+					"id_str": "23674486",
+					"indices": [
+						50,
+						63
+					]
+				},
+				{
+					"screen_name": "TheJustJoans",
+					"name": "The Just Joans",
+					"id": 206733173,
+					"id_str": "206733173",
+					"indices": [
+						64,
+						77
+					]
+				},
+				{
+					"screen_name": "DecayTrace",
+					"name": "decaytrace",
+					"id": 1016566042284265500,
+					"id_str": "1016566042284265473",
+					"indices": [
+						78,
+						89
+					]
+				},
+				{
+					"screen_name": "arpinewood",
+					"name": "A.R. Pinewood",
+					"id": 1190367796275875800,
+					"id_str": "1190367796275875840",
+					"indices": [
+						90,
+						101
+					]
+				},
+				{
+					"screen_name": "MTImmonsMusic",
+					"name": "Michael Timmons",
+					"id": 1244438078,
+					"id_str": "1244438078",
+					"indices": [
+						102,
+						116
+					]
+				},
+				{
+					"screen_name": "mclarenallday",
+					"name": "Stephen McLaren",
+					"id": 4838464708,
+					"id_str": "4838464708",
+					"indices": [
+						117,
+						131
+					]
+				},
+				{
+					"screen_name": "StanleyOdd",
+					"name": "Stanley Odd",
+					"id": 65886064,
+					"id_str": "65886064",
+					"indices": [
+						132,
+						143
+					]
+				},
+				{
+					"screen_name": "philipjosephrae",
+					"name": "Philip Joseph Rae",
+					"id": 402425791,
+					"id_str": "402425791",
+					"indices": [
+						144,
+						160
+					]
+				},
+				{
+					"screen_name": "stucksunsets",
+					"name": "Stuck Sunsets",
+					"id": 278677418,
+					"id_str": "278677418",
+					"indices": [
+						161,
+						174
+					]
+				},
+				{
+					"screen_name": "Little_Love_FV",
+					"name": "Little Love & The Friendly Vibes",
+					"id": 1080479870,
+					"id_str": "1080479870",
+					"indices": [
+						175,
+						190
+					]
+				},
+				{
+					"screen_name": "bellesglasgow",
+					"name": "belle & sebastian",
+					"id": 85562303,
+					"id_str": "85562303",
+					"indices": [
+						218,
+						232
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oo5gebCZEJ",
+					"expanded_url": "https://www.mixcloud.com/isthismusic/is-this-music-with-stuart-mchugh-17th-december-2020/",
+					"display_url": "mixcloud.com/isthismusic/is…",
+					"indices": [
+						233,
+						256
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18800085,
+			"id_str": "18800085",
+			"name": "isthismusic?",
+			"screen_name": "isthismusic",
+			"location": "UK",
+			"description": "AN INDEPENDENT MUSIC MAGAZINE FROM SCOTLAND",
+			"url": "http://t.co/ex7uwZqsAi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ex7uwZqsAi",
+							"expanded_url": "http://www.isthismusic.com",
+							"display_url": "isthismusic.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4990,
+			"friends_count": 99,
+			"listed_count": 84,
+			"created_at": "Fri Jan 09 12:49:58 +0000 2009",
+			"favourites_count": 852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/129618008/qmark_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/129618008/qmark_normal.jpg",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "FF3300",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Listen again to this week's @regalradio show with @sleafordmods @TheJustJoans @DecayTrace @arpinewood @MTImmonsMusic @mclarenallday @StanleyOdd @philipjosephrae @stucksunsets @Little_Love_FV and Album of the Week from @bellesglasgow https://t.co/oo5gebCZEJ"
+	},
+	{
+		"created_at": "Sun Dec 20 11:35:46 +0000 2020",
+		"id": 1340621914751037400,
+		"id_str": "1340621914751037442",
+		"full_text": "decorations https://t.co/PJC28KR3Uv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PJC28KR3Uv",
+					"expanded_url": "https://johnjohnston.info/blog/decorations/",
+					"display_url": "johnjohnston.info/blog/decoratio…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3924,
+			"friends_count": 2669,
+			"listed_count": 267,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5716,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "decorations https://t.co/PJC28KR3Uv"
+	},
+	{
 		"created_at": "Sat Dec 19 22:14:25 +0000 2020",
 		"id": 1340420247271207000,
 		"id_str": "1340420247271206912",
