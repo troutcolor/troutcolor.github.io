@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 24 17:37:10 +0000 2020",
+		"id": 1342160264146395100,
+		"id_str": "1342162416608698369",
+		"full_text": "So here is a quick @sway I made for  my 90 year Dad to access on his Hudl now his cataract has been done. Each song is part of a Christmas @PlaylistForLife sent with love 500 Miles south. Merry Christmas everyone! #MIEEScotland  https://t.co/84F7Unfvio https://t.co/AHjyFyJa0g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEEScotland",
+					"indices": [
+						214,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sway",
+					"name": "Office Sway",
+					"id": 129937699,
+					"id_str": "129937699",
+					"indices": [
+						19,
+						24
+					]
+				},
+				{
+					"screen_name": "PlaylistForLife",
+					"name": "Playlist for Life",
+					"id": 2203221589,
+					"id_str": "2203221589",
+					"indices": [
+						139,
+						155
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/84F7Unfvio",
+					"expanded_url": "https://sway.office.com/XgJGBzPXI6BHKf4G?ref=Link&loc=play",
+					"display_url": "sway.office.com/XgJGBzPXI6BHKf…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1342160262128935000,
+					"id_str": "1342160262128934912",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/EqBPpbfXIAApFEh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqBPpbfXIAApFEh.jpg",
+					"url": "https://t.co/AHjyFyJa0g",
+					"display_url": "pic.twitter.com/AHjyFyJa0g",
+					"expanded_url": "https://twitter.com/AllM14891126/status/1342160264146395137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 558,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 563,
+							"h": 686,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 563,
+							"h": 686,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342160262128935000,
+					"id_str": "1342160262128934912",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/EqBPpbfXIAApFEh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqBPpbfXIAApFEh.jpg",
+					"url": "https://t.co/AHjyFyJa0g",
+					"display_url": "pic.twitter.com/AHjyFyJa0g",
+					"expanded_url": "https://twitter.com/AllM14891126/status/1342160264146395137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 558,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 563,
+							"h": 686,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 563,
+							"h": 686,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2474754063,
+			"id_str": "2474754063",
+			"name": "Mrs. M. Davidson #MIEE",
+			"screen_name": "AllM14891126",
+			"location": "",
+			"description": "Facilitated 15K+ pupils search for meaning&value Now Care & Community. Nomadic English in Scotland my personal views are just that. #RME #iwill #MIEEScotland",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1498,
+			"friends_count": 3806,
+			"listed_count": 61,
+			"created_at": "Thu Apr 10 20:51:27 +0000 2014",
+			"favourites_count": 39973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1341784528294203392/8OQVUu7Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1341784528294203392/8OQVUu7Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474754063/1455921410",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3ac07bd70226d0b1",
+			"url": "https://api.twitter.com/1.1/geo/id/3ac07bd70226d0b1.json",
+			"place_type": "city",
+			"name": "Grangemouth",
+			"full_name": "Grangemouth, Scotland",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-3.7574309,
+							55.9975276
+						],
+						[
+							-3.671094,
+							55.9975276
+						],
+						[
+							-3.671094,
+							56.0250262
+						],
+						[
+							-3.7574309,
+							56.0250262
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So here is a quick @sway I made for  my 90 year Dad to access on his Hudl now his cataract has been done. Each song is part of a Christmas @PlaylistForLife sent with love 500 Miles south. Merry Christmas everyone! #MIEEScotland  https://t.co/84F7Unfvio https://t.co/AHjyFyJa0g"
+	},
+	{
 		"created_at": "Wed Dec 23 16:45:12 +0000 2020",
 		"id": 1341786947577114600,
 		"id_str": "1341786947577114625",
