@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 28 15:41:45 +0000 2021",
+		"id": 1366050969931415600,
+		"id_str": "1366050969931415554",
+		"full_text": "Cracking #GlowBlogs site https://t.co/bJD49bKORD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GlowBlogs",
+					"indices": [
+						9,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bJD49bKORD",
+					"expanded_url": "https://twitter.com/claganach/status/1366050196929576962",
+					"display_url": "twitter.com/claganach/stat…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3919,
+			"friends_count": 2671,
+			"listed_count": 265,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1366050196929577000,
+		"quoted_status_id_str": "1366050196929576962",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bJD49bKORD",
+			"expanded": "https://twitter.com/claganach/status/1366050196929576962",
+			"display": "twitter.com/claganach/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 28 15:38:41 +0000 2021",
+			"id": 1366050196929577000,
+			"id_str": "1366050196929576962",
+			"full_text": "A lovely use of a Glow Wordpress blog @GlowScot @johnjohnston https://t.co/zVVS6iMdCa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				61
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GlowScot",
+						"name": "Glow Scot",
+						"id": 2912429973,
+						"id_str": "2912429973",
+						"indices": [
+							38,
+							47
+						]
+					},
+					{
+						"screen_name": "johnjohnston",
+						"name": "john johnston",
+						"id": 7484192,
+						"id_str": "7484192",
+						"indices": [
+							48,
+							61
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/zVVS6iMdCa",
+						"expanded_url": "https://twitter.com/ellieprimary1/status/1366025111602688001",
+						"display_url": "twitter.com/ellieprimary1/…",
+						"indices": [
+							62,
+							85
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 54920357,
+				"id_str": "54920357",
+				"name": "📱Malcolm Wilson 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+				"screen_name": "claganach",
+				"location": "Falkirk, Scotland",
+				"description": "Teacher | Curriculum Development Officer - Digital Learning @FalkirkCouncil📱@DigiLearnFalk 💻#GlowScot #MIEExpert #GlobalLearningMentor #AppleTeacher #EdTech50",
+				"url": "https://t.co/TZocEyosXR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TZocEyosXR",
+								"expanded_url": "https://blogs.glowscotland.org.uk/fa/ICTFalkirkPrimaries/",
+								"display_url": "blogs.glowscotland.org.uk/fa/ICTFalkirkP…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5503,
+				"friends_count": 3399,
+				"listed_count": 346,
+				"created_at": "Wed Jul 08 15:01:38 +0000 2009",
+				"favourites_count": 7785,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 26718,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/897611927593123844/zm8fT-7-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/897611927593123844/zm8fT-7-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54920357/1603984264",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1366025111602688000,
+			"quoted_status_id_str": "1366025111602688001",
+			"quoted_status_permalink": {
+				"url": "https://t.co/zVVS6iMdCa",
+				"expanded": "https://twitter.com/ellieprimary1/status/1366025111602688001",
+				"display": "twitter.com/ellieprimary1/…"
+			},
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cracking #GlowBlogs site https://t.co/bJD49bKORD"
+	},
+	{
 		"created_at": "Sat Feb 27 21:07:08 +0000 2021",
 		"id": 1365770465868992500,
 		"id_str": "1365770465868992517",
