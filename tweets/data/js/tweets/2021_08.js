@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sun Aug 15 18:45:33 +0000 2021",
+		"id": 1426479004727582700,
+		"id_str": "1426978385763475458",
+		"full_text": "Everyone should watch this video  by ⁦@ByDonkeys⁩  https://t.co/C9SANFfwPo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ByDonkeys",
+					"name": "Led By Donkeys",
+					"id": 1073606435580325900,
+					"id_str": "1073606435580325889",
+					"indices": [
+						38,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/C9SANFfwPo",
+					"expanded_url": "https://www.youtube.com/watch?v=RnslYWgcgxA",
+					"display_url": "youtube.com/watch?v=RnslYW…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 531346364,
+			"id_str": "531346364",
+			"name": "Mark Priestley 🇪🇺",
+			"screen_name": "MarkRPriestley",
+			"location": "University of Stirling",
+			"description": "Education Professor, University of Stirling. Lead editor of the Curriculum Journal. European. Blog at https://t.co/soxAJohd2B.",
+			"url": "https://t.co/bKyTIWiGvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bKyTIWiGvh",
+							"expanded_url": "https://www.stir.ac.uk/people/255862",
+							"display_url": "stir.ac.uk/people/255862",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/soxAJohd2B",
+							"expanded_url": "http://mrpriestley.wordpress.com",
+							"display_url": "mrpriestley.wordpress.com",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9834,
+			"friends_count": 1398,
+			"listed_count": 109,
+			"created_at": "Tue Mar 20 15:20:03 +0000 2012",
+			"favourites_count": 3852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35966,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030103",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1390629870246502401/L-uTLApM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1390629870246502401/L-uTLApM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/531346364/1439237749",
+			"profile_link_color": "947974",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "FA8459",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Everyone should watch this video  by ⁦@ByDonkeys⁩  https://t.co/C9SANFfwPo"
+	},
+	{
 		"created_at": "Sat Aug 14 12:48:44 +0000 2021",
 		"id": 1426526199799484400,
 		"id_str": "1426526199799484421",
