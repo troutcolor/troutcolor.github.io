@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 17 11:58:54 +0000 2021",
+		"id": 1438831568634716200,
+		"id_str": "1438834847951343622",
+		"full_text": "Incredible to see so many organisations signed up across the UK to bring the power of personal playlists to their local communities &amp; help people living with dementia. 🎵💚 #dementia #community https://t.co/5LTDDB79Ys",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dementia",
+					"indices": [
+						175,
+						184
+					]
+				},
+				{
+					"text": "community",
+					"indices": [
+						185,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5LTDDB79Ys",
+					"expanded_url": "https://twitter.com/PlaylistforLife/status/1438774983266914306",
+					"display_url": "twitter.com/PlaylistforLif…",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1244438078,
+			"id_str": "1244438078",
+			"name": "Michael Timmons",
+			"screen_name": "MTImmonsMusic",
+			"location": "",
+			"description": "Solo musician with sad songs from Scotland + Head of Communities at @playlistforlife .\nViews my own",
+			"url": "https://t.co/rKw1LCn9B0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rKw1LCn9B0",
+							"expanded_url": "http://michaeltimmonsmusic.bandcamp.com",
+							"display_url": "michaeltimmonsmusic.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 790,
+			"friends_count": 515,
+			"listed_count": 12,
+			"created_at": "Tue Mar 05 19:16:35 +0000 2013",
+			"favourites_count": 6970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/848934481096474624/qKZCEFdR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/848934481096474624/qKZCEFdR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1244438078/1562073557",
+			"profile_link_color": "141414",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1438774983266914300,
+		"quoted_status_id_str": "1438774983266914306",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5LTDDB79Ys",
+			"expanded": "https://twitter.com/PlaylistforLife/status/1438774983266914306",
+			"display": "twitter.com/PlaylistforLif…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 17 08:01:01 +0000 2021",
+			"id": 1438774983266914300,
+			"id_str": "1438774983266914306",
+			"full_text": "NEWS: We're celebrating 1,000 Help Points!🎉 \n\nWe're thrilled to announce our exciting new partnership with @OrkneyLibrary,  working closely with Age Scotland Orkney to distribute our materials to people living with #dementia in the #community.\n\nFull info: https://t.co/S3cVu1jCoz https://t.co/vA1wx6xZz9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "dementia",
+						"indices": [
+							215,
+							224
+						]
+					},
+					{
+						"text": "community",
+						"indices": [
+							232,
+							242
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OrkneyLibrary",
+						"name": "Orkney Library",
+						"id": 52078696,
+						"id_str": "52078696",
+						"indices": [
+							107,
+							121
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/S3cVu1jCoz",
+						"expanded_url": "http://bit.ly/3zcSmHk",
+						"display_url": "bit.ly/3zcSmHk",
+						"indices": [
+							256,
+							279
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1438774978707607600,
+						"id_str": "1438774978707607557",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/E_eOOF2WUAUFTOt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_eOOF2WUAUFTOt.jpg",
+						"url": "https://t.co/vA1wx6xZz9",
+						"display_url": "pic.twitter.com/vA1wx6xZz9",
+						"expanded_url": "https://twitter.com/PlaylistforLife/status/1438774983266914306/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1438774978707607600,
+						"id_str": "1438774978707607557",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/E_eOOF2WUAUFTOt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_eOOF2WUAUFTOt.jpg",
+						"url": "https://t.co/vA1wx6xZz9",
+						"display_url": "pic.twitter.com/vA1wx6xZz9",
+						"expanded_url": "https://twitter.com/PlaylistforLife/status/1438774983266914306/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2203221589,
+				"id_str": "2203221589",
+				"name": "Playlist for Life",
+				"screen_name": "PlaylistforLife",
+				"location": "Registered charity: SC044072",
+				"description": "Sharing the power of personal music for people living with dementia.💚🎵 \nStart building a personal playlist for yourself or a loved one today.\n\n#dementiacare",
+				"url": "https://t.co/qWCgqvEPgZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qWCgqvEPgZ",
+								"expanded_url": "http://www.playlistforlife.org.uk/",
+								"display_url": "playlistforlife.org.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6042,
+				"friends_count": 1443,
+				"listed_count": 80,
+				"created_at": "Tue Nov 19 14:41:47 +0000 2013",
+				"favourites_count": 4506,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7268,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3DA165",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1231918057238487041/35NDLHDx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231918057238487041/35NDLHDx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2203221589/1606833854",
+				"profile_link_color": "3DA165",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Incredible to see so many organisations signed up across the UK to bring the power of personal playlists to their local communities &amp; help people living with dementia. 🎵💚 #dementia #community https://t.co/5LTDDB79Ys"
+	},
+	{
 		"created_at": "Thu Sep 16 21:20:09 +0000 2021",
 		"id": 1438613700718518300,
 		"id_str": "1438613700718518273",
