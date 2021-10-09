@@ -1,6 +1,493 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 08 21:11:37 +0000 2021",
+		"id": 1446584088874438700,
+		"id_str": "1446584088874438662",
+		"full_text": "@olliebray @DigiLearnScot @codeclubscot @kirstymcfaul @bw_clark @EducationScot @LfSScotland @EdScotLfS @CodeClub @ESskills @GlowScot @scratch That was me asking @DigiLearnScot",
+		"truncated": false,
+		"display_text_range": [
+			142,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "olliebray",
+					"name": "Ollie Bray",
+					"id": 6896272,
+					"id_str": "6896272",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "DigiLearnScot",
+					"name": "Digital Learning and Teaching",
+					"id": 2965753499,
+					"id_str": "2965753499",
+					"indices": [
+						11,
+						25
+					]
+				},
+				{
+					"screen_name": "codeclubscot",
+					"name": "Code Club Scotland",
+					"id": 3236641407,
+					"id_str": "3236641407",
+					"indices": [
+						26,
+						39
+					]
+				},
+				{
+					"screen_name": "kirstymcfaul",
+					"name": "Kirsty McFaul",
+					"id": 2229944383,
+					"id_str": "2229944383",
+					"indices": [
+						40,
+						53
+					]
+				},
+				{
+					"screen_name": "bw_clark",
+					"name": "Brian Clark",
+					"id": 81107352,
+					"id_str": "81107352",
+					"indices": [
+						54,
+						63
+					]
+				},
+				{
+					"screen_name": "EducationScot",
+					"name": "Education Scotland",
+					"id": 314003959,
+					"id_str": "314003959",
+					"indices": [
+						64,
+						78
+					]
+				},
+				{
+					"screen_name": "LfSScotland",
+					"name": "Learning for Sustainability Scotland",
+					"id": 871831693,
+					"id_str": "871831693",
+					"indices": [
+						79,
+						91
+					]
+				},
+				{
+					"screen_name": "EdScotLfS",
+					"name": "EdScot LfS",
+					"id": 3421845749,
+					"id_str": "3421845749",
+					"indices": [
+						92,
+						102
+					]
+				},
+				{
+					"screen_name": "CodeClub",
+					"name": "Code Club UK",
+					"id": 103625781,
+					"id_str": "103625781",
+					"indices": [
+						103,
+						112
+					]
+				},
+				{
+					"screen_name": "ESskills",
+					"name": "EdScotSkills3-18",
+					"id": 3683751561,
+					"id_str": "3683751561",
+					"indices": [
+						113,
+						122
+					]
+				},
+				{
+					"screen_name": "GlowScot",
+					"name": "Glow Scot",
+					"id": 2912429973,
+					"id_str": "2912429973",
+					"indices": [
+						123,
+						132
+					]
+				},
+				{
+					"screen_name": "scratch",
+					"name": "Scratch Team",
+					"id": 15538226,
+					"id_str": "15538226",
+					"indices": [
+						133,
+						141
+					]
+				},
+				{
+					"screen_name": "DigiLearnScot",
+					"name": "Digital Learning and Teaching",
+					"id": 2965753499,
+					"id_str": "2965753499",
+					"indices": [
+						161,
+						175
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1446560634724880400,
+		"in_reply_to_status_id_str": "1446560634724880405",
+		"in_reply_to_user_id": 6896272,
+		"in_reply_to_user_id_str": "6896272",
+		"in_reply_to_screen_name": "olliebray",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3884,
+			"friends_count": 2678,
+			"listed_count": 261,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5991,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "791e00bcadc4615f",
+			"url": "https://api.twitter.com/1.1/geo/id/791e00bcadc4615f.json",
+			"place_type": "city",
+			"name": "Glasgow",
+			"full_name": "Glasgow, Scotland",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-4.3932845,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.796184
+						],
+						[
+							-4.0902182,
+							55.9204214
+						],
+						[
+							-4.3932845,
+							55.9204214
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@olliebray @DigiLearnScot @codeclubscot @kirstymcfaul @bw_clark @EducationScot @LfSScotland @EdScotLfS @CodeClub @ESskills @GlowScot @scratch That was me asking @DigiLearnScot"
+	},
+	{
+		"created_at": "Fri Oct 08 19:15:59 +0000 2021",
+		"id": 1446554987925016600,
+		"id_str": "1446554987925016583",
+		"full_text": "@DigiLearnScot @olliebray @codeclubscot @kirstymcfaul @bw_clark @EducationScot @LfSScotland @EdScotLfS @CodeClub @ESskills @GlowScot \" learners will need a laptop or computer with access to Scratch online\" does the scratch project relay on physical keyboard (eg. arrow keys) or will  work  on tablets? My Class use scratch on iPads which is fine if any controls are in the project rather than keyboard.",
+		"truncated": false,
+		"display_text_range": [
+			133,
+			402
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DigiLearnScot",
+					"name": "Digital Learning and Teaching",
+					"id": 2965753499,
+					"id_str": "2965753499",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "olliebray",
+					"name": "Ollie Bray",
+					"id": 6896272,
+					"id_str": "6896272",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "codeclubscot",
+					"name": "Code Club Scotland",
+					"id": 3236641407,
+					"id_str": "3236641407",
+					"indices": [
+						26,
+						39
+					]
+				},
+				{
+					"screen_name": "kirstymcfaul",
+					"name": "Kirsty McFaul",
+					"id": 2229944383,
+					"id_str": "2229944383",
+					"indices": [
+						40,
+						53
+					]
+				},
+				{
+					"screen_name": "bw_clark",
+					"name": "Brian Clark",
+					"id": 81107352,
+					"id_str": "81107352",
+					"indices": [
+						54,
+						63
+					]
+				},
+				{
+					"screen_name": "EducationScot",
+					"name": "Education Scotland",
+					"id": 314003959,
+					"id_str": "314003959",
+					"indices": [
+						64,
+						78
+					]
+				},
+				{
+					"screen_name": "LfSScotland",
+					"name": "Learning for Sustainability Scotland",
+					"id": 871831693,
+					"id_str": "871831693",
+					"indices": [
+						79,
+						91
+					]
+				},
+				{
+					"screen_name": "EdScotLfS",
+					"name": "EdScot LfS",
+					"id": 3421845749,
+					"id_str": "3421845749",
+					"indices": [
+						92,
+						102
+					]
+				},
+				{
+					"screen_name": "CodeClub",
+					"name": "Code Club UK",
+					"id": 103625781,
+					"id_str": "103625781",
+					"indices": [
+						103,
+						112
+					]
+				},
+				{
+					"screen_name": "ESskills",
+					"name": "EdScotSkills3-18",
+					"id": 3683751561,
+					"id_str": "3683751561",
+					"indices": [
+						113,
+						122
+					]
+				},
+				{
+					"screen_name": "GlowScot",
+					"name": "Glow Scot",
+					"id": 2912429973,
+					"id_str": "2912429973",
+					"indices": [
+						123,
+						132
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1446230482224619500,
+		"in_reply_to_status_id_str": "1446230482224619524",
+		"in_reply_to_user_id": 2965753499,
+		"in_reply_to_user_id_str": "2965753499",
+		"in_reply_to_screen_name": "DigiLearnScot",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3884,
+			"friends_count": 2678,
+			"listed_count": 261,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 5991,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DigiLearnScot @olliebray @codeclubscot @kirstymcfaul @bw_clark @EducationScot @LfSScotland @EdScotLfS @CodeClub @ESskills @GlowScot \" learners will need a laptop or computer with access to Scratch online\" does the scratch project relay on physical keyboard (eg. arrow keys) or will  work  on tablets? My Class use scratch on iPads which is fine if any controls are in the project rather than keyboard."
+	},
+	{
 		"created_at": "Tue Oct 05 11:50:38 +0000 2021",
 		"id": 1445355748003827700,
 		"id_str": "1445355748003827716",
