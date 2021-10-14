@@ -1,6 +1,138 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 13 11:30:44 +0000 2021",
+		"id": 1448216067113894000,
+		"id_str": "1448249842292113414",
+		"full_text": "Where are all the women? Asks our new #TVGenderGap report. Thanks to all who took part in our factual TV survey which reveals women are three times less likely to get director roles than men #WhereAreTheWomen https://t.co/PRGK4UZF5n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TVGenderGap",
+					"indices": [
+						38,
+						50
+					]
+				},
+				{
+					"text": "WhereAreTheWomen",
+					"indices": [
+						191,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PRGK4UZF5n",
+					"expanded_url": "https://bit.ly/3mIK19X",
+					"display_url": "bit.ly/3mIK19X",
+					"indices": [
+						209,
+						232
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1269594866318745600,
+			"id_str": "1269594866318745600",
+			"name": "We Are Doc Women",
+			"screen_name": "WeAreDocWomen",
+			"location": "",
+			"description": "Supporting TV's women directors.\n\nRead our #TvGenderGapReport: \nhttps://t.co/ySmUVBNNs2",
+			"url": "https://t.co/qrXk9M9BjD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qrXk9M9BjD",
+							"expanded_url": "http://www.wearedocwomen.co.uk",
+							"display_url": "wearedocwomen.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ySmUVBNNs2",
+							"expanded_url": "http://bit.ly/3mIK19X",
+							"display_url": "bit.ly/3mIK19X",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2054,
+			"friends_count": 1372,
+			"listed_count": 8,
+			"created_at": "Sun Jun 07 11:40:30 +0000 2020",
+			"favourites_count": 399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 53,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269606219007868931/otp4NOSo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269606219007868931/otp4NOSo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1269594866318745600/1591532687",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 106,
+		"favorite_count": 146,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Where are all the women? Asks our new #TVGenderGap report. Thanks to all who took part in our factual TV survey which reveals women are three times less likely to get director roles than men #WhereAreTheWomen https://t.co/PRGK4UZF5n"
+	},
+	{
 		"created_at": "Mon Oct 11 09:15:02 +0000 2021",
 		"id": 1447490918634901500,
 		"id_str": "1447490918634901504",
