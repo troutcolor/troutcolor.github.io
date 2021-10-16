@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 15 21:14:50 +0000 2021",
+		"id": 1448686889158983700,
+		"id_str": "1449121611844661258",
+		"full_text": "students are starting to steal each other's notes with iOS 15 and it's... kind of genius https://t.co/klE992DuBn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448686859773694000,
+					"id_str": "1448686859773693954",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448686859773693954/pu/img/_AhwKp2rgD4wJEyM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448686859773693954/pu/img/_AhwKp2rgD4wJEyM.jpg",
+					"url": "https://t.co/klE992DuBn",
+					"display_url": "pic.twitter.com/klE992DuBn",
+					"expanded_url": "https://twitter.com/juanbuis/status/1448686889158983681/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 296,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 296,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 296,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448686859773694000,
+					"id_str": "1448686859773693954",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448686859773693954/pu/img/_AhwKp2rgD4wJEyM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448686859773693954/pu/img/_AhwKp2rgD4wJEyM.jpg",
+					"url": "https://t.co/klE992DuBn",
+					"display_url": "pic.twitter.com/klE992DuBn",
+					"expanded_url": "https://twitter.com/juanbuis/status/1448686889158983681/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 296,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 296,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 296,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							37,
+							80
+						],
+						"duration_millis": 14569,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448686859773693954/pu/vid/296x640/7xJHJY1EIxxIbGqb.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1448686859773693954/pu/pl/3ds7yqozVY0Vwq6j.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36672594,
+			"id_str": "36672594",
+			"name": "juan",
+			"screen_name": "juanbuis",
+			"location": "paris, france",
+			"description": "design with words for @minecraft + @spotify + others + building something new :) he / him",
+			"url": "https://t.co/ISE3Si5MU3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ISE3Si5MU3",
+							"expanded_url": "http://instagram.com/juanbuis",
+							"display_url": "instagram.com/juanbuis",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14576,
+			"friends_count": 899,
+			"listed_count": 230,
+			"created_at": "Thu Apr 30 14:21:17 +0000 2009",
+			"favourites_count": 22594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1360732711485382667/d01MGYEm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1360732711485382667/d01MGYEm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36672594/1588583488",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "070069",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17329,
+		"favorite_count": 95508,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "students are starting to steal each other's notes with iOS 15 and it's... kind of genius https://t.co/klE992DuBn"
+	},
+	{
 		"created_at": "Thu Oct 14 17:49:00 +0000 2021",
 		"id": 1448707425318625300,
 		"id_str": "1448707425318625287",
