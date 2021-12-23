@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 22 20:52:01 +0000 2021",
+		"id": 1473563695464734700,
+		"id_str": "1473758244090916870",
+		"full_text": "https://t.co/YER16U87WW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1473563613252268000,
+					"id_str": "1473563613252268032",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FHMmTInXsAAYjfz.png",
+					"media_url_https": "https://pbs.twimg.com/media/FHMmTInXsAAYjfz.png",
+					"url": "https://t.co/YER16U87WW",
+					"display_url": "pic.twitter.com/YER16U87WW",
+					"expanded_url": "https://twitter.com/MichaelRosenYes/status/1473563695464734721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 397,
+							"h": 548,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 397,
+							"h": 548,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 397,
+							"h": 548,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1473563613252268000,
+					"id_str": "1473563613252268032",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FHMmTInXsAAYjfz.png",
+					"media_url_https": "https://pbs.twimg.com/media/FHMmTInXsAAYjfz.png",
+					"url": "https://t.co/YER16U87WW",
+					"display_url": "pic.twitter.com/YER16U87WW",
+					"expanded_url": "https://twitter.com/MichaelRosenYes/status/1473563695464734721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 397,
+							"h": 548,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 397,
+							"h": 548,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 397,
+							"h": 548,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1473563652947075000,
+					"id_str": "1473563652947075072",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FHMmVcfWYAAQhYh.png",
+					"media_url_https": "https://pbs.twimg.com/media/FHMmVcfWYAAQhYh.png",
+					"url": "https://t.co/YER16U87WW",
+					"display_url": "pic.twitter.com/YER16U87WW",
+					"expanded_url": "https://twitter.com/MichaelRosenYes/status/1473563695464734721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 420,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91870534,
+			"id_str": "91870534",
+			"name": "Michael Rosen 💙💙🎓🎓",
+			"screen_name": "MichaelRosenYes",
+			"location": "London, UK",
+			"description": "'Many Different Kinds of Love' available here: https://t.co/sXy76wodXa",
+			"url": "https://t.co/2VA5E39LcJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2VA5E39LcJ",
+							"expanded_url": "http://www.michaelrosen.co.uk",
+							"display_url": "michaelrosen.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/sXy76wodXa",
+							"expanded_url": "https://uk.bookshop.org/books/many-different-kinds-of-love-a-story-of-life-death-and-the-nhs/9781529109450?aid=4",
+							"display_url": "uk.bookshop.org/books/many-dif…",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 260853,
+			"friends_count": 3469,
+			"listed_count": 1533,
+			"created_at": "Sun Nov 22 21:19:33 +0000 2009",
+			"favourites_count": 96007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 332270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1362075053081456642/BRXx0I54_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1362075053081456642/BRXx0I54_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91870534/1610960556",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 189,
+		"favorite_count": 466,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/YER16U87WW"
+	},
+	{
 		"created_at": "Tue Dec 21 19:58:29 +0000 2021",
 		"id": 1473382383575519200,
 		"id_str": "1473382383575519232",
