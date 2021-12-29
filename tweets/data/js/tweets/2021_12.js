@@ -1,6 +1,121 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 28 23:15:46 +0000 2021",
+		"id": 1466822011859214300,
+		"id_str": "1475968747663986691",
+		"full_text": "The GIF It Up winners have been announced: https://t.co/aiAwgPUJuE Someday someone from #ds106 will be on the list, but now is not the time.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ds106",
+					"indices": [
+						88,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aiAwgPUJuE",
+					"expanded_url": "https://gifitup.net/",
+					"display_url": "gifitup.net",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52256628,
+			"id_str": "52256628",
+			"name": "paul bond",
+			"screen_name": "phb256",
+			"location": "Bingo",
+			"description": "Associate Librarian at SUNY Broome Community College",
+			"url": "https://t.co/IL0Lf8X3hF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IL0Lf8X3hF",
+							"expanded_url": "http://paulbond.info",
+							"display_url": "paulbond.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 574,
+			"friends_count": 678,
+			"listed_count": 32,
+			"created_at": "Tue Jun 30 01:19:32 +0000 2009",
+			"favourites_count": 2389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250556950271705090/IRdCYt2h_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250556950271705090/IRdCYt2h_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52256628/1384208530",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The GIF It Up winners have been announced: https://t.co/aiAwgPUJuE Someday someone from #ds106 will be on the list, but now is not the time."
+	},
+	{
 		"created_at": "Mon Dec 27 16:03:40 +0000 2021",
 		"id": 1475497618457305000,
 		"id_str": "1475497618457305090",
