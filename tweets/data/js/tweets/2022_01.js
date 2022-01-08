@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 07 14:10:45 +0000 2022",
+		"id": 1479140756740841500,
+		"id_str": "1479455470482042882",
+		"full_text": "Thank you @theskinnymag @Tallah for such incredibly lovely words about my  new album out 28 Jan 🗨️\"...full of so much delicate and heartfelt emotion, it's hard not to get lost in\" ♥️ pick up a copy to read more. https://t.co/7DFGWHMjom",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theskinnymag",
+					"name": "The Skinny",
+					"id": 19530584,
+					"id_str": "19530584",
+					"indices": [
+						10,
+						23
+					]
+				},
+				{
+					"screen_name": "Tallah",
+					"name": "Tallah Brash",
+					"id": 6792022,
+					"id_str": "6792022",
+					"indices": [
+						24,
+						31
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1479140753871941600,
+					"id_str": "1479140753871941634",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FIb2rcdXMAI_WfN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIb2rcdXMAI_WfN.jpg",
+					"url": "https://t.co/7DFGWHMjom",
+					"display_url": "pic.twitter.com/7DFGWHMjom",
+					"expanded_url": "https://twitter.com/MTImmonsMusic/status/1479140756740841479/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479140753871941600,
+					"id_str": "1479140753871941634",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FIb2rcdXMAI_WfN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIb2rcdXMAI_WfN.jpg",
+					"url": "https://t.co/7DFGWHMjom",
+					"display_url": "pic.twitter.com/7DFGWHMjom",
+					"expanded_url": "https://twitter.com/MTImmonsMusic/status/1479140756740841479/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1244438078,
+			"id_str": "1244438078",
+			"name": "Michael Timmons",
+			"screen_name": "MTImmonsMusic",
+			"location": "",
+			"description": "Solo musician with sad songs from Scotland + Head of Communities at @playlistforlife .\nViews my own",
+			"url": "https://t.co/nyM8vWFtpa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nyM8vWFtpa",
+							"expanded_url": "https://michaeltimmonsmusic.com/",
+							"display_url": "michaeltimmonsmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 850,
+			"friends_count": 534,
+			"listed_count": 15,
+			"created_at": "Tue Mar 05 19:16:35 +0000 2013",
+			"favourites_count": 7548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4014,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453060058863001605/Sc6eImQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453060058863001605/Sc6eImQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1244438078/1638524183",
+			"profile_link_color": "141414",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you @theskinnymag @Tallah for such incredibly lovely words about my  new album out 28 Jan 🗨️\"...full of so much delicate and heartfelt emotion, it's hard not to get lost in\" ♥️ pick up a copy to read more. https://t.co/7DFGWHMjom"
+	},
+	{
 		"created_at": "Thu Jan 06 21:57:54 +0000 2022",
 		"id": 1479210644104749000,
 		"id_str": "1479210644104749059",
