@@ -1,6 +1,144 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 18 18:53:18 +0000 2022",
+		"id": 1483495113942868000,
+		"id_str": "1483512843748139012",
+		"full_text": "Tune into @BBCRadioScot @BBCRoddyHart @roddyhart tonight from 10pm, to hear my new single 'Mercury Sills' before it's out tomorrow 📻🎧 https://t.co/ps33e8Us82",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBCRadioScot",
+					"name": "BBC Radio Scotland",
+					"id": 301491152,
+					"id_str": "301491152",
+					"indices": [
+						10,
+						23
+					]
+				},
+				{
+					"screen_name": "BBCRoddyHart",
+					"name": "The Roddy Hart Show",
+					"id": 546061494,
+					"id_str": "546061494",
+					"indices": [
+						24,
+						37
+					]
+				},
+				{
+					"screen_name": "roddyhart",
+					"name": "Roddy Hart",
+					"id": 64816008,
+					"id_str": "64816008",
+					"indices": [
+						38,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ps33e8Us82",
+					"expanded_url": "https://www.bbc.co.uk/programmes/m0013hjd",
+					"display_url": "bbc.co.uk/programmes/m00…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1244438078,
+			"id_str": "1244438078",
+			"name": "Michael Timmons",
+			"screen_name": "MTImmonsMusic",
+			"location": "",
+			"description": "Solo musician with sad songs from Scotland + Head of Communities at @playlistforlife .\nViews my own",
+			"url": "https://t.co/nyM8vWFtpa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nyM8vWFtpa",
+							"expanded_url": "https://michaeltimmonsmusic.com/",
+							"display_url": "michaeltimmonsmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 855,
+			"friends_count": 534,
+			"listed_count": 15,
+			"created_at": "Tue Mar 05 19:16:35 +0000 2013",
+			"favourites_count": 7566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453060058863001605/Sc6eImQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453060058863001605/Sc6eImQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1244438078/1638524183",
+			"profile_link_color": "141414",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tune into @BBCRadioScot @BBCRoddyHart @roddyhart tonight from 10pm, to hear my new single 'Mercury Sills' before it's out tomorrow 📻🎧 https://t.co/ps33e8Us82"
+	},
+	{
 		"created_at": "Sun Jan 16 22:37:19 +0000 2022",
 		"id": 1482844442784841700,
 		"id_str": "1482844442784841728",
