@@ -1,6 +1,405 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 23 12:32:42 +0000 2022",
+		"id": 1496407329243373600,
+		"id_str": "1496463023912927237",
+		"full_text": "Twitter followers can you  please retweet and share across your networks? DM or email for more information or to take part. @ScottDuncanRME @greenaway_rob @Clovenstone @johnjohnston @Elie_PS @BalwearieHigh @CanmorePS @MrKMcKenzie @MrJudeMoir @jenmouat_author @SaxonAlison https://t.co/ik4jWOPWJ5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ScottDuncanRME",
+					"name": "Scott Duncan",
+					"id": 91346874,
+					"id_str": "91346874",
+					"indices": [
+						124,
+						139
+					]
+				},
+				{
+					"screen_name": "greenaway_rob",
+					"name": "Rob Greenaway (LHS)",
+					"id": 825262377251782700,
+					"id_str": "825262377251782656",
+					"indices": [
+						140,
+						154
+					]
+				},
+				{
+					"screen_name": "Clovenstone",
+					"name": "Clovenstone Primary School",
+					"id": 1359194348,
+					"id_str": "1359194348",
+					"indices": [
+						155,
+						167
+					]
+				},
+				{
+					"screen_name": "johnjohnston",
+					"name": "john johnston",
+					"id": 7484192,
+					"id_str": "7484192",
+					"indices": [
+						168,
+						181
+					]
+				},
+				{
+					"screen_name": "Elie_PS",
+					"name": "Elie Primary School",
+					"id": 820986864396075000,
+					"id_str": "820986864396075013",
+					"indices": [
+						182,
+						190
+					]
+				},
+				{
+					"screen_name": "BalwearieHigh",
+					"name": "Balwearie High",
+					"id": 798184692,
+					"id_str": "798184692",
+					"indices": [
+						191,
+						205
+					]
+				},
+				{
+					"screen_name": "CanmorePS",
+					"name": "Canmore Primary School",
+					"id": 1135860886948765700,
+					"id_str": "1135860886948765701",
+					"indices": [
+						206,
+						216
+					]
+				},
+				{
+					"screen_name": "MrKMcKenzie",
+					"name": "Kevin McKenzie",
+					"id": 2989522359,
+					"id_str": "2989522359",
+					"indices": [
+						217,
+						229
+					]
+				},
+				{
+					"screen_name": "MrJudeMoir",
+					"name": "Jude Moir",
+					"id": 1068360362,
+					"id_str": "1068360362",
+					"indices": [
+						230,
+						241
+					]
+				},
+				{
+					"screen_name": "jenmouat_author",
+					"name": "Jen Mouat",
+					"id": 825447666544943100,
+					"id_str": "825447666544943105",
+					"indices": [
+						242,
+						258
+					]
+				},
+				{
+					"screen_name": "SaxonAlison",
+					"name": "Alison Saxon",
+					"id": 3126005344,
+					"id_str": "3126005344",
+					"indices": [
+						259,
+						271
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ik4jWOPWJ5",
+					"expanded_url": "https://twitter.com/rosemarygrady21/status/1496262040431833089",
+					"display_url": "twitter.com/rosemarygrady2…",
+					"indices": [
+						272,
+						295
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1025328085976133600,
+			"id_str": "1025328085976133633",
+			"name": "Rosemary Grady",
+			"screen_name": "rosemarygrady21",
+			"location": "Edinburgh, Scotland",
+			"description": "Lecturer in Educational Leadership & Learning, Moray House, University of Edinburgh, former headteacher, #StrathEdD student, co-chair@ScotPLNetwork",
+			"url": "https://t.co/uNwchxNYdK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uNwchxNYdK",
+							"expanded_url": "https://www.ed.ac.uk/profile/rosemary-grady",
+							"display_url": "ed.ac.uk/profile/rosema…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 870,
+			"friends_count": 1294,
+			"listed_count": 4,
+			"created_at": "Fri Aug 03 10:30:40 +0000 2018",
+			"favourites_count": 3208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 674,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197552165138640898/nU_pmymT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197552165138640898/nU_pmymT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1025328085976133633/1560419027",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1496262040431833000,
+		"quoted_status_id_str": "1496262040431833089",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ik4jWOPWJ5",
+			"expanded": "https://twitter.com/rosemarygrady21/status/1496262040431833089",
+			"display": "twitter.com/rosemarygrady2…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 22 23:14:04 +0000 2022",
+			"id": 1496262040431833000,
+			"id_str": "1496262040431833089",
+			"full_text": "Are you a permanent HT in Scotland appointed in the last 6-18 months &amp; a former Into Headship C4,5 or 6 participant from any Scottish HEI? Would you like to be involved in a study which explores the influences on headteachers’ leadership development including Into Headship? https://t.co/h5bXZrOhyg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1496261115277459500,
+						"id_str": "1496261115277459466",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FMPJjotXwAol6Ex.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMPJjotXwAol6Ex.jpg",
+						"url": "https://t.co/h5bXZrOhyg",
+						"display_url": "pic.twitter.com/h5bXZrOhyg",
+						"expanded_url": "https://twitter.com/rosemarygrady21/status/1496262040431833089/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 606,
+								"h": 810,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 509,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 606,
+								"h": 810,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1496261115277459500,
+						"id_str": "1496261115277459466",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FMPJjotXwAol6Ex.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMPJjotXwAol6Ex.jpg",
+						"url": "https://t.co/h5bXZrOhyg",
+						"display_url": "pic.twitter.com/h5bXZrOhyg",
+						"expanded_url": "https://twitter.com/rosemarygrady21/status/1496262040431833089/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 606,
+								"h": 810,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 509,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 606,
+								"h": 810,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1025328085976133600,
+				"id_str": "1025328085976133633",
+				"name": "Rosemary Grady",
+				"screen_name": "rosemarygrady21",
+				"location": "Edinburgh, Scotland",
+				"description": "Lecturer in Educational Leadership & Learning, Moray House, University of Edinburgh, former headteacher, #StrathEdD student, co-chair@ScotPLNetwork",
+				"url": "https://t.co/uNwchxNYdK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uNwchxNYdK",
+								"expanded_url": "https://www.ed.ac.uk/profile/rosemary-grady",
+								"display_url": "ed.ac.uk/profile/rosema…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 870,
+				"friends_count": 1294,
+				"listed_count": 4,
+				"created_at": "Fri Aug 03 10:30:40 +0000 2018",
+				"favourites_count": 3208,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 674,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1197552165138640898/nU_pmymT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197552165138640898/nU_pmymT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1025328085976133633/1560419027",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 46,
+			"favorite_count": 38,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Twitter followers can you  please retweet and share across your networks? DM or email for more information or to take part. @ScottDuncanRME @greenaway_rob @Clovenstone @johnjohnston @Elie_PS @BalwearieHigh @CanmorePS @MrKMcKenzie @MrJudeMoir @jenmouat_author @SaxonAlison https://t.co/ik4jWOPWJ5"
+	},
+	{
 		"created_at": "Sun Feb 20 16:28:39 +0000 2022",
 		"id": 1495435237723099100,
 		"id_str": "1495435237723099144",
