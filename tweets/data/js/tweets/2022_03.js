@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sun Mar 27 06:50:07 +0000 2022",
+		"id": 1507973222746239000,
+		"id_str": "1507973222746238982",
+		"full_text": "Interesting &amp; scary thread for those at BETT and other education events. Linked abstracts worth a peek. https://t.co/yw5gNTp7cc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yw5gNTp7cc",
+					"expanded_url": "https://twitter.com/BenPatrickWill/status/1507824262018699269",
+					"display_url": "twitter.com/BenPatrickWill…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3883,
+			"friends_count": 2687,
+			"listed_count": 260,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 6157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1507824262018699300,
+		"quoted_status_id_str": "1507824262018699269",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yw5gNTp7cc",
+			"expanded": "https://twitter.com/BenPatrickWill/status/1507824262018699269",
+			"display": "twitter.com/BenPatrickWill…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 26 20:58:12 +0000 2022",
+			"id": 1507824262018699300,
+			"id_str": "1507824262018699269",
+			"full_text": "Something about this \"Education AI\" cuddly cuboid mascot, apparently greeting visitors to the big UK edtech show BETT this weekend, really freaks me out. It's like a fuzzy friendly black box disguising exactly what AI in education entails. https://t.co/ieaZfofye2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				239
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1507824258952671200,
+						"id_str": "1507824258952671232",
+						"indices": [
+							240,
+							263
+						],
+						"media_url": "http://pbs.twimg.com/media/FOzeLLqXMAAsPFS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FOzeLLqXMAAsPFS.jpg",
+						"url": "https://t.co/ieaZfofye2",
+						"display_url": "pic.twitter.com/ieaZfofye2",
+						"expanded_url": "https://twitter.com/BenPatrickWill/status/1507824262018699269/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 368,
+								"h": 655,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 368,
+								"h": 655,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 368,
+								"h": 655,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1507824258952671200,
+						"id_str": "1507824258952671232",
+						"indices": [
+							240,
+							263
+						],
+						"media_url": "http://pbs.twimg.com/media/FOzeLLqXMAAsPFS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FOzeLLqXMAAsPFS.jpg",
+						"url": "https://t.co/ieaZfofye2",
+						"display_url": "pic.twitter.com/ieaZfofye2",
+						"expanded_url": "https://twitter.com/BenPatrickWill/status/1507824262018699269/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 368,
+								"h": 655,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 368,
+								"h": 655,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 368,
+								"h": 655,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1884520938,
+				"id_str": "1884520938",
+				"name": "Ben Williamson",
+				"screen_name": "BenPatrickWill",
+				"location": "Edinburgh, Scotland",
+				"description": "Digital tech, education, policy | Current project on data-intensive biology in education | University of Edinburgh | Co-editor Learning, Media & Technology",
+				"url": "https://t.co/HHtxJ12brN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HHtxJ12brN",
+								"expanded_url": "http://codeactsineducation.wordpress.com/",
+								"display_url": "codeactsineducation.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7963,
+				"friends_count": 2290,
+				"listed_count": 397,
+				"created_at": "Thu Sep 19 22:15:34 +0000 2013",
+				"favourites_count": 11362,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12888,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1357422758527918084/0Q5mlrxH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357422758527918084/0Q5mlrxH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1884520938/1473621450",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 52,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interesting &amp; scary thread for those at BETT and other education events. Linked abstracts worth a peek. https://t.co/yw5gNTp7cc"
+	},
+	{
 		"created_at": "Sat Mar 26 17:04:55 +0000 2022",
 		"id": 1507765551858344000,
 		"id_str": "1507765551858343941",
