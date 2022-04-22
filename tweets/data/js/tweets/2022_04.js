@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 21 16:41:21 +0000 2022",
+		"id": 1517152425597096000,
+		"id_str": "1517181707694350336",
+		"full_text": "In this week's Spotlight, enjoy an exclusive first watch of the music video for Cardiac Arrest, the latest single from @MTImmonsMusic\n\nhttps://t.co/Pca2C3jo65 @gargleblastuk @Tallah https://t.co/uJDQLXRaVG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MTImmonsMusic",
+					"name": "Michael Timmons",
+					"id": 1244438078,
+					"id_str": "1244438078",
+					"indices": [
+						119,
+						133
+					]
+				},
+				{
+					"screen_name": "gargleblastuk",
+					"name": "Gargleblast Records",
+					"id": 188410967,
+					"id_str": "188410967",
+					"indices": [
+						159,
+						173
+					]
+				},
+				{
+					"screen_name": "Tallah",
+					"name": "Tallah Brash",
+					"id": 6792022,
+					"id_str": "6792022",
+					"indices": [
+						174,
+						181
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Pca2C3jo65",
+					"expanded_url": "https://www.theskinny.co.uk/music/interviews/spotlight-on-michael-timmons",
+					"display_url": "theskinny.co.uk/music/intervie…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1517096239095070700,
+					"id_str": "1517096239095070725",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ3O_dVXwAUjsKm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ3O_dVXwAUjsKm.jpg",
+					"url": "https://t.co/uJDQLXRaVG",
+					"display_url": "pic.twitter.com/uJDQLXRaVG",
+					"expanded_url": "https://twitter.com/theskinnymag/status/1517152425597095936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 961,
+							"h": 408,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 408,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 289,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517096239095070700,
+					"id_str": "1517096239095070725",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ3O_dVXwAUjsKm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ3O_dVXwAUjsKm.jpg",
+					"url": "https://t.co/uJDQLXRaVG",
+					"display_url": "pic.twitter.com/uJDQLXRaVG",
+					"expanded_url": "https://twitter.com/theskinnymag/status/1517152425597095936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 961,
+							"h": 408,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 408,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 289,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19530584,
+			"id_str": "19530584",
+			"name": "The Skinny",
+			"screen_name": "theskinnymag",
+			"location": "Scotland",
+			"description": "Independent Cultural Journalism – arts, culture and events in Edinburgh, Glasgow, Dundee + beyond. APRIL ISSUE OUT NOW. Account monitored M-Fri",
+			"url": "https://t.co/Ciri7desVO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ciri7desVO",
+							"expanded_url": "https://www.theskinny.co.uk/things-to-do/scotland/get-the-skinny-new-issue",
+							"display_url": "theskinny.co.uk/things-to-do/s…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53507,
+			"friends_count": 3109,
+			"listed_count": 929,
+			"created_at": "Mon Jan 26 12:01:39 +0000 2009",
+			"favourites_count": 14952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 38261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509181477891850243/FyhbX3RT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509181477891850243/FyhbX3RT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19530584/1648651922",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In this week's Spotlight, enjoy an exclusive first watch of the music video for Cardiac Arrest, the latest single from @MTImmonsMusic\n\nhttps://t.co/Pca2C3jo65 @gargleblastuk @Tallah https://t.co/uJDQLXRaVG"
+	},
+	{
 		"created_at": "Wed Apr 20 11:17:05 +0000 2022",
 		"id": 1516737713331970000,
 		"id_str": "1516737713331970057",
