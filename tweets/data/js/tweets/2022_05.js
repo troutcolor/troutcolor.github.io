@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 17 14:03:37 +0000 2022",
+		"id": 1526530844608942000,
+		"id_str": "1526564097629818880",
+		"full_text": "✨ Live Discussion: Into the Eduverse - Challenges and Opportunities ✨\n\nJoin @StephenReidEdu and @IanStuart66 for a discussion on the challenges and opportunities of the eduverse - the metaverse for education! \n\nJoin the conversation: https://t.co/0TtqW0YHxc https://t.co/H1gaWgpedR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StephenReidEdu",
+					"name": "Stephen Reid",
+					"id": 247002412,
+					"id_str": "247002412",
+					"indices": [
+						76,
+						91
+					]
+				},
+				{
+					"screen_name": "IanStuart66",
+					"name": "Ian Stuart",
+					"id": 2228692152,
+					"id_str": "2228692152",
+					"indices": [
+						96,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0TtqW0YHxc",
+					"expanded_url": "https://bit.ly/3NkVHv8",
+					"display_url": "bit.ly/3NkVHv8",
+					"indices": [
+						234,
+						257
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1526529429161255000,
+					"id_str": "1526529429161254915",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/FS9SbYxWIAMUCfx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS9SbYxWIAMUCfx.jpg",
+					"url": "https://t.co/H1gaWgpedR",
+					"display_url": "pic.twitter.com/H1gaWgpedR",
+					"expanded_url": "https://twitter.com/ClassVR/status/1526530844608942082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526529429161255000,
+					"id_str": "1526529429161254915",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/FS9SbYxWIAMUCfx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS9SbYxWIAMUCfx.jpg",
+					"url": "https://t.co/H1gaWgpedR",
+					"display_url": "pic.twitter.com/H1gaWgpedR",
+					"expanded_url": "https://twitter.com/ClassVR/status/1526530844608942082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 801006263308001300,
+			"id_str": "801006263308001280",
+			"name": "ClassVR from Avantis",
+			"screen_name": "ClassVR",
+			"location": "United Kingdom",
+			"description": "The world’s first virtual reality set designed specifically for schools, ClassVR provides teachers with everything they need to deliver engaging VR lessons.",
+			"url": "https://t.co/jUxhQEJMOy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jUxhQEJMOy",
+							"expanded_url": "http://www.classvr.com",
+							"display_url": "classvr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3959,
+			"friends_count": 3005,
+			"listed_count": 51,
+			"created_at": "Tue Nov 22 10:15:49 +0000 2016",
+			"favourites_count": 9038,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1514261005903310856/i_q_CBGQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1514261005903310856/i_q_CBGQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/801006263308001280/1613398307",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✨ Live Discussion: Into the Eduverse - Challenges and Opportunities ✨\n\nJoin @StephenReidEdu and @IanStuart66 for a discussion on the challenges and opportunities of the eduverse - the metaverse for education! \n\nJoin the conversation: https://t.co/0TtqW0YHxc https://t.co/H1gaWgpedR"
+	},
+	{
 		"created_at": "Mon May 16 20:14:35 +0000 2022",
 		"id": 1526295066335187000,
 		"id_str": "1526295066335186945",
