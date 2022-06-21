@@ -1,6 +1,369 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 20 19:45:07 +0000 2022",
+		"id": 1538971226730901500,
+		"id_str": "1538971226730901507",
+		"full_text": "Was pleasantly surprised by these guys today. Came up with the idea and carried it out. Lots of problem solving, both physical and digital. https://t.co/ZGyC2Q9hGF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZGyC2Q9hGF",
+					"expanded_url": "https://twitter.com/Banton_Pr/status/1538846335671144448",
+					"display_url": "twitter.com/Banton_Pr/stat…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3890,
+			"friends_count": 2696,
+			"listed_count": 258,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 6217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1538846335671144400,
+		"quoted_status_id_str": "1538846335671144448",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZGyC2Q9hGF",
+			"expanded": "https://twitter.com/Banton_Pr/status/1538846335671144448",
+			"display": "twitter.com/Banton_Pr/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 20 11:28:51 +0000 2022",
+			"id": 1538846335671144400,
+			"id_str": "1538846335671144448",
+			"full_text": "A group of The Biggies decided to make a #microbit controlled boat on their project morning. Lots of problem solving (adjusting as one mote stronger!) one microbit controls the one that controls the moters  @NLDigitalSchool @DigiLearnScot @microbit_edu https://t.co/8ALXSpvIUu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				252
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "microbit",
+						"indices": [
+							41,
+							50
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NLDigitalSchool",
+						"name": "Digital Learning and Teaching NL",
+						"id": 1132668651226763300,
+						"id_str": "1132668651226763270",
+						"indices": [
+							207,
+							223
+						]
+					},
+					{
+						"screen_name": "DigiLearnScot",
+						"name": "Digital Learning and Teaching",
+						"id": 2965753499,
+						"id_str": "2965753499",
+						"indices": [
+							224,
+							238
+						]
+					},
+					{
+						"screen_name": "microbit_edu",
+						"name": "Micro:bit Educational Foundation",
+						"id": 763102211639537700,
+						"id_str": "763102211639537665",
+						"indices": [
+							239,
+							252
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1538846189977841700,
+						"id_str": "1538846189977841669",
+						"indices": [
+							253,
+							276
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1538846189977841669/pu/img/2qXFA8GGohG8-cLN.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1538846189977841669/pu/img/2qXFA8GGohG8-cLN.jpg",
+						"url": "https://t.co/8ALXSpvIUu",
+						"display_url": "pic.twitter.com/8ALXSpvIUu",
+						"expanded_url": "https://twitter.com/Banton_Pr/status/1538846335671144448/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 404,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 404,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1538846189977841700,
+						"id_str": "1538846189977841669",
+						"indices": [
+							253,
+							276
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1538846189977841669/pu/img/2qXFA8GGohG8-cLN.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1538846189977841669/pu/img/2qXFA8GGohG8-cLN.jpg",
+						"url": "https://t.co/8ALXSpvIUu",
+						"display_url": "pic.twitter.com/8ALXSpvIUu",
+						"expanded_url": "https://twitter.com/Banton_Pr/status/1538846335671144448/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 404,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 404,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								180,
+								101
+							],
+							"duration_millis": 42236,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1538846189977841669/pu/vid/720x404/QtpyajA_rv35yWCt.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1538846189977841669/pu/pl/9JeM_K9R7aaRyPmF.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1538846189977841669/pu/vid/480x270/4AbgVwbaaFKZvSEM.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 702565959354163200,
+				"id_str": "702565959354163200",
+				"name": "Banton Primary",
+				"screen_name": "Banton_Pr",
+				"location": "Banton, Scotland",
+				"description": "A Small Primary School in North Lanarkshire",
+				"url": "https://t.co/WNBQyt3iF5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WNBQyt3iF5",
+								"expanded_url": "https://blogs.glowscotland.org.uk/nl/banton/",
+								"display_url": "blogs.glowscotland.org.uk/nl/banton/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 469,
+				"friends_count": 87,
+				"listed_count": 9,
+				"created_at": "Wed Feb 24 18:49:12 +0000 2016",
+				"favourites_count": 778,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1560,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/702578403564773376/V51uWMrV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/702578403564773376/V51uWMrV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/702565959354163200/1456342883",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Was pleasantly surprised by these guys today. Came up with the idea and carried it out. Lots of problem solving, both physical and digital. https://t.co/ZGyC2Q9hGF"
+	},
+	{
 		"created_at": "Sun Jun 19 19:38:51 +0000 2022",
 		"id": 1538607258761937000,
 		"id_str": "1538607258761936898",
