@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 15 19:47:23 +0000 2022",
+		"id": 1547625834889875500,
+		"id_str": "1548031492625821696",
+		"full_text": "Here’s a poem in the form of a rather late CV for the Tory Party leadership contest. https://t.co/vpGFvj1XZB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547625828569165800,
+					"id_str": "1547625828569165829",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FXpFfc0VsAUUInK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXpFfc0VsAUUInK.jpg",
+					"url": "https://t.co/vpGFvj1XZB",
+					"display_url": "pic.twitter.com/vpGFvj1XZB",
+					"expanded_url": "https://twitter.com/brian_bilston/status/1547625834889875458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 526,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 728,
+							"h": 941,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 728,
+							"h": 941,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547625828569165800,
+					"id_str": "1547625828569165829",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FXpFfc0VsAUUInK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXpFfc0VsAUUInK.jpg",
+					"url": "https://t.co/vpGFvj1XZB",
+					"display_url": "pic.twitter.com/vpGFvj1XZB",
+					"expanded_url": "https://twitter.com/brian_bilston/status/1547625834889875458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 526,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 728,
+							"h": 941,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 728,
+							"h": 941,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1663413990,
+			"id_str": "1663413990",
+			"name": "Brian Bilston",
+			"screen_name": "brian_bilston",
+			"location": "I live locally.",
+			"description": "Ceci n'est pas un poème.   Represented by @jounwin",
+			"url": "https://t.co/F17JLMM2IA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F17JLMM2IA",
+							"expanded_url": "https://uk.bookshop.org/shop/brianbilston",
+							"display_url": "uk.bookshop.org/shop/brianbils…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 118222,
+			"friends_count": 1165,
+			"listed_count": 651,
+			"created_at": "Sun Aug 11 20:57:54 +0000 2013",
+			"favourites_count": 58370,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121413206394716160/0CNazc_H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121413206394716160/0CNazc_H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1663413990/1610982343",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 470,
+		"favorite_count": 1657,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here’s a poem in the form of a rather late CV for the Tory Party leadership contest. https://t.co/vpGFvj1XZB"
+	},
+	{
+		"created_at": "Fri Jul 15 19:29:21 +0000 2022",
+		"id": 1548026953617133600,
+		"id_str": "1548026953617133571",
+		"full_text": "Reversing Gif: https://t.co/gSxELZPpxN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gSxELZPpxN",
+					"expanded_url": "https://wp.me/p57zFQ-4mj",
+					"display_url": "wp.me/p57zFQ-4mj",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Primary Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, iOS, walks, fauna, flora, open, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/QAJpOIj9ta",
+			"url": "https://t.co/p7vNWSMAoH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7vNWSMAoH",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAJpOIj9ta",
+							"expanded_url": "http://johnjohnston.info",
+							"display_url": "johnjohnston.info",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3900,
+			"friends_count": 2701,
+			"listed_count": 258,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 6242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19530,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Reversing Gif: https://t.co/gSxELZPpxN"
+	},
+	{
+		"created_at": "Fri Jul 15 18:36:51 +0000 2022",
+		"id": 1547323863062794200,
+		"id_str": "1548013743048577027",
+		"full_text": "I think one of the awesome things about podcasts was that there was no walled garden. In a weird way, I think Apple's best contribution to podcasting for a long time was just leaving it alone. The Spotify walled garden and all its clones are disappointing.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1547323861238177800,
+		"in_reply_to_status_id_str": "1547323861238177798",
+		"in_reply_to_user_id": 28769753,
+		"in_reply_to_user_id_str": "28769753",
+		"in_reply_to_screen_name": "acookiecrumbles",
+		"user": {
+			"id": 28769753,
+			"id_str": "28769753",
+			"name": "Priyanjana Bengani",
+			"screen_name": "acookiecrumbles",
+			"location": "",
+			"description": "Senior Research Fellow, Tow Center",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1016,
+			"friends_count": 1154,
+			"listed_count": 44,
+			"created_at": "Sat Apr 04 09:48:36 +0000 2009",
+			"favourites_count": 5551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/583682431095443457/sDvIc9wM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/583682431095443457/sDvIc9wM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28769753/1470540899",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I think one of the awesome things about podcasts was that there was no walled garden. In a weird way, I think Apple's best contribution to podcasting for a long time was just leaving it alone. The Spotify walled garden and all its clones are disappointing."
+	},
+	{
 		"created_at": "Thu Jul 14 18:39:18 +0000 2022",
 		"id": 1547651971137474600,
 		"id_str": "1547651971137474568",
