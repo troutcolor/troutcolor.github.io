@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 16 11:50:13 +0000 2022",
+		"id": 957256659780427800,
+		"id_str": "1548273798499012613",
+		"full_text": "Then he and his team engaged in - if not invented - ethical hacking. They physically hacked their IBM punch card machines so that nothing could be entered into column 11: religion. That data, for those thousands of people, was missing.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 957256599986372600,
+		"in_reply_to_status_id_str": "957256599986372609",
+		"in_reply_to_user_id": 3437929966,
+		"in_reply_to_user_id_str": "3437929966",
+		"in_reply_to_screen_name": "WebDevLaw",
+		"user": {
+			"id": 3437929966,
+			"id_str": "3437929966",
+			"name": "Heather Burns",
+			"screen_name": "WebDevLaw",
+			"location": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 ↔️🐝",
+			"description": "Tech policy wonk 🇬🇧 🏴󠁧󠁢󠁳󠁣󠁴󠁿 + Head of Policy & Governance @maidsafe + Privacy book author + Internet Society Mid-Career Fellow. Phew. Personal tweets",
+			"url": "https://t.co/sRq3b902Uk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sRq3b902Uk",
+							"expanded_url": "https://webdevlaw.uk/blog",
+							"display_url": "webdevlaw.uk/blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9236,
+			"friends_count": 584,
+			"listed_count": 365,
+			"created_at": "Mon Aug 24 12:18:50 +0000 2015",
+			"favourites_count": 2071,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1089504974642515968/usXxtKGc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089504974642515968/usXxtKGc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3437929966/1599923396",
+			"profile_link_color": "B58D00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 369,
+		"favorite_count": 1272,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Then he and his team engaged in - if not invented - ethical hacking. They physically hacked their IBM punch card machines so that nothing could be entered into column 11: religion. That data, for those thousands of people, was missing."
+	},
+	{
 		"created_at": "Fri Jul 15 19:47:23 +0000 2022",
 		"id": 1547625834889875500,
 		"id_str": "1548031492625821696",
