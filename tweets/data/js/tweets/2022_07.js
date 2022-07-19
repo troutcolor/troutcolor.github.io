@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 18 15:58:58 +0000 2022",
+		"id": 1548984568782405600,
+		"id_str": "1549061173609381890",
+		"full_text": "This is True North 2022.\n\nIt's time to turn the music up!\n\n22–25 September, Aberdeen.\n\n🎟️ Tickets on sale Friday: https://t.co/OrBgpu4ep8\n\n@MicaParisSoul @thenitinsawhney @thedjangos @gentle_sinners @LBitchos @emmaspollock @yumhoneyblood @MTImmonsMusic @officialaiitee https://t.co/xLsbM3GlIH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicaParisSoul",
+					"name": "Mica Paris",
+					"id": 40723652,
+					"id_str": "40723652",
+					"indices": [
+						139,
+						153
+					]
+				},
+				{
+					"screen_name": "thenitinsawhney",
+					"name": "Nitin Sawhney",
+					"id": 223402407,
+					"id_str": "223402407",
+					"indices": [
+						154,
+						170
+					]
+				},
+				{
+					"screen_name": "thedjangos",
+					"name": "django django",
+					"id": 71530966,
+					"id_str": "71530966",
+					"indices": [
+						171,
+						182
+					]
+				},
+				{
+					"screen_name": "gentle_sinners",
+					"name": "Gentle Sinners",
+					"id": 1460653590071160800,
+					"id_str": "1460653590071160836",
+					"indices": [
+						183,
+						198
+					]
+				},
+				{
+					"screen_name": "LBitchos",
+					"name": "Los Bitchos",
+					"id": 839145200576495600,
+					"id_str": "839145200576495618",
+					"indices": [
+						199,
+						208
+					]
+				},
+				{
+					"screen_name": "emmaspollock",
+					"name": "Emma Pollock",
+					"id": 189945398,
+					"id_str": "189945398",
+					"indices": [
+						209,
+						222
+					]
+				},
+				{
+					"screen_name": "yumhoneyblood",
+					"name": "𝐻𝑂𝑁𝐸𝑌𝐵𝐿𝑂𝑂𝐷",
+					"id": 408422757,
+					"id_str": "408422757",
+					"indices": [
+						223,
+						237
+					]
+				},
+				{
+					"screen_name": "MTImmonsMusic",
+					"name": "Michael Timmons",
+					"id": 1244438078,
+					"id_str": "1244438078",
+					"indices": [
+						238,
+						252
+					]
+				},
+				{
+					"screen_name": "officialaiitee",
+					"name": "Itohan",
+					"id": 1136974614779899900,
+					"id_str": "1136974614779899910",
+					"indices": [
+						253,
+						268
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OrBgpu4ep8",
+					"expanded_url": "https://bit.ly/3PAw8Yh",
+					"display_url": "bit.ly/3PAw8Yh",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1548984467850727400,
+					"id_str": "1548984467850727424",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/FX8ZKqjXEAApNKv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX8ZKqjXEAApNKv.jpg",
+					"url": "https://t.co/xLsbM3GlIH",
+					"display_url": "pic.twitter.com/xLsbM3GlIH",
+					"expanded_url": "https://twitter.com/TrueNorth_Fest/status/1548984568782405632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548984467850727400,
+					"id_str": "1548984467850727424",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/FX8ZKqjXEAApNKv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX8ZKqjXEAApNKv.jpg",
+					"url": "https://t.co/xLsbM3GlIH",
+					"display_url": "pic.twitter.com/xLsbM3GlIH",
+					"expanded_url": "https://twitter.com/TrueNorth_Fest/status/1548984568782405632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893361824,
+			"id_str": "893361824",
+			"name": "True North",
+			"screen_name": "TrueNorth_Fest",
+			"location": "Aberdeen, Scotland",
+			"description": "Aberdeen Performing Arts (@APAWhatsOn) presents True North - Aberdeen’s music festival #TrueNorthFest",
+			"url": "https://t.co/UqNIKQkOMH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UqNIKQkOMH",
+							"expanded_url": "http://www.aberdeenperformingarts.com/true-north",
+							"display_url": "aberdeenperformingarts.com/true-north",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 873,
+			"friends_count": 130,
+			"listed_count": 11,
+			"created_at": "Sat Oct 20 14:30:48 +0000 2012",
+			"favourites_count": 423,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1187,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1548982881111969792/DKo84h9t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1548982881111969792/DKo84h9t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893361824/1658141273",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is True North 2022.\n\nIt's time to turn the music up!\n\n22–25 September, Aberdeen.\n\n🎟️ Tickets on sale Friday: https://t.co/OrBgpu4ep8\n\n@MicaParisSoul @thenitinsawhney @thedjangos @gentle_sinners @LBitchos @emmaspollock @yumhoneyblood @MTImmonsMusic @officialaiitee https://t.co/xLsbM3GlIH"
+	},
+	{
 		"created_at": "Sun Jul 17 15:30:59 +0000 2022",
 		"id": 1548691741141770200,
 		"id_str": "1548691741141770241",
