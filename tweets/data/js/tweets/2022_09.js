@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 25 16:02:02 +0000 2022",
+		"id": 1573366815568580600,
+		"id_str": "1574066705709531136",
+		"full_text": "⚠️😡Make no mistake, we are angry. This Government has today launched an attack on nature. We don’t use the words that follow lightly. We are entering uncharted territory.  Please read this thread. 1/13 https://t.co/NAPfIjLZKA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1573365439522119700,
+					"id_str": "1573365439522119682",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FdW3h_yXoAI3xuH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdW3h_yXoAI3xuH.jpg",
+					"url": "https://t.co/NAPfIjLZKA",
+					"display_url": "pic.twitter.com/NAPfIjLZKA",
+					"expanded_url": "https://twitter.com/RSPBEngland/status/1573366815568580613/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573365439522119700,
+					"id_str": "1573365439522119682",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FdW3h_yXoAI3xuH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdW3h_yXoAI3xuH.jpg",
+					"url": "https://t.co/NAPfIjLZKA",
+					"display_url": "pic.twitter.com/NAPfIjLZKA",
+					"expanded_url": "https://twitter.com/RSPBEngland/status/1573366815568580613/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 189900089,
+			"id_str": "189900089",
+			"name": "RSPB England 🌍",
+			"screen_name": "RSPBEngland",
+			"location": "Birmingham, England",
+			"description": "Giving nature a home across England. News, views and conversation from around the country. Monitored Mon-Fri 9-5.",
+			"url": "https://t.co/lQlQjf5p3z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lQlQjf5p3z",
+							"expanded_url": "http://www.rspb.org.uk",
+							"display_url": "rspb.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55134,
+			"friends_count": 1177,
+			"listed_count": 386,
+			"created_at": "Sun Sep 12 14:59:05 +0000 2010",
+			"favourites_count": 29514,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E9E3DC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537005648449347585/QqOPcCI3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537005648449347585/QqOPcCI3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/189900089/1662035371",
+			"profile_link_color": "007DC3",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37543,
+		"favorite_count": 66685,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "⚠️😡Make no mistake, we are angry. This Government has today launched an attack on nature. We don’t use the words that follow lightly. We are entering uncharted territory.  Please read this thread. 1/13 https://t.co/NAPfIjLZKA"
+	},
+	{
 		"created_at": "Sat Sep 24 17:00:25 +0000 2022",
 		"id": 1573719010407055400,
 		"id_str": "1573719010407055364",
