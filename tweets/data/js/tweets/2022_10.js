@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 05 07:02:10 +0000 2022",
+		"id": 1577358422017704000,
+		"id_str": "1577554724332703744",
+		"full_text": "In its first twenty years, RSS has become an established part of the open web. It got blogging and podcasting off the ground. It changed the world. Now we get started on the second twenty years. https://t.co/LQtCI2K1fB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LQtCI2K1fB",
+					"expanded_url": "http://scripting.com/2022/10/04/142201.html?title=feedland",
+					"display_url": "scripting.com/2022/10/04/142…",
+					"indices": [
+						195,
+						218
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://radio3.io/\" rel=\"nofollow\">radio3.io</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3839,
+			"id_str": "3839",
+			"name": "Dave Winer",
+			"screen_name": "davewiner",
+			"location": "Woodstock, NY",
+			"description": "Started two Silicon Valley companies. Wrote for Wired. Fellow at Harvard, NYU. Founder of podcasting, blogging, RSS.",
+			"url": "https://t.co/alwLFPBgDF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/alwLFPBgDF",
+							"expanded_url": "http://scripting.com/",
+							"display_url": "scripting.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67523,
+			"friends_count": 3944,
+			"listed_count": 5213,
+			"created_at": "Sat Aug 05 23:04:08 +0000 2006",
+			"favourites_count": 20309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 207399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398806004528263168/2SXipvrt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398806004528263168/2SXipvrt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3839/1636295224",
+			"profile_link_color": "7F7F90",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E1E1DF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In its first twenty years, RSS has become an established part of the open web. It got blogging and podcasting off the ground. It changed the world. Now we get started on the second twenty years. https://t.co/LQtCI2K1fB"
+	},
+	{
 		"created_at": "Tue Oct 04 21:50:13 +0000 2022",
 		"id": 1577415822355710000,
 		"id_str": "1577415822355709955",
