@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 19 20:29:50 +0000 2022",
+		"id": 1582811822083612700,
+		"id_str": "1582831411815673856",
+		"full_text": "I'll be playing a few songs in Edinburgh Mon 24th Oct at @themashhouse with @tuvaband from 🇳🇴 who creates really beautiful music. I hope it'll be a really nice night of music 🎵 🎟️ https://t.co/bQmrdjqTj0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "themashhouse",
+					"name": "The Mash House",
+					"id": 1829087720,
+					"id_str": "1829087720",
+					"indices": [
+						57,
+						70
+					]
+				},
+				{
+					"screen_name": "tuvaband",
+					"name": "Tuvaband",
+					"id": 780434340547362800,
+					"id_str": "780434340547362816",
+					"indices": [
+						76,
+						85
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bQmrdjqTj0",
+					"expanded_url": "https://dice.fm/partner/dice/event/byekx-tuvaband-michael-timmons-24th-oct-the-mash-house-edinburgh-tickets",
+					"display_url": "dice.fm/partner/dice/e…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1244438078,
+			"id_str": "1244438078",
+			"name": "Michael Timmons",
+			"screen_name": "MTImmonsMusic",
+			"location": "",
+			"description": "Solo musician with sad songs from Scotland | Head of Operations at @playlistforlife | Board @patientsadvoca1 |\nViews my own",
+			"url": "https://t.co/nyM8vWFtpa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nyM8vWFtpa",
+							"expanded_url": "https://michaeltimmonsmusic.com/",
+							"display_url": "michaeltimmonsmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 926,
+			"friends_count": 557,
+			"listed_count": 15,
+			"created_at": "Tue Mar 05 19:16:35 +0000 2013",
+			"favourites_count": 8068,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453060058863001605/Sc6eImQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453060058863001605/Sc6eImQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1244438078/1649550538",
+			"profile_link_color": "141414",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'll be playing a few songs in Edinburgh Mon 24th Oct at @themashhouse with @tuvaband from 🇳🇴 who creates really beautiful music. I hope it'll be a really nice night of music 🎵 🎟️ https://t.co/bQmrdjqTj0"
+	},
+	{
 		"created_at": "Tue Oct 18 17:09:32 +0000 2022",
 		"id": 1582418613633679400,
 		"id_str": "1582418613633679361",
