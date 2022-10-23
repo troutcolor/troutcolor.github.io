@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 22 08:28:56 +0000 2022",
+		"id": 1583546691549921300,
+		"id_str": "1583737152084459521",
+		"full_text": "And thank you to @davewiner for kicking this entire thing off on open protocols. It was a gift to the world that has provided countless billions of hours of joy to people.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davewiner",
+					"name": "Dave Winer",
+					"id": 3839,
+					"id_str": "3839",
+					"indices": [
+						17,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1583546477766246400,
+		"in_reply_to_status_id_str": "1583546477766246402",
+		"in_reply_to_user_id": 13479,
+		"in_reply_to_user_id_str": "13479",
+		"in_reply_to_screen_name": "photomatt",
+		"user": {
+			"id": 13479,
+			"id_str": "13479",
+			"name": "Matt Mullenweg",
+			"screen_name": "photomatt",
+			"location": "The Future",
+			"description": "I can think. I can wait. I can fast.",
+			"url": "https://t.co/rTjT6uBas3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rTjT6uBas3",
+							"expanded_url": "https://ma.tt/",
+							"display_url": "ma.tt",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 127459,
+			"friends_count": 1857,
+			"listed_count": 5988,
+			"created_at": "Tue Nov 21 10:08:08 +0000 2006",
+			"favourites_count": 4403,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1290386927594610688/uK9NYeBe_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290386927594610688/uK9NYeBe_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13479/1398199440",
+			"profile_link_color": "EB14C5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFD291",
+			"profile_text_color": "701E00",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "And thank you to @davewiner for kicking this entire thing off on open protocols. It was a gift to the world that has provided countless billions of hours of joy to people."
+	},
+	{
 		"created_at": "Fri Oct 21 19:48:37 +0000 2022",
 		"id": 1583077584136704000,
 		"id_str": "1583545813254316032",
