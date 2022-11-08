@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 07 18:42:39 +0000 2022",
+		"id": 1589677621151142000,
+		"id_str": "1589689807068069888",
+		"full_text": "I have a new song out on Thursday from a new EP out next week 🚃🎵  you can Pre-save it here (though I'm not sure what that means) ➡️ https://t.co/iOuMdQPEz0 https://t.co/AkP5jm1eoF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iOuMdQPEz0",
+					"expanded_url": "https://orcd.co/michaeltimmonspastel",
+					"display_url": "orcd.co/michaeltimmons…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1589677570521538600,
+					"id_str": "1589677570521538561",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1589677570521538561/pu/img/pIvUcB2y2jhYbDe7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1589677570521538561/pu/img/pIvUcB2y2jhYbDe7.jpg",
+					"url": "https://t.co/AkP5jm1eoF",
+					"display_url": "pic.twitter.com/AkP5jm1eoF",
+					"expanded_url": "https://twitter.com/MTImmonsMusic/status/1589677621151141888/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589677570521538600,
+					"id_str": "1589677570521538561",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1589677570521538561/pu/img/pIvUcB2y2jhYbDe7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1589677570521538561/pu/img/pIvUcB2y2jhYbDe7.jpg",
+					"url": "https://t.co/AkP5jm1eoF",
+					"display_url": "pic.twitter.com/AkP5jm1eoF",
+					"expanded_url": "https://twitter.com/MTImmonsMusic/status/1589677621151141888/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							4
+						],
+						"duration_millis": 14299,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1589677570521538561/pu/pl/1UNxoFvafHfvM409.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1589677570521538561/pu/vid/480x640/U4dKIQ_-56A4ZOfI.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1589677570521538561/pu/vid/720x960/nUD9lkArZfVQ3MaP.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1589677570521538561/pu/vid/320x426/0N7MF-8vEQ3CvawL.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1244438078,
+			"id_str": "1244438078",
+			"name": "Michael Timmons",
+			"screen_name": "MTImmonsMusic",
+			"location": "",
+			"description": "Solo musician with sad songs from Scotland | Head of Operations at @playlistforlife | Board @patientsadvoca1 |\nViews my own",
+			"url": "https://t.co/nyM8vWFtpa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nyM8vWFtpa",
+							"expanded_url": "https://michaeltimmonsmusic.com/",
+							"display_url": "michaeltimmonsmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 922,
+			"friends_count": 557,
+			"listed_count": 15,
+			"created_at": "Tue Mar 05 19:16:35 +0000 2013",
+			"favourites_count": 8090,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453060058863001605/Sc6eImQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453060058863001605/Sc6eImQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1244438078/1667408862",
+			"profile_link_color": "141414",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I have a new song out on Thursday from a new EP out next week 🚃🎵  you can Pre-save it here (though I'm not sure what that means) ➡️ https://t.co/iOuMdQPEz0 https://t.co/AkP5jm1eoF"
+	},
+	{
 		"created_at": "Sun Nov 06 22:20:40 +0000 2022",
 		"id": 1589382283143909400,
 		"id_str": "1589382283143909376",
