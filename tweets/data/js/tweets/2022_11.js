@@ -1,6 +1,376 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sat Nov 12 20:26:11 +0000 2022",
+		"id": 1591527800351387600,
+		"id_str": "1591527800351387649",
+		"full_text": "Victoria Park Birch, Autumn https://t.co/2O1GYaKeRf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1591527752305369000,
+					"id_str": "1591527752305369089",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/FhY-DvZWYAEneRw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhY-DvZWYAEneRw.jpg",
+					"url": "https://t.co/2O1GYaKeRf",
+					"display_url": "pic.twitter.com/2O1GYaKeRf",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1591527800351387649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1591527752305369000,
+					"id_str": "1591527752305369089",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/FhY-DvZWYAEneRw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhY-DvZWYAEneRw.jpg",
+					"url": "https://t.co/2O1GYaKeRf",
+					"display_url": "pic.twitter.com/2O1GYaKeRf",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1591527800351387649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, walks, fauna, flora, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/BlKzuMAHXl",
+			"url": "https://t.co/OdmqeRSrS6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OdmqeRSrS6",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/BlKzuMAHXl",
+							"expanded_url": "https://mastodon.social/@johnjohnston",
+							"display_url": "mastodon.social/@johnjohnston",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3875,
+			"friends_count": 2702,
+			"listed_count": 262,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 6384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19675,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Victoria Park Birch, Autumn https://t.co/2O1GYaKeRf"
+	},
+	{
+		"created_at": "Sat Nov 12 19:36:41 +0000 2022",
+		"id": 1591515344207859700,
+		"id_str": "1591515344207859714",
+		"full_text": "Passed by this guy in Victoria Park today! https://t.co/KsmERNaVGY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1591515263618408400,
+					"id_str": "1591515263618408448",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/FhYyszaWYAALFvg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhYyszaWYAALFvg.jpg",
+					"url": "https://t.co/KsmERNaVGY",
+					"display_url": "pic.twitter.com/KsmERNaVGY",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1591515344207859714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1591515263618408400,
+					"id_str": "1591515263618408448",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/FhYyszaWYAALFvg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhYyszaWYAALFvg.jpg",
+					"url": "https://t.co/KsmERNaVGY",
+					"display_url": "pic.twitter.com/KsmERNaVGY",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1591515344207859714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, walks, fauna, flora, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/BlKzuMAHXl",
+			"url": "https://t.co/OdmqeRSrS6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OdmqeRSrS6",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/BlKzuMAHXl",
+							"expanded_url": "https://mastodon.social/@johnjohnston",
+							"display_url": "mastodon.social/@johnjohnston",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3875,
+			"friends_count": 2702,
+			"listed_count": 262,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 6384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19675,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Passed by this guy in Victoria Park today! https://t.co/KsmERNaVGY"
+	},
+	{
 		"created_at": "Fri Nov 11 04:39:04 +0000 2022",
 		"id": 1590927062843510800,
 		"id_str": "1590927062843510790",
