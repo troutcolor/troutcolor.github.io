@@ -1,6 +1,439 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 18 20:43:37 +0000 2022",
+		"id": 1593706514136572000,
+		"id_str": "1593706514136571905",
+		"full_text": "#FeedReaderFriday 1 https://t.co/ILqsZCGE7g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FeedReaderFriday",
+					"indices": [
+						0,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ILqsZCGE7g",
+					"expanded_url": "https://johnjohnston.info/blog/feedreaderfriday-1/",
+					"display_url": "johnjohnston.info/blog/feedreade…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, walks, fauna, flora, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/BlKzuMAHXl",
+			"url": "https://t.co/OdmqeRSrS6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OdmqeRSrS6",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/BlKzuMAHXl",
+							"expanded_url": "https://mastodon.social/@johnjohnston",
+							"display_url": "mastodon.social/@johnjohnston",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3874,
+			"friends_count": 2697,
+			"listed_count": 261,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 6388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#FeedReaderFriday 1 https://t.co/ILqsZCGE7g"
+	},
+	{
+		"created_at": "Fri Nov 18 19:44:39 +0000 2022",
+		"id": 1593691675469267000,
+		"id_str": "1593691675469266945",
+		"full_text": "Beautiful sounds🎶 https://t.co/CeTtfwEWwr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CeTtfwEWwr",
+					"expanded_url": "https://twitter.com/mtimmonsmusic/status/1593666488749236227",
+					"display_url": "twitter.com/mtimmonsmusic/…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, walks, fauna, flora, #ds106 #GlowBlogs Radio #Edutalk   https://t.co/BlKzuMAHXl",
+			"url": "https://t.co/OdmqeRSrS6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OdmqeRSrS6",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/BlKzuMAHXl",
+							"expanded_url": "https://mastodon.social/@johnjohnston",
+							"display_url": "mastodon.social/@johnjohnston",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3874,
+			"friends_count": 2697,
+			"listed_count": 261,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 6388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1593666488749236200,
+		"quoted_status_id_str": "1593666488749236227",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CeTtfwEWwr",
+			"expanded": "https://twitter.com/mtimmonsmusic/status/1593666488749236227",
+			"display": "twitter.com/mtimmonsmusic/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 18 18:04:34 +0000 2022",
+			"id": 1593666488749236200,
+			"id_str": "1593666488749236227",
+			"full_text": "My new EP 'Pastel' is out now. It's 5 songs and I hope you like it. You can find it here: https://t.co/j2G74zOb1t 🎶 https://t.co/faBJQV4oxy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				115
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/j2G74zOb1t",
+						"expanded_url": "http://www.michaeltimmonsmusic.com",
+						"display_url": "michaeltimmonsmusic.com",
+						"indices": [
+							90,
+							113
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1593666486182232000,
+						"id_str": "1593666486182232068",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/Fh3XOb9WQAQR578.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fh3XOb9WQAQR578.jpg",
+						"url": "https://t.co/faBJQV4oxy",
+						"display_url": "pic.twitter.com/faBJQV4oxy",
+						"expanded_url": "https://twitter.com/MTImmonsMusic/status/1593666488749236227/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1440,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1593666486182232000,
+						"id_str": "1593666486182232068",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/Fh3XOb9WQAQR578.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fh3XOb9WQAQR578.jpg",
+						"url": "https://t.co/faBJQV4oxy",
+						"display_url": "pic.twitter.com/faBJQV4oxy",
+						"expanded_url": "https://twitter.com/MTImmonsMusic/status/1593666488749236227/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1440,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1244438078,
+				"id_str": "1244438078",
+				"name": "Michael Timmons",
+				"screen_name": "MTImmonsMusic",
+				"location": "",
+				"description": "Solo musician with sad songs from Scotland | Head of Operations at @playlistforlife | Board @patientsadvoca1 |\nViews my own",
+				"url": "https://t.co/nyM8vWFtpa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nyM8vWFtpa",
+								"expanded_url": "https://michaeltimmonsmusic.com/",
+								"display_url": "michaeltimmonsmusic.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 922,
+				"friends_count": 556,
+				"listed_count": 15,
+				"created_at": "Tue Mar 05 19:16:35 +0000 2013",
+				"favourites_count": 8125,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4301,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1453060058863001605/Sc6eImQ0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453060058863001605/Sc6eImQ0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1244438078/1667408862",
+				"profile_link_color": "141414",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Beautiful sounds🎶 https://t.co/CeTtfwEWwr"
+	},
+	{
 		"created_at": "Thu Nov 17 08:20:47 +0000 2022",
 		"id": 1593157187102130200,
 		"id_str": "1593157187102130176",
