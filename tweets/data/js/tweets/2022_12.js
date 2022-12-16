@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Thu Dec 15 17:31:00 +0000 2022",
+		"id": 1603440264928018400,
+		"id_str": "1603442512940744709",
+		"full_text": "So nice to be part of this show supporting @thetwilightsad at @StrathavenHotel @FRETSCONCERTS just along the road from my hometown East Kilbride. Tickets on sale 7pm 🎟️ https://t.co/R17MjhMi3I https://t.co/7LXExonJs9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thetwilightsad",
+					"name": "the twilight sad",
+					"id": 23094396,
+					"id_str": "23094396",
+					"indices": [
+						43,
+						58
+					]
+				},
+				{
+					"screen_name": "StrathavenHotel",
+					"name": "Strathaven Hotel",
+					"id": 2152766690,
+					"id_str": "2152766690",
+					"indices": [
+						62,
+						78
+					]
+				},
+				{
+					"screen_name": "FRETSCONCERTS",
+					"name": "FRETS",
+					"id": 1225440836051259400,
+					"id_str": "1225440836051259395",
+					"indices": [
+						79,
+						93
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/R17MjhMi3I",
+					"expanded_url": "https://fretsconcerts.com/",
+					"display_url": "fretsconcerts.com",
+					"indices": [
+						169,
+						192
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1603440262688247800,
+					"id_str": "1603440262688247808",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FkCQbGwXkAAtROV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkCQbGwXkAAtROV.jpg",
+					"url": "https://t.co/7LXExonJs9",
+					"display_url": "pic.twitter.com/7LXExonJs9",
+					"expanded_url": "https://twitter.com/MTImmonsMusic/status/1603440264928018436/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1169,
+							"h": 1653,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1603440262688247800,
+					"id_str": "1603440262688247808",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FkCQbGwXkAAtROV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkCQbGwXkAAtROV.jpg",
+					"url": "https://t.co/7LXExonJs9",
+					"display_url": "pic.twitter.com/7LXExonJs9",
+					"expanded_url": "https://twitter.com/MTImmonsMusic/status/1603440264928018436/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1169,
+							"h": 1653,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1244438078,
+			"id_str": "1244438078",
+			"name": "Michael Timmons",
+			"screen_name": "MTImmonsMusic",
+			"location": "",
+			"description": "Solo musician with sad songs from Scotland | work at @playlistforlife | Board of @patientsadvoca1 |\nViews my own",
+			"url": "https://t.co/nyM8vWFtpa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nyM8vWFtpa",
+							"expanded_url": "https://michaeltimmonsmusic.com/",
+							"display_url": "michaeltimmonsmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 922,
+			"friends_count": 557,
+			"listed_count": 15,
+			"created_at": "Tue Mar 05 19:16:35 +0000 2013",
+			"favourites_count": 8170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453060058863001605/Sc6eImQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453060058863001605/Sc6eImQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1244438078/1667408862",
+			"profile_link_color": "141414",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So nice to be part of this show supporting @thetwilightsad at @StrathavenHotel @FRETSCONCERTS just along the road from my hometown East Kilbride. Tickets on sale 7pm 🎟️ https://t.co/R17MjhMi3I https://t.co/7LXExonJs9"
+	},
+	{
 		"created_at": "Tue Dec 13 20:19:47 +0000 2022",
 		"id": 1602760213156831200,
 		"id_str": "1602760213156831233",
