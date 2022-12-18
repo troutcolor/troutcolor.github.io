@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sat Dec 17 12:23:18 +0000 2022",
+		"id": 1604089855201484800,
+		"id_str": "1604089855201484800",
+		"full_text": "@DigiLearnScot @kirstymcfaul A promising app. I could knock up a quick sound board for our Christmas show in a couple of minutes.",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DigiLearnScot",
+					"name": "Digital Learning and Teaching",
+					"id": 2965753499,
+					"id_str": "2965753499",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "kirstymcfaul",
+					"name": "Kirsty McFaul",
+					"id": 2229944383,
+					"id_str": "2229944383",
+					"indices": [
+						15,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1603171358774640600,
+		"in_reply_to_status_id_str": "1603171358774640640",
+		"in_reply_to_user_id": 2965753499,
+		"in_reply_to_user_id_str": "2965753499",
+		"in_reply_to_screen_name": "DigiLearnScot",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, walks, fauna, flora, #ds106 #GlowBlogs Radio #Edutalk https://t.co/tRyfXqXdny",
+			"url": "https://t.co/OdmqeSa3gG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OdmqeSa3gG",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tRyfXqXdny",
+							"expanded_url": "https://social.ds106.us/@johnjohnston",
+							"display_url": "social.ds106.us/@johnjohnston",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3847,
+			"friends_count": 2676,
+			"listed_count": 258,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 6380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DigiLearnScot @kirstymcfaul A promising app. I could knock up a quick sound board for our Christmas show in a couple of minutes."
+	},
+	{
 		"created_at": "Fri Dec 16 15:58:27 +0000 2022",
 		"id": 1603781612684066800,
 		"id_str": "1603781612684066816",
