@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Wed Dec 21 18:23:38 +0000 2022",
+		"id": 1605518640253730800,
+		"id_str": "1605630086996164608",
+		"full_text": "Want to direct technical activities for Glow, its associated services and other digital services? Come and join #TeamES as Senior Technical Architect. Find out more about this role and apply by 15 January: https://t.co/sts6zycbjo https://t.co/5GvQYKpGLI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TeamES",
+					"indices": [
+						112,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sts6zycbjo",
+					"expanded_url": "https://education.gov.scot/education-scotland/who-we-are/current-vacancies/",
+					"display_url": "education.gov.scot/education-scot…",
+					"indices": [
+						206,
+						229
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1605518638160961500,
+					"id_str": "1605518638160961536",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/FkfysevaYAAKEtp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkfysevaYAAKEtp.jpg",
+					"url": "https://t.co/5GvQYKpGLI",
+					"display_url": "pic.twitter.com/5GvQYKpGLI",
+					"expanded_url": "https://twitter.com/EducationScot/status/1605518640253730816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1605518638160961500,
+					"id_str": "1605518638160961536",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/FkfysevaYAAKEtp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkfysevaYAAKEtp.jpg",
+					"url": "https://t.co/5GvQYKpGLI",
+					"display_url": "pic.twitter.com/5GvQYKpGLI",
+					"expanded_url": "https://twitter.com/EducationScot/status/1605518640253730816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 314003959,
+			"id_str": "314003959",
+			"name": "Education Scotland",
+			"screen_name": "EducationScot",
+			"location": "Scotland",
+			"description": "The official account of Education Scotland.\nFor Scotland's learners, with Scotland's educators",
+			"url": "https://t.co/gPvvLknJRh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gPvvLknJRh",
+							"expanded_url": "http://www.education.gov.scot",
+							"display_url": "education.gov.scot",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81409,
+			"friends_count": 656,
+			"listed_count": 433,
+			"created_at": "Thu Jun 09 15:19:08 +0000 2011",
+			"favourites_count": 11348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1572133438634790913/Ye-xp52b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1572133438634790913/Ye-xp52b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/314003959/1669896161",
+			"profile_link_color": "16AAB5",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Want to direct technical activities for Glow, its associated services and other digital services? Come and join #TeamES as Senior Technical Architect. Find out more about this role and apply by 15 January: https://t.co/sts6zycbjo https://t.co/5GvQYKpGLI"
+	},
+	{
 		"created_at": "Mon Dec 19 20:16:53 +0000 2022",
 		"id": 1604933811397075000,
 		"id_str": "1604933811397074946",
