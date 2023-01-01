@@ -1,6 +1,575 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sat Dec 31 17:32:42 +0000 2022",
+		"id": 1609241148177907700,
+		"id_str": "1609241148177907715",
+		"full_text": "Go @MTImmonsMusic https://t.co/S7FHpq8l01",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MTImmonsMusic",
+					"name": "Michael Timmons",
+					"id": 1244438078,
+					"id_str": "1244438078",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/S7FHpq8l01",
+					"expanded_url": "https://twitter.com/heraldscotland/status/1609187814649774080",
+					"display_url": "twitter.com/heraldscotland…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, walks, fauna, flora, #ds106 #GlowBlogs Radio #Edutalk https://t.co/tRyfXqXdny",
+			"url": "https://t.co/OdmqeSa3gG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OdmqeSa3gG",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tRyfXqXdny",
+							"expanded_url": "https://social.ds106.us/@johnjohnston",
+							"display_url": "social.ds106.us/@johnjohnston",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3839,
+			"friends_count": 2672,
+			"listed_count": 258,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 6376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1609187814649774000,
+		"quoted_status_id_str": "1609187814649774080",
+		"quoted_status_permalink": {
+			"url": "https://t.co/S7FHpq8l01",
+			"expanded": "https://twitter.com/heraldscotland/status/1609187814649774080",
+			"display": "twitter.com/heraldscotland…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 31 14:00:46 +0000 2022",
+			"id": 1609187814649774000,
+			"id_str": "1609187814649774080",
+			"full_text": "Top 100 Scots Tunes Part 3 (50-26) ft  @damonreecemusic #DinnerNight @TAAHLIAH @tsatsamis_ #UnifySeparate #Yabba @snackvillain @MTImmonsMusic  @itsthisRussell Stewart @dvrtrax @LomondCampbell @BleedFromWithin @moni_jitchell @duncan_marquiss @kodenine \nhttps://t.co/qfTER2b8uF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DinnerNight",
+						"indices": [
+							56,
+							68
+						]
+					},
+					{
+						"text": "UnifySeparate",
+						"indices": [
+							91,
+							105
+						]
+					},
+					{
+						"text": "Yabba",
+						"indices": [
+							106,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "damonreecemusic",
+						"name": "Damon Reece",
+						"id": 1491482581396865000,
+						"id_str": "1491482581396865035",
+						"indices": [
+							39,
+							55
+						]
+					},
+					{
+						"screen_name": "TAAHLIAH",
+						"name": "TAAHLIAH",
+						"id": 843665263,
+						"id_str": "843665263",
+						"indices": [
+							69,
+							78
+						]
+					},
+					{
+						"screen_name": "tsatsamis_",
+						"name": "tsatsamis",
+						"id": 237342893,
+						"id_str": "237342893",
+						"indices": [
+							79,
+							90
+						]
+					},
+					{
+						"screen_name": "snackvillain",
+						"name": "Snack Villain",
+						"id": 749906525624397800,
+						"id_str": "749906525624397828",
+						"indices": [
+							113,
+							126
+						]
+					},
+					{
+						"screen_name": "MTImmonsMusic",
+						"name": "Michael Timmons",
+						"id": 1244438078,
+						"id_str": "1244438078",
+						"indices": [
+							127,
+							141
+						]
+					},
+					{
+						"screen_name": "itsthisrussell",
+						"name": "Russell Stewart",
+						"id": 971512903726714900,
+						"id_str": "971512903726714881",
+						"indices": [
+							143,
+							158
+						]
+					},
+					{
+						"screen_name": "dvrtrax",
+						"name": "dvr",
+						"id": 1284201881632473000,
+						"id_str": "1284201881632473089",
+						"indices": [
+							167,
+							175
+						]
+					},
+					{
+						"screen_name": "LomondCampbell",
+						"name": "Lomond Campbell",
+						"id": 1281281756,
+						"id_str": "1281281756",
+						"indices": [
+							176,
+							191
+						]
+					},
+					{
+						"screen_name": "BleedFromWithin",
+						"name": "Bleed From Within",
+						"id": 45728078,
+						"id_str": "45728078",
+						"indices": [
+							192,
+							208
+						]
+					},
+					{
+						"screen_name": "moni_jitchell",
+						"name": "Moni Jitchell",
+						"id": 1546104714777043000,
+						"id_str": "1546104714777042944",
+						"indices": [
+							209,
+							223
+						]
+					},
+					{
+						"screen_name": "duncan_marquiss",
+						"name": "Duncan Marquiss",
+						"id": 744894845685219300,
+						"id_str": "744894845685219328",
+						"indices": [
+							224,
+							240
+						]
+					},
+					{
+						"screen_name": "kodenine",
+						"name": "LOBOTOMY CHIC",
+						"id": 52641703,
+						"id_str": "52641703",
+						"indices": [
+							241,
+							250
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/qfTER2b8uF",
+						"expanded_url": "https://www.heraldscotland.com/news/homenews/23199083.top-100-tunes-scotland-2022-part-3-50-26/",
+						"display_url": "heraldscotland.com/news/homenews/…",
+						"indices": [
+							252,
+							275
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 157997359,
+				"id_str": "157997359",
+				"name": "The Herald",
+				"screen_name": "heraldscotland",
+				"location": "Scotland",
+				"description": "The official Twitter page of the world’s longest-running national newspaper. Join us online and in print for expert opinion, news and unrivalled insight.",
+				"url": "https://t.co/e3HEBFxjRa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/e3HEBFxjRa",
+								"expanded_url": "http://www.heraldscotland.com",
+								"display_url": "heraldscotland.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 123375,
+				"friends_count": 1390,
+				"listed_count": 1092,
+				"created_at": "Mon Jun 21 13:29:29 +0000 2010",
+				"favourites_count": 924,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 318346,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1575507931205754881/2bDdqNYY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1575507931205754881/2bDdqNYY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/157997359/1664465338",
+				"profile_link_color": "1076BC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Go @MTImmonsMusic https://t.co/S7FHpq8l01"
+	},
+	{
+		"created_at": "Sat Dec 31 17:02:58 +0000 2022",
+		"id": 1609233665858408400,
+		"id_str": "1609233665858408448",
+		"full_text": "Fox hunting in the long grass, late afternoon on the edge of the Kilpatrick Braes. https://t.co/jpe0XFPlxh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1609233663513747500,
+					"id_str": "1609233663513747456",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FlUlfapWYAAqK1Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlUlfapWYAAqK1Z.jpg",
+					"url": "https://t.co/jpe0XFPlxh",
+					"display_url": "pic.twitter.com/jpe0XFPlxh",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1609233665858408448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1609233663513747500,
+					"id_str": "1609233663513747456",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FlUlfapWYAAqK1Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlUlfapWYAAqK1Z.jpg",
+					"url": "https://t.co/jpe0XFPlxh",
+					"display_url": "pic.twitter.com/jpe0XFPlxh",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1609233665858408448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://micro.blog/\" rel=\"nofollow\">Micro.blog</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, walks, fauna, flora, #ds106 #GlowBlogs Radio #Edutalk https://t.co/tRyfXqXdny",
+			"url": "https://t.co/OdmqeSa3gG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OdmqeSa3gG",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tRyfXqXdny",
+							"expanded_url": "https://social.ds106.us/@johnjohnston",
+							"display_url": "social.ds106.us/@johnjohnston",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3839,
+			"friends_count": 2672,
+			"listed_count": 258,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 6376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fox hunting in the long grass, late afternoon on the edge of the Kilpatrick Braes. https://t.co/jpe0XFPlxh"
+	},
+	{
 		"created_at": "Fri Dec 30 13:17:25 +0000 2022",
 		"id": 1608814516611223600,
 		"id_str": "1608814516611223552",
