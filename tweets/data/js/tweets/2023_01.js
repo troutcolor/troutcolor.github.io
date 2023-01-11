@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Tue Jan 10 05:47:59 +0000 2023",
+		"id": 1612687678973026300,
+		"id_str": "1612687678973026305",
+		"full_text": "Great example of what you can do with #GlowBlogs https://t.co/q77SHx11YV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GlowBlogs",
+					"indices": [
+						38,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q77SHx11YV",
+					"expanded_url": "https://twitter.com/DigiLearnScot/status/1612466536991563776",
+					"display_url": "twitter.com/DigiLearnScot/…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, walks, fauna, flora, #ds106 #GlowBlogs Radio #Edutalk https://t.co/tRyfXqXdny",
+			"url": "https://t.co/OdmqeSa3gG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OdmqeSa3gG",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tRyfXqXdny",
+							"expanded_url": "https://social.ds106.us/@johnjohnston",
+							"display_url": "social.ds106.us/@johnjohnston",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3839,
+			"friends_count": 2677,
+			"listed_count": 258,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 6381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1612466536991563800,
+		"quoted_status_id_str": "1612466536991563776",
+		"quoted_status_permalink": {
+			"url": "https://t.co/q77SHx11YV",
+			"expanded": "https://twitter.com/DigiLearnScot/status/1612466536991563776",
+			"display": "twitter.com/DigiLearnScot/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 09 15:09:15 +0000 2023",
+			"id": 1612466536991563800,
+			"id_str": "1612466536991563776",
+			"full_text": "We have given our DigiLearn site a wee refresh - what do you think of it?\n\nhttps://t.co/5LMYalb4O6 https://t.co/ReszWTTsin",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				98
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5LMYalb4O6",
+						"expanded_url": "https://blogs.glowscotland.org.uk/glowblogs/digilearn/",
+						"display_url": "blogs.glowscotland.org.uk/glowblogs/digi…",
+						"indices": [
+							75,
+							98
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1612466522319904800,
+						"id_str": "1612466522319904768",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/FmChwkMWYAAy9pj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FmChwkMWYAAy9pj.jpg",
+						"url": "https://t.co/ReszWTTsin",
+						"display_url": "pic.twitter.com/ReszWTTsin",
+						"expanded_url": "https://twitter.com/DigiLearnScot/status/1612466536991563776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1612466522319904800,
+						"id_str": "1612466522319904768",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/FmChwkMWYAAy9pj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FmChwkMWYAAy9pj.jpg",
+						"url": "https://t.co/ReszWTTsin",
+						"display_url": "pic.twitter.com/ReszWTTsin",
+						"expanded_url": "https://twitter.com/DigiLearnScot/status/1612466536991563776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2965753499,
+				"id_str": "2965753499",
+				"name": "Digital Learning and Teaching",
+				"screen_name": "DigiLearnScot",
+				"location": "Education Scotland, Scotland",
+				"description": "The official @EducationScot account for Digital Skills & Digital Literacy for schools in Scotland. Join the conversation using #DigiLearnScot #DigiLearnChat",
+				"url": "https://t.co/A6iFGj3arG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/A6iFGj3arG",
+								"expanded_url": "https://blogs.glowscotland.org.uk/glowblogs/digilearn/",
+								"display_url": "blogs.glowscotland.org.uk/glowblogs/digi…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15339,
+				"friends_count": 1771,
+				"listed_count": 129,
+				"created_at": "Wed Jan 07 09:54:58 +0000 2015",
+				"favourites_count": 5603,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6342,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1561686792360828928/2LHa2KSB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1561686792360828928/2LHa2KSB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2965753499/1665481550",
+				"profile_link_color": "7DB1BF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great example of what you can do with #GlowBlogs https://t.co/q77SHx11YV"
+	},
+	{
 		"created_at": "Fri Jan 06 12:59:09 +0000 2023",
 		"id": 1611346632175411200,
 		"id_str": "1611346632175411201",
