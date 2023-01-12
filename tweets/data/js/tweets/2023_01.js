@@ -1,6 +1,357 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Wed Jan 11 22:42:58 +0000 2023",
+		"id": 1613305493962752000,
+		"id_str": "1613305493962752000",
+		"full_text": "@wolfsmall He did! I'd not recommend it as a general defence though;-)",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wolfsmall",
+					"name": "wolfsmall",
+					"id": 235952132,
+					"id_str": "235952132",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1613302249618374700,
+		"in_reply_to_status_id_str": "1613302249618374657",
+		"in_reply_to_user_id": 235952132,
+		"in_reply_to_user_id_str": "235952132",
+		"in_reply_to_screen_name": "wolfsmall",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, walks, fauna, flora, #ds106 #GlowBlogs Radio #Edutalk https://t.co/tRyfXqXdny",
+			"url": "https://t.co/OdmqeSa3gG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OdmqeSa3gG",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tRyfXqXdny",
+							"expanded_url": "https://social.ds106.us/@johnjohnston",
+							"display_url": "social.ds106.us/@johnjohnston",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3839,
+			"friends_count": 2678,
+			"listed_count": 258,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 6382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19744,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@wolfsmall He did! I'd not recommend it as a general defence though;-)"
+	},
+	{
+		"created_at": "Wed Jan 11 22:19:35 +0000 2023",
+		"id": 1613299612370051000,
+		"id_str": "1613299612370051073",
+		"full_text": "@wolfsmall I am not sure who was more surprised by my explanation, me or the policeman ;-)",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wolfsmall",
+					"name": "wolfsmall",
+					"id": 235952132,
+					"id_str": "235952132",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1613297368614731800,
+		"in_reply_to_status_id_str": "1613297368614731785",
+		"in_reply_to_user_id": 235952132,
+		"in_reply_to_user_id_str": "235952132",
+		"in_reply_to_screen_name": "wolfsmall",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, walks, fauna, flora, #ds106 #GlowBlogs Radio #Edutalk https://t.co/tRyfXqXdny",
+			"url": "https://t.co/OdmqeSa3gG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OdmqeSa3gG",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tRyfXqXdny",
+							"expanded_url": "https://social.ds106.us/@johnjohnston",
+							"display_url": "social.ds106.us/@johnjohnston",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3839,
+			"friends_count": 2678,
+			"listed_count": 258,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 6382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19744,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@wolfsmall I am not sure who was more surprised by my explanation, me or the policeman ;-)"
+	},
+	{
+		"created_at": "Wed Jan 11 20:51:30 +0000 2023",
+		"id": 1613277442373812200,
+		"id_str": "1613277442373812224",
+		"full_text": "Too Slow. New Year’s Day, I was driving home &amp; stopped by the police. I was going too slow. Asked why, I say, I was listening to a poem on the radio. Failing and Flying by Jack Gilbert, it was worth slowing down for. https://t.co/uHiSujpjTd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uHiSujpjTd",
+					"expanded_url": "https://www.poetryfoundation.org/poems/48132/failing-and-flying",
+					"display_url": "poetryfoundation.org/poems/48132/fa…",
+					"indices": [
+						221,
+						244
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://micro.blog/\" rel=\"nofollow\">Micro.blog</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, walks, fauna, flora, #ds106 #GlowBlogs Radio #Edutalk https://t.co/tRyfXqXdny",
+			"url": "https://t.co/OdmqeSa3gG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OdmqeSa3gG",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tRyfXqXdny",
+							"expanded_url": "https://social.ds106.us/@johnjohnston",
+							"display_url": "social.ds106.us/@johnjohnston",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3839,
+			"friends_count": 2678,
+			"listed_count": 258,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 6382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19744,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Too Slow. New Year’s Day, I was driving home &amp; stopped by the police. I was going too slow. Asked why, I say, I was listening to a poem on the radio. Failing and Flying by Jack Gilbert, it was worth slowing down for. https://t.co/uHiSujpjTd"
+	},
+	{
 		"created_at": "Tue Jan 10 05:47:59 +0000 2023",
 		"id": 1612687678973026300,
 		"id_str": "1612687678973026305",
