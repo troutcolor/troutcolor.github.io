@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Sat Jan 14 04:57:16 +0000 2023",
+		"id": 1613614856271184000,
+		"id_str": "1614124467185422337",
+		"full_text": "ASC label now allowing more parasites on factory farmed #salmon\n\nhttps://t.co/93UtEMFLyB\n\n@ASC_aqua @ciwf @philip_ciwf @jamieoliver @oceanrebellion @SusFoodTrust @sainsburys https://t.co/brEYMk7uMj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "salmon",
+					"indices": [
+						56,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ASC_aqua",
+					"name": "ASC",
+					"id": 365360994,
+					"id_str": "365360994",
+					"indices": [
+						90,
+						99
+					]
+				},
+				{
+					"screen_name": "ciwf",
+					"name": "Compassion in World Farming",
+					"id": 17177897,
+					"id_str": "17177897",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"screen_name": "philip_ciwf",
+					"name": "Philip Lymbery",
+					"id": 159146922,
+					"id_str": "159146922",
+					"indices": [
+						106,
+						118
+					]
+				},
+				{
+					"screen_name": "jamieoliver",
+					"name": "Jamie Oliver",
+					"id": 18676177,
+					"id_str": "18676177",
+					"indices": [
+						119,
+						131
+					]
+				},
+				{
+					"screen_name": "oceanrebellion",
+					"name": "Ocean Rebellion",
+					"id": 1292588427330949000,
+					"id_str": "1292588427330949122",
+					"indices": [
+						132,
+						147
+					]
+				},
+				{
+					"screen_name": "SusFoodTrust",
+					"name": "Sustainable Food Trust",
+					"id": 288955950,
+					"id_str": "288955950",
+					"indices": [
+						148,
+						161
+					]
+				},
+				{
+					"screen_name": "sainsburys",
+					"name": "Sainsbury's",
+					"id": 80685646,
+					"id_str": "80685646",
+					"indices": [
+						162,
+						173
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/93UtEMFLyB",
+					"expanded_url": "https://ecohustler.com/culture/asc-label-now-allowing-more-parasites-on-factory-farmed-salmon",
+					"display_url": "ecohustler.com/culture/asc-la…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1613614272537297000,
+					"id_str": "1613614272537296898",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FmS1oa8WAAIsQOX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmS1oa8WAAIsQOX.jpg",
+					"url": "https://t.co/brEYMk7uMj",
+					"display_url": "pic.twitter.com/brEYMk7uMj",
+					"expanded_url": "https://twitter.com/Ecohustler/status/1613614856271183872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1613614272537297000,
+					"id_str": "1613614272537296898",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FmS1oa8WAAIsQOX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmS1oa8WAAIsQOX.jpg",
+					"url": "https://t.co/brEYMk7uMj",
+					"display_url": "pic.twitter.com/brEYMk7uMj",
+					"expanded_url": "https://twitter.com/Ecohustler/status/1613614856271183872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47608778,
+			"id_str": "47608778",
+			"name": "Ecohustler",
+			"screen_name": "Ecohustler",
+			"location": "EARTH",
+			"description": "An ever-expanding galaxy of immersive, investigative, uncomfortable, and occasionally uncouth ecological news 🌎\n\nFounded at 386.95 ppm",
+			"url": "https://t.co/DmkfKyddRo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DmkfKyddRo",
+							"expanded_url": "https://ecohustler.com/",
+							"display_url": "ecohustler.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6362,
+			"friends_count": 1653,
+			"listed_count": 213,
+			"created_at": "Tue Jun 16 12:13:20 +0000 2009",
+			"favourites_count": 8005,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1115729091989331973/zwnDuBu6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115729091989331973/zwnDuBu6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47608778/1554845422",
+			"profile_link_color": "3F8A21",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "97BF28",
+			"profile_text_color": "CCC321",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 249,
+		"favorite_count": 111,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ASC label now allowing more parasites on factory farmed #salmon\n\nhttps://t.co/93UtEMFLyB\n\n@ASC_aqua @ciwf @philip_ciwf @jamieoliver @oceanrebellion @SusFoodTrust @sainsburys https://t.co/brEYMk7uMj"
+	},
+	{
 		"created_at": "Fri Jan 13 17:26:43 +0000 2023",
 		"id": 1613950684814000000,
 		"id_str": "1613950684814000128",
