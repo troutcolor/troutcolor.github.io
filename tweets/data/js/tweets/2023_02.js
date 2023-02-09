@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Wed Feb 08 20:06:26 +0000 2023",
+		"id": 1623412961183252500,
+		"id_str": "1623412961183252484",
+		"full_text": "@ds106dc @Twitter #tdc4044 #ds106 \nFollow the Elephant https://t.co/591q6cSGBr",
+		"truncated": false,
+		"display_text_range": [
+			18,
+			54
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tdc4044",
+					"indices": [
+						18,
+						26
+					]
+				},
+				{
+					"text": "ds106",
+					"indices": [
+						27,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ds106dc",
+					"name": "ds106 Daily Create",
+					"id": 995562187,
+					"id_str": "995562187",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						9,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1623412440833618000,
+					"id_str": "1623412440833617922",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FoeFA4PWcAIcbBL.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoeFA4PWcAIcbBL.jpg",
+					"url": "https://t.co/591q6cSGBr",
+					"display_url": "pic.twitter.com/591q6cSGBr",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1623412961183252484/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 150,
+							"h": 124,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 150,
+							"h": 124,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 124,
+							"h": 124,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 150,
+							"h": 124,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1623412440833618000,
+					"id_str": "1623412440833617922",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FoeFA4PWcAIcbBL.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoeFA4PWcAIcbBL.jpg",
+					"url": "https://t.co/591q6cSGBr",
+					"display_url": "pic.twitter.com/591q6cSGBr",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1623412961183252484/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 150,
+							"h": 124,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 150,
+							"h": 124,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 124,
+							"h": 124,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 150,
+							"h": 124,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							75,
+							62
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FoeFA4PWcAIcbBL.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1623267809772855300,
+		"in_reply_to_status_id_str": "1623267809772855297",
+		"in_reply_to_user_id": 995562187,
+		"in_reply_to_user_id_str": "995562187",
+		"in_reply_to_screen_name": "ds106dc",
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, walks, fauna, flora, #ds106 #GlowBlogs Radio #Edutalk https://t.co/tRyfXqXdny",
+			"url": "https://t.co/OdmqeSa3gG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OdmqeSa3gG",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tRyfXqXdny",
+							"expanded_url": "https://social.ds106.us/@johnjohnston",
+							"display_url": "social.ds106.us/@johnjohnston",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3835,
+			"friends_count": 2673,
+			"listed_count": 258,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 6353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ds106dc @Twitter #tdc4044 #ds106 \nFollow the Elephant https://t.co/591q6cSGBr"
+	},
+	{
 		"created_at": "Mon Feb 06 19:52:57 +0000 2023",
 		"id": 1622684791878390000,
 		"id_str": "1622684791878389982",
