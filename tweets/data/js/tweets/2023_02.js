@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Thu Feb 09 17:08:53 +0000 2023",
+		"id": 1623683309292163000,
+		"id_str": "1623730666947985408",
+		"full_text": "Microsoft has reminded users that they will be retiring the Teams mobile support on iOS version 14. This process will start on March 1 2023 and complete by March 7 2023. Microsoft recommend that users upgrade to newer iOS builds i.e.  iOS 15 and above.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2912429973,
+			"id_str": "2912429973",
+			"name": "Glow Scot",
+			"screen_name": "GlowScot",
+			"location": "Scotland",
+			"description": "Interested in Digital Learning and Teaching? So are we! This is the national Twitter account for Glow, Scotland's online environment for learning.",
+			"url": "https://t.co/JOnBEWBELo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JOnBEWBELo",
+							"expanded_url": "https://glowconnect.org.uk/",
+							"display_url": "glowconnect.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21193,
+			"friends_count": 1371,
+			"listed_count": 125,
+			"created_at": "Tue Dec 09 09:39:02 +0000 2014",
+			"favourites_count": 7694,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/542261038574358528/PUswggVZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/542261038574358528/PUswggVZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2912429973/1521453812",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Microsoft has reminded users that they will be retiring the Teams mobile support on iOS version 14. This process will start on March 1 2023 and complete by March 7 2023. Microsoft recommend that users upgrade to newer iOS builds i.e.  iOS 15 and above."
+	},
+	{
 		"created_at": "Wed Feb 08 20:06:26 +0000 2023",
 		"id": 1623412961183252500,
 		"id_str": "1623412961183252484",
