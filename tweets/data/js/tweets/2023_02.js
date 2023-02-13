@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Sun Feb 12 20:51:53 +0000 2023",
+		"id": 1624873953251541000,
+		"id_str": "1624873953251540993",
+		"full_text": "First walk in a while over a couple of Glen Finlas hills. Even though we cut it short I was pretty puffed on the up! Saw my first snow bunting in the clouds.\n\nNotes &amp; photos: walkmap https://t.co/CDbMI23WdR https://t.co/jDEkYl7zrU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CDbMI23WdR",
+					"expanded_url": "http://johnjohnston.info/walks/maps.html?f=72177720305970859&m=2023-02012-Finlas.gpx",
+					"display_url": "johnjohnston.info/walks/maps.htm…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1624873950122586000,
+					"id_str": "1624873950122586118",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/Foy2P6nXsAYejSz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Foy2P6nXsAYejSz.jpg",
+					"url": "https://t.co/jDEkYl7zrU",
+					"display_url": "pic.twitter.com/jDEkYl7zrU",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1624873953251540993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1624873950122586000,
+					"id_str": "1624873950122586118",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/Foy2P6nXsAYejSz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Foy2P6nXsAYejSz.jpg",
+					"url": "https://t.co/jDEkYl7zrU",
+					"display_url": "pic.twitter.com/jDEkYl7zrU",
+					"expanded_url": "https://twitter.com/johnjohnston/status/1624873953251540993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://micro.blog/\" rel=\"nofollow\">Micro.blog</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, walks, fauna, flora, #ds106 #GlowBlogs Radio #Edutalk https://t.co/tRyfXqXdny",
+			"url": "https://t.co/OdmqeSa3gG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OdmqeSa3gG",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tRyfXqXdny",
+							"expanded_url": "https://social.ds106.us/@johnjohnston",
+							"display_url": "social.ds106.us/@johnjohnston",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3834,
+			"friends_count": 2673,
+			"listed_count": 258,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 6353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "First walk in a while over a couple of Glen Finlas hills. Even though we cut it short I was pretty puffed on the up! Saw my first snow bunting in the clouds.\n\nNotes &amp; photos: walkmap https://t.co/CDbMI23WdR https://t.co/jDEkYl7zrU"
+	},
+	{
 		"created_at": "Thu Feb 09 17:08:53 +0000 2023",
 		"id": 1623683309292163000,
 		"id_str": "1623730666947985408",
