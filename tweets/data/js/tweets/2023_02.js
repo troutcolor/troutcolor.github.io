@@ -1,6 +1,356 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Wed Feb 22 22:12:05 +0000 2023",
+		"id": 1628518012214038500,
+		"id_str": "1628518012214038528",
+		"full_text": "Really proud of @cmdjohnston who edit produced an episode of this series. https://t.co/ipt3ZdnZcV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cmdjohnston",
+					"name": "Christine Johnston",
+					"id": 500161865,
+					"id_str": "500161865",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ipt3ZdnZcV",
+					"expanded_url": "https://twitter.com/ouscotland/status/1627627939293540354",
+					"display_url": "twitter.com/ouscotland/sta…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, walks, fauna, flora, #ds106 #GlowBlogs Radio #Edutalk https://t.co/tRyfXqXdny",
+			"url": "https://t.co/OdmqeSa3gG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OdmqeSa3gG",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tRyfXqXdny",
+							"expanded_url": "https://social.ds106.us/@johnjohnston",
+							"display_url": "social.ds106.us/@johnjohnston",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3833,
+			"friends_count": 2672,
+			"listed_count": 257,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 6353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19771,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1627627939293540400,
+		"quoted_status_id_str": "1627627939293540354",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ipt3ZdnZcV",
+			"expanded": "https://twitter.com/ouscotland/status/1627627939293540354",
+			"display": "twitter.com/ouscotland/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 20 11:15:15 +0000 2023",
+			"id": 1627627939293540400,
+			"id_str": "1627627939293540354",
+			"full_text": "The much-anticipated series, The Women Who Changed Modern Scotland, airs this week on @BBCScotland\n\nThis three-part series, produced in partnership with @OpenUniversity, tells the story of women who had a role in shaping Scotland over the last 50 years\n\nhttps://t.co/TPobvHT3te https://t.co/PhIEpzYg1x",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BBCScotland",
+						"name": "BBC Scotland",
+						"id": 622133,
+						"id_str": "622133",
+						"indices": [
+							86,
+							98
+						]
+					},
+					{
+						"screen_name": "OpenUniversity",
+						"name": "The Open University",
+						"id": 14049061,
+						"id_str": "14049061",
+						"indices": [
+							153,
+							168
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/TPobvHT3te",
+						"expanded_url": "http://ow.ly/IOqt50MWNzz",
+						"display_url": "ow.ly/IOqt50MWNzz",
+						"indices": [
+							254,
+							277
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1627627935820652500,
+						"id_str": "1627627935820652544",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/FpZ---0XoAAefXx.png",
+						"media_url_https": "https://pbs.twimg.com/media/FpZ---0XoAAefXx.png",
+						"url": "https://t.co/PhIEpzYg1x",
+						"display_url": "pic.twitter.com/PhIEpzYg1x",
+						"expanded_url": "https://twitter.com/OUScotland/status/1627627939293540354/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 700,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 389,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1627627935820652500,
+						"id_str": "1627627935820652544",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/FpZ---0XoAAefXx.png",
+						"media_url_https": "https://pbs.twimg.com/media/FpZ---0XoAAefXx.png",
+						"url": "https://t.co/PhIEpzYg1x",
+						"display_url": "pic.twitter.com/PhIEpzYg1x",
+						"expanded_url": "https://twitter.com/OUScotland/status/1627627939293540354/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 700,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 389,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 343379614,
+				"id_str": "343379614",
+				"name": "OU in Scotland",
+				"screen_name": "OUScotland",
+				"location": "Scotland, United Kingdom",
+				"description": "Open University in Scotland news & events. Study help at Scotland@open.ac.uk / 0131 226 3851 / 0300 303 5303 / https://t.co/ZDNrXOCxOi. UK-wide items at @OpenUniversity",
+				"url": "https://t.co/EA03AmhrLh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EA03AmhrLh",
+								"expanded_url": "https://www.open.ac.uk/scotland/",
+								"display_url": "open.ac.uk/scotland/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ZDNrXOCxOi",
+								"expanded_url": "http://help.open.ac.uk",
+								"display_url": "help.open.ac.uk",
+								"indices": [
+									111,
+									134
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7649,
+				"friends_count": 841,
+				"listed_count": 116,
+				"created_at": "Wed Jul 27 13:51:33 +0000 2011",
+				"favourites_count": 5530,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14709,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1538806031802896384/q76pylKW_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1538806031802896384/q76pylKW_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/343379614/1655714953",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 45,
+			"favorite_count": 124,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Really proud of @cmdjohnston who edit produced an episode of this series. https://t.co/ipt3ZdnZcV"
+	},
+	{
 		"created_at": "Mon Feb 20 08:35:10 +0000 2023",
 		"id": 1627580320903225300,
 		"id_str": "1627587654492495873",
