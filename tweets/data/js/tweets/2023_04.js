@@ -1,6 +1,271 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Fri Apr 07 17:31:44 +0000 2023",
+		"id": 1644392527062081500,
+		"id_str": "1644392527062081536",
+		"full_text": "Looking forward to watching this. https://t.co/Ofm9R0mprT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ofm9R0mprT",
+					"expanded_url": "https://twitter.com/cmdjohnston/status/1644380776534794240",
+					"display_url": "twitter.com/cmdjohnston/st…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, walks, fauna, flora, #ds106 #GlowBlogs Radio #Edutalk https://t.co/tRyfXqXdny",
+			"url": "https://t.co/OdmqeSa3gG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OdmqeSa3gG",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tRyfXqXdny",
+							"expanded_url": "https://social.ds106.us/@johnjohnston",
+							"display_url": "social.ds106.us/@johnjohnston",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3826,
+			"friends_count": 2674,
+			"listed_count": 257,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 6373,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1644380776534794200,
+		"quoted_status_id_str": "1644380776534794240",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ofm9R0mprT",
+			"expanded": "https://twitter.com/cmdjohnston/status/1644380776534794240",
+			"display": "twitter.com/cmdjohnston/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 07 16:45:02 +0000 2023",
+			"id": 1644380776534794200,
+			"id_str": "1644380776534794240",
+			"full_text": "Loved filming and directing this upcoming documentary following two amazing people - Natalie and Stevie Ray - amazing working with @StoryboardTVUK  @SpeckyProducti1 thank you @BBCScotland and @screenscots https://t.co/FsPp3oeOft",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				204
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "StoryboardTVUK",
+						"name": "Storyboard Studios",
+						"id": 1354457828245840000,
+						"id_str": "1354457828245839873",
+						"indices": [
+							131,
+							146
+						]
+					},
+					{
+						"screen_name": "SpeckyProducti1",
+						"name": "Specky Productions",
+						"id": 1381931942531174400,
+						"id_str": "1381931942531174409",
+						"indices": [
+							148,
+							164
+						]
+					},
+					{
+						"screen_name": "BBCScotland",
+						"name": "BBC Scotland",
+						"id": 622133,
+						"id_str": "622133",
+						"indices": [
+							175,
+							187
+						]
+					},
+					{
+						"screen_name": "screenscots",
+						"name": "Screen Scotland",
+						"id": 971681379103727600,
+						"id_str": "971681379103727616",
+						"indices": [
+							192,
+							204
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/FsPp3oeOft",
+						"expanded_url": "https://twitter.com/screenscots/status/1643572388972429317",
+						"display_url": "twitter.com/screenscots/st…",
+						"indices": [
+							205,
+							228
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 500161865,
+				"id_str": "500161865",
+				"name": "Christine Johnston",
+				"screen_name": "cmdjohnston",
+				"location": "Glasgow",
+				"description": "Producer/Director. Glasgow. All views my own etc etc",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 171,
+				"friends_count": 607,
+				"listed_count": 1,
+				"created_at": "Wed Feb 22 21:27:33 +0000 2012",
+				"favourites_count": 2576,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 625,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1389292153696890884/-Sn1guCY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389292153696890884/-Sn1guCY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/500161865/1403041031",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1643572388972429300,
+			"quoted_status_id_str": "1643572388972429317",
+			"quoted_status_permalink": {
+				"url": "https://t.co/FsPp3oeOft",
+				"expanded": "https://twitter.com/screenscots/status/1643572388972429317",
+				"display": "twitter.com/screenscots/st…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking forward to watching this. https://t.co/Ofm9R0mprT"
+	},
+	{
 		"created_at": "Thu Apr 06 20:31:00 +0000 2023",
 		"id": 1643584830485962800,
 		"id_str": "1644075252505354241",
