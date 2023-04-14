@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Thu Apr 13 17:50:07 +0000 2023",
+		"id": 1646465055133773800,
+		"id_str": "1646571480228962308",
+		"full_text": "Key workers went from heroes to villains in the space of two years. The Westminster Tory Government is capping your right to strike, where once they clapped your service on their doorsteps.\n\nEmail your MP &amp; sign the petition to protect the right to strike:\nhttps://t.co/Q0lq8WFiTA https://t.co/VDVhWnBsQq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q0lq8WFiTA",
+					"expanded_url": "https://www.nasuwt.org.uk/news/campaigns/protect-the-right-to-strike.html",
+					"display_url": "nasuwt.org.uk/news/campaigns…",
+					"indices": [
+						261,
+						284
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1646464632213717000,
+					"id_str": "1646464632213716994",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/Ftlq3BJXwAIh6gg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ftlq3BJXwAIh6gg.jpg",
+					"url": "https://t.co/VDVhWnBsQq",
+					"display_url": "pic.twitter.com/VDVhWnBsQq",
+					"expanded_url": "https://twitter.com/NASUWT_Scotland/status/1646465055133773825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 227,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1646464632213717000,
+					"id_str": "1646464632213716994",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/Ftlq3BJXwAIh6gg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ftlq3BJXwAIh6gg.jpg",
+					"url": "https://t.co/VDVhWnBsQq",
+					"display_url": "pic.twitter.com/VDVhWnBsQq",
+					"expanded_url": "https://twitter.com/NASUWT_Scotland/status/1646465055133773825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 227,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 317658328,
+			"id_str": "317658328",
+			"name": "NASUWT Scotland",
+			"screen_name": "NASUWT_Scotland",
+			"location": "35 Young Street, EH2 4JD",
+			"description": "The NASUWT is the Teachers’ Union, representing teachers and school leaders in all sectors of education.  Also on Facebook and Instagram.",
+			"url": "https://t.co/a5npTmjt1c",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a5npTmjt1c",
+							"expanded_url": "http://www.nasuwt.org.uk",
+							"display_url": "nasuwt.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2377,
+			"friends_count": 680,
+			"listed_count": 19,
+			"created_at": "Wed Jun 15 08:22:58 +0000 2011",
+			"favourites_count": 1726,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1579414571814686721/SWphijvX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1579414571814686721/SWphijvX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/317658328/1668866801",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Key workers went from heroes to villains in the space of two years. The Westminster Tory Government is capping your right to strike, where once they clapped your service on their doorsteps.\n\nEmail your MP &amp; sign the petition to protect the right to strike:\nhttps://t.co/Q0lq8WFiTA https://t.co/VDVhWnBsQq"
+	},
+	{
 		"created_at": "Wed Apr 12 10:07:10 +0000 2023",
 		"id": 1646092587944517600,
 		"id_str": "1646092587944517632",
