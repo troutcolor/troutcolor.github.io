@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sat Apr 22 17:35:46 +0000 2023",
+		"id": 1649829362089197600,
+		"id_str": "1649829362089197574",
+		"full_text": "One for secondary colleagues. would be interested in findings, even though I am primary 1-2-1 iPad teacher. @NLDigitalSchool https://t.co/KJXHbWUMIv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NLDigitalSchool",
+					"name": "Digital Learning and Teaching NL",
+					"id": 1132668651226763300,
+					"id_str": "1132668651226763270",
+					"indices": [
+						108,
+						124
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KJXHbWUMIv",
+					"expanded_url": "https://twitter.com/mconlon68/status/1649740050911952896",
+					"display_url": "twitter.com/mconlon68/stat…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7484192,
+			"id_str": "7484192",
+			"name": "john johnston",
+			"screen_name": "johnjohnston",
+			"location": "Glasgow, UK",
+			"description": "Teacher, @banton_pr, ADE, blogging, podcasting, rss, web, mac, walks, fauna, flora, #ds106 #GlowBlogs Radio #Edutalk https://t.co/tRyfXqXdny",
+			"url": "https://t.co/OdmqeSa3gG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OdmqeSa3gG",
+							"expanded_url": "http://johnjohnston.info/blog/",
+							"display_url": "johnjohnston.info/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tRyfXqXdny",
+							"expanded_url": "https://social.ds106.us/@johnjohnston",
+							"display_url": "social.ds106.us/@johnjohnston",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3819,
+			"friends_count": 2671,
+			"listed_count": 257,
+			"created_at": "Sun Jul 15 09:03:32 +0000 2007",
+			"favourites_count": 6369,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764409646526427136/wENlgXJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7484192/1380997488",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1649740050911953000,
+		"quoted_status_id_str": "1649740050911952896",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KJXHbWUMIv",
+			"expanded": "https://twitter.com/mconlon68/status/1649740050911952896",
+			"display": "twitter.com/mconlon68/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 22 11:40:53 +0000 2023",
+			"id": 1649740050911953000,
+			"id_str": "1649740050911952896",
+			"full_text": "I’d be really pleased if my digital colleagues would consider completing and sharing this as it helps informs the body of knowledge we have about impact of technology. @inspireSBC @ConnectedFalk @XMALearning @AberdeenshireLL @DigiLearnEdin https://t.co/eNSWj8ciGb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				239
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "inspireSBC",
+						"name": "Inspire Learning",
+						"id": 1179057243603509200,
+						"id_str": "1179057243603509250",
+						"indices": [
+							168,
+							179
+						]
+					},
+					{
+						"screen_name": "ConnectedFalk",
+						"name": "Connected Falkirk",
+						"id": 1259870196954734600,
+						"id_str": "1259870196954734592",
+						"indices": [
+							180,
+							194
+						]
+					},
+					{
+						"screen_name": "XMALearning",
+						"name": "The XMA Learning Team",
+						"id": 1060126670982692900,
+						"id_str": "1060126670982692864",
+						"indices": [
+							195,
+							207
+						]
+					},
+					{
+						"screen_name": "AberdeenshireLL",
+						"name": "Love Learning Aberdeenshire",
+						"id": 1519222868088922000,
+						"id_str": "1519222868088922112",
+						"indices": [
+							208,
+							224
+						]
+					},
+					{
+						"screen_name": "DigiLearnEdin",
+						"name": "Edinburgh Learns DIGITAL",
+						"id": 1442841339796861000,
+						"id_str": "1442841339796860932",
+						"indices": [
+							225,
+							239
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/eNSWj8ciGb",
+						"expanded_url": "https://twitter.com/christinecouser/status/1649734593271025665",
+						"display_url": "twitter.com/christinecouse…",
+						"indices": [
+							240,
+							263
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 478763254,
+				"id_str": "478763254",
+				"name": "Michael Conlon",
+				"screen_name": "mconlon68",
+				"location": "Perth, Scotland",
+				"description": "Transformation Consultant XMA, formerly EdScot, PKC & GCC , Apple Professional Learning Specialist, MIE Expert 2020-21, Google CE L1&2, Seesaw Ambassador",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2023,
+				"friends_count": 1253,
+				"listed_count": 41,
+				"created_at": "Mon Jan 30 16:53:34 +0000 2012",
+				"favourites_count": 6254,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3823,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1402008143069171724/ooCO9iUv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402008143069171724/ooCO9iUv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/478763254/1579293141",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1649734593271025700,
+			"quoted_status_id_str": "1649734593271025665",
+			"quoted_status_permalink": {
+				"url": "https://t.co/eNSWj8ciGb",
+				"expanded": "https://twitter.com/christinecouser/status/1649734593271025665",
+				"display": "twitter.com/christinecouse…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One for secondary colleagues. would be interested in findings, even though I am primary 1-2-1 iPad teacher. @NLDigitalSchool https://t.co/KJXHbWUMIv"
+	},
+	{
 		"created_at": "Fri Apr 21 16:29:15 +0000 2023",
 		"id": 1649450231044489200,
 		"id_str": "1649450231044489216",
