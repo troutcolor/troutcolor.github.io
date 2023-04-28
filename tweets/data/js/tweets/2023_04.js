@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Thu Apr 27 08:18:10 +0000 2023",
+		"id": 1651481519104376800,
+		"id_str": "1651500975704686593",
+		"full_text": "Remember copyright rules apply on #GlowScot. Before posting material anywhere in Glow, including on Glow Blogs, make sure that you have the permission of the copyright holder. https://t.co/dk9Yggphuh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GlowScot",
+					"indices": [
+						34,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1651481517502218200,
+					"id_str": "1651481517502218241",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/Fus9sLPXwAEB9_k.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fus9sLPXwAEB9_k.png",
+					"url": "https://t.co/dk9Yggphuh",
+					"display_url": "pic.twitter.com/dk9Yggphuh",
+					"expanded_url": "https://twitter.com/GlowScot/status/1651481519104376833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 673,
+							"h": 416,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 673,
+							"h": 416,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 673,
+							"h": 416,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1651481517502218200,
+					"id_str": "1651481517502218241",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/Fus9sLPXwAEB9_k.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fus9sLPXwAEB9_k.png",
+					"url": "https://t.co/dk9Yggphuh",
+					"display_url": "pic.twitter.com/dk9Yggphuh",
+					"expanded_url": "https://twitter.com/GlowScot/status/1651481519104376833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 673,
+							"h": 416,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 673,
+							"h": 416,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 673,
+							"h": 416,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2912429973,
+			"id_str": "2912429973",
+			"name": "Glow Scot",
+			"screen_name": "GlowScot",
+			"location": "Scotland",
+			"description": "Interested in Digital Learning and Teaching? So are we! This is the national Twitter account for Glow, Scotland's online environment for learning.",
+			"url": "https://t.co/JOnBEWBELo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JOnBEWBELo",
+							"expanded_url": "https://glowconnect.org.uk/",
+							"display_url": "glowconnect.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21299,
+			"friends_count": 1370,
+			"listed_count": 125,
+			"created_at": "Tue Dec 09 09:39:02 +0000 2014",
+			"favourites_count": 7827,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/542261038574358528/PUswggVZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/542261038574358528/PUswggVZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2912429973/1521453812",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Remember copyright rules apply on #GlowScot. Before posting material anywhere in Glow, including on Glow Blogs, make sure that you have the permission of the copyright holder. https://t.co/dk9Yggphuh"
+	},
+	{
 		"created_at": "Sun Apr 23 15:34:06 +0000 2023",
 		"id": 1650161129715376000,
 		"id_str": "1650161129715376128",
