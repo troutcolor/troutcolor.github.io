@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Thu May 25 07:12:19 +0000 2023",
+		"id": 1661628313847181300,
+		"id_str": "1661631262405083137",
+		"full_text": "Do you have a Glow Blog? Most likely the answer is yes! Glow Blogs is one of the most popular services in Glow with over 500 new blogs created each month. Next week we’ll be sharing lots of tips to help you get the most out of Glow Blogs! https://t.co/NdUfz5vlNc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1661628312005881900,
+					"id_str": "1661628312005881857",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/Fw9KJWXXsAEkTrx.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fw9KJWXXsAEkTrx.png",
+					"url": "https://t.co/NdUfz5vlNc",
+					"display_url": "pic.twitter.com/NdUfz5vlNc",
+					"expanded_url": "https://twitter.com/GlowScot/status/1661628313847181316/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1661628312005881900,
+					"id_str": "1661628312005881857",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/Fw9KJWXXsAEkTrx.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fw9KJWXXsAEkTrx.png",
+					"url": "https://t.co/NdUfz5vlNc",
+					"display_url": "pic.twitter.com/NdUfz5vlNc",
+					"expanded_url": "https://twitter.com/GlowScot/status/1661628313847181316/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2912429973,
+			"id_str": "2912429973",
+			"name": "Glow Scot",
+			"screen_name": "GlowScot",
+			"location": "Scotland",
+			"description": "Interested in Digital Learning and Teaching? So are we! This is the national Twitter account for Glow, Scotland's online environment for learning.",
+			"url": "https://t.co/JOnBEWBELo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JOnBEWBELo",
+							"expanded_url": "https://glowconnect.org.uk/",
+							"display_url": "glowconnect.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21302,
+			"friends_count": 1368,
+			"listed_count": 122,
+			"created_at": "Tue Dec 09 09:39:02 +0000 2014",
+			"favourites_count": 7873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/542261038574358528/PUswggVZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/542261038574358528/PUswggVZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2912429973/1521453812",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do you have a Glow Blog? Most likely the answer is yes! Glow Blogs is one of the most popular services in Glow with over 500 new blogs created each month. Next week we’ll be sharing lots of tips to help you get the most out of Glow Blogs! https://t.co/NdUfz5vlNc"
+	},
+	{
 		"created_at": "Sun May 21 19:34:44 +0000 2023",
 		"id": 1660368545388085200,
 		"id_str": "1660368545388085254",
